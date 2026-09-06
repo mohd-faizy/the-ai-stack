@@ -116,14 +116,14 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) — Efficient local LLM inference in C/C++.
 * [vLLM](https://github.com/vllm-project/vllm) — High-throughput LLM serving engine.
-* [DeepSpeed](https://github.com/microsoft/DeepSpeed) — Deep learning optimization and distributed training.
+* [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — Deep learning optimization and distributed training.
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) — Large-scale transformer training.
 * [Ollama](https://github.com/ollama/ollama) — Run LLMs locally with one command.
 
 ### Generative AI Essentials
 
 * [Diffusers](https://github.com/huggingface/diffusers) — Diffusion models for images, audio, and 3D.
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — Modular node-based generative AI workflows.
+* [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Modular node-based generative AI workflows.
 * [FLUX.1](https://github.com/black-forest-labs/flux) — Next-generation open-weights image generation foundation model.
 * [Dify](https://github.com/langgenius/dify) — Production-grade LLM app development and visual workflow platform.
 * [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Most popular web interface for local image generation.
@@ -131,7 +131,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ### Agent Essentials
 
 * [LangGraph](https://github.com/langchain-ai/langgraph) — Stateful, multi-actor agent orchestration framework.
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Autonomous AI software development and computer-use agent.
+* [OpenHands](https://github.com/OpenHands/OpenHands) — Autonomous AI software development and computer-use agent.
 * [CrewAI](https://github.com/crewAIInc/crewAI) — Multi-agent role-playing orchestration framework.
 * [AutoGen](https://github.com/microsoft/autogen) — Multi-agent conversational and event-driven framework by Microsoft.
 * [PydanticAI](https://github.com/pydantic/pydantic-ai) — Model-agnostic, production-ready agent framework with Python type safety.
@@ -199,12 +199,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) — General-purpose machine learning in Python.
 * [XGBoost](https://github.com/dmlc/xgboost) — Scalable gradient boosting.
-* [LightGBM](https://github.com/microsoft/LightGBM) — Fast gradient boosting framework.
+* [LightGBM](https://github.com/lightgbm-org/LightGBM) — Fast gradient boosting framework.
 * [CatBoost](https://github.com/catboost/catboost) — Gradient boosting library with native categorical support.
 * [H2O](https://github.com/h2oai/h2o-3) — Open-source distributed machine learning platform.
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) — Fast online learning system.
 * [River](https://github.com/online-ml/river) — Online machine learning in Python.
-* [RAPIDS cuML](https://github.com/rapidsai/cuml) — GPU-accelerated machine learning.
+* [RAPIDS cuML](https://github.com/NVIDIA/cuml) — GPU-accelerated machine learning.
 * [MLlib](https://github.com/apache/spark) — Apache Spark's distributed ML library.
 * [Shogun](https://github.com/shogun-toolbox/shogun) — Unified machine learning framework.
 
@@ -229,7 +229,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [StatsForecast](https://github.com/Nixtla/statsforecast) — Lightning fast statistical forecasting.
 * [tsai](https://github.com/timeseriesAI/tsai) — State-of-the-art deep learning for time series.
 * [Kats](https://github.com/facebookresearch/Kats) — Time series analysis toolkit by Meta.
-* [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting) — Time series forecasting with PyTorch.
+* [PyTorch Forecasting](https://github.com/sktime/pytorch-forecasting) — Time series forecasting with PyTorch.
 * [Merlion](https://github.com/salesforce/Merlion) — Time series intelligence by Salesforce.
 * [TimesFM](https://github.com/google-research/timesfm) — Time series foundation model by Google.
 
@@ -247,7 +247,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [PyOD](https://github.com/yzhao062/pyod) — Outlier detection in Python.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) — Outlier, adversarial, and drift detection.
-* [Anomalib](https://github.com/openvinotoolkit/anomalib) — Deep learning anomaly detection.
+* [Anomalib](https://github.com/open-edge-platform/anomalib) — Deep learning anomaly detection.
 * [ADTK](https://github.com/arundo/adtk) — Anomaly detection in time series.
 
 ## Clustering
@@ -283,7 +283,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Distributed Training
 
-* [DeepSpeed](https://github.com/microsoft/DeepSpeed) — Deep learning optimization library.
+* [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — Deep learning optimization library.
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) — Large-scale transformer model training.
 * [Horovod](https://github.com/horovod/horovod) — Distributed deep learning made easy.
 * [Accelerate](https://github.com/huggingface/accelerate) — Simple distributed training abstraction.
@@ -300,7 +300,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) — Machine learning metrics for PyTorch.
 * [torchinfo](https://github.com/TylerYep/torchinfo) — Detailed model summaries for PyTorch.
 * [torch-lr-finder](https://github.com/davidtvs/pytorch-lr-finder) — Learning rate range test for PyTorch.
-* [Hydra](https://github.com/facebookresearch/hydra) — Elegant configuration management framework.
+* [Hydra](https://github.com/hydra-ecosystem/hydra) — Elegant configuration management framework.
 * [OmegaConf](https://github.com/omry/omegaconf) — Hierarchical configuration system.
 * [torchvision](https://github.com/pytorch/vision) — Datasets, transforms, and models for computer vision.
 * [torchaudio](https://github.com/pytorch/audio) — Audio processing for PyTorch.
@@ -355,7 +355,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Tesseract](https://github.com/tesseract-ocr/tesseract) — Open-source OCR engine.
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) — Ready-to-use OCR with 80+ languages.
 * [docTR](https://github.com/mindee/doctr) — Document text recognition.
-* [Surya](https://github.com/VikParuchuri/surya) — Document OCR in 90+ languages.
+* [Surya](https://github.com/datalab-to/surya) — Document OCR in 90+ languages.
 * [TrOCR](https://github.com/microsoft/unilm) — Transformer-based OCR.
 
 ## Pose Estimation
@@ -379,7 +379,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [MMAction2](https://github.com/open-mmlab/mmaction2) — Video understanding toolbox.
 * [SlowFast](https://github.com/facebookresearch/SlowFast) — Video recognition models.
 * [PyTracking](https://github.com/visionml/pytracking) — Visual tracking library.
-* [ByteTrack](https://github.com/ifzhang/ByteTrack) — Multi-object tracking.
+* [ByteTrack](https://github.com/FoundationVision/ByteTrack) — Multi-object tracking.
 * [Norfair](https://github.com/tryolabs/norfair) — Lightweight object tracking.
 * [supervision](https://github.com/roboflow/supervision) — Computer vision tools for detection, tracking, and annotation.
 
@@ -529,14 +529,14 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [MiniGrid](https://github.com/Farama-Foundation/Minigrid) — Minimalistic gridworld environments.
 * [dm_control](https://github.com/google-deepmind/dm_control) — DeepMind control suite.
 * [Brax](https://github.com/google/brax) — Differentiable physics simulation in JAX.
-* [Isaac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) — GPU-accelerated RL environments.
+* [Isaac Gym](https://github.com/isaac-sim/IsaacGymEnvs) — GPU-accelerated RL environments.
 * [Craftax](https://github.com/MichaelTMatthews/Craftax) — Fast JAX-based Minecraft-like RL environment.
 
 ## RLHF & Preference Learning
 
 * [TRL](https://github.com/huggingface/trl) — Transformer reinforcement learning for RLHF, DPO, and more.
 * [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) — Scalable RLHF framework.
-* [DeepSpeed-Chat](https://github.com/microsoft/DeepSpeed) — Full RLHF pipeline for large models.
+* [DeepSpeed-Chat](https://github.com/deepspeedai/DeepSpeed) — Full RLHF pipeline for large models.
 * [OAIF](https://github.com/tatsu-lab/alpaca_eval) — Online AI feedback evaluation.
 * [RewardBench](https://github.com/allenai/reward-bench) — Benchmark for reward models.
 
@@ -560,7 +560,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Generative Model Frameworks & Toolkits
 
 * [Hugging Face Diffusers](https://github.com/huggingface/diffusers) — State-of-the-art diffusion models for image, audio, and video synthesis.
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — Modular, node-based generative AI workflow engine and interface.
+* [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Modular, node-based generative AI workflow engine and interface.
 * [AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Most popular web interface for Stable Diffusion.
 * [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) — High-performance backend engine for Stable Diffusion WebUI.
 * [Fooocus](https://github.com/lllyasviel/Fooocus) — Minimalist, Midjourney-style image generation platform with automated prompting.
@@ -575,7 +575,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [SDXL](https://github.com/Stability-AI/generative-models) — Stable Diffusion XL flagship open-weights latent diffusion model.
 * [Stable Diffusion](https://github.com/CompVis/stable-diffusion) — Original latent text-to-image diffusion architecture.
 * [PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) — 4K text-to-image diffusion transformer with weak-to-strong training.
-* [AuraFlow](https://github.com/fal-ai/aura-flow) — Fully open-source 6.8B parameter rectified flow text-to-image model.
+* [AuraFlow](https://huggingface.co/fal/AuraFlow) — Fully open-source 6.8B parameter rectified flow text-to-image model.
 * [Sana](https://github.com/NVlabs/Sana) — Efficient 4K high-resolution image synthesis with linear attention by NVIDIA.
 * [DeepFloyd IF](https://github.com/deep-floyd/IF) — Cascaded pixel-space text-to-image diffusion model with deep language comprehension.
 * [Kandinsky 3](https://github.com/ai-forever/Kandinsky-3) — Large-scale multilingual text-to-image generative model.
@@ -585,15 +585,15 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Diffusion Transformers (DiT)
 
 * [DiT](https://github.com/facebookresearch/DiT) — Scalable diffusion models with transformers by Meta AI.
-* [FastDiT](https://github.com/hpcaitech/FastDiT) — Accelerated training and inference for diffusion transformers.
+* [FastDiT](https://github.com/DiT-3D/FastDiT-3D) — Accelerated training and inference for diffusion transformers.
 * [Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) — Unified diffusion transformer family for multimodal generative tasks.
-* [HunyuanDiT](https://github.com/Tencent/HunyuanDiT) — Multi-resolution text-to-image diffusion transformer with fine-grained bilingual understanding.
+* [HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) — Multi-resolution text-to-image diffusion transformer with fine-grained bilingual understanding.
 
 ## Video Generation Models & Frameworks
 
 * [Wan 2.1](https://github.com/Wan-Video/Wan2.1) — Comprehensive open video generation model family with 14B and 1.3B parameters.
-* [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) — 13B parameter foundation video generation model by Tencent.
-* [CogVideoX](https://github.com/THUDM/CogVideo) — Text-to-video foundation diffusion transformer by Tsinghua & Zhipu AI.
+* [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) — 13B parameter foundation video generation model by Tencent.
+* [CogVideoX](https://github.com/zai-org/CogVideo) — Text-to-video foundation diffusion transformer by Tsinghua & Zhipu AI.
 * [Open-Sora](https://github.com/hpcaitech/Open-Sora) — Democratic and efficient reproduction of Sora video generation.
 * [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) — Open-source reproduction of large-scale text-to-video pipelines.
 * [Mochi 1](https://github.com/genmoai/mochi) — Open 10B parameter video foundation model by Genmo.
@@ -609,13 +609,13 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Stable Audio Open](https://github.com/Stability-AI/stable-audio-tools) — Audio generation open foundation model for samples and sound design.
 * [Bark](https://github.com/suno-ai/bark) — Transformer-based expressive text-to-audio and speech synthesis by Suno.
 * [ChatTTS](https://github.com/2noise/ChatTTS) — Conversational text-to-speech model optimized for dialogue, prosody, and laughter.
-* [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) — Multilingual large voice generation model by Alibaba.
+* [CosyVoice](https://github.com/QwenAudio/CosyVoice) — Multilingual large voice generation model by Alibaba.
 * [F5-TTS](https://github.com/SWivid/F5-TTS) — Fairytaler that Fakes Fluent and Faithful speech via flow matching.
 * [Fish Speech](https://github.com/fishaudio/fish-speech) — Zero-shot multilingual text-to-speech model with expressive cloning.
 * [MeloTTS](https://github.com/myshell-ai/MeloTTS) — High-quality multi-lingual text-to-speech library by MyShell.
 * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) — Few-shot cross-lingual voice cloning and synthesis.
 * [Retrieval-based Voice Conversion (RVC)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — Low-latency voice conversion and singing voice synthesis.
-* [WhisperSpeech](https://github.com/collabora/WhisperSpeech) — Open text-to-speech system built by inverting Whisper.
+* [WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) — Open text-to-speech system built by inverting Whisper.
 
 ## 3D & Spatial Generative AI
 
@@ -639,7 +639,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Open WebUI](https://github.com/open-webui/open-webui) — Extensible, self-hosted web UI for Ollama, vLLM, and OpenAI-compatible APIs.
 * [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — All-in-one AI enterprise desktop and server application with document chat.
 * [Jan](https://github.com/janhq/jan) — Open-source desktop ChatGPT alternative that runs 100% offline.
-* [Chatbox](https://github.com/Bin-Huang/chatbox) — Desktop client for multiple cutting-edge AI models and providers.
+* [Chatbox](https://github.com/chatboxai/chatbox) — Desktop client for multiple cutting-edge AI models and providers.
 * [text-generation-webui](https://github.com/oobabooga/text-generation-webui) — Gradio web interface for running local LLMs and multimodal models.
 
 ## Generative UI & Frontend Builders
@@ -652,7 +652,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Synthetic Data Generation & Data Distillation
 
-* [NVIDIA NeMo Curator](https://github.com/NVIDIA/NeMo-Curator) — Scalable synthetic data generation, filtering, and curation for LLMs.
+* [NVIDIA NeMo Curator](https://github.com/NVIDIA-NeMo/Curator) — Scalable synthetic data generation, filtering, and curation for LLMs.
 * [Distilabel](https://github.com/argilla-io/distilabel) — Synthetic data generation and AI feedback framework by Argilla.
 * [UltraFeedback](https://github.com/OpenBMB/UltraFeedback) — Large-scale synthetic preference data generation and multi-aspect evaluation.
 * [Magpie](https://github.com/magpie-align/magpie) — High-quality alignment data synthesis without prompt seeds.
@@ -666,7 +666,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [ControlNet](https://github.com/lllyasviel/ControlNet) — Structural conditioning for diffusion models (edges, poses, depth).
 * [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) — Image prompt adapter for pretrained text-to-image diffusion models.
 * [T2I-Adapter](https://github.com/TencentARC/T2I-Adapter) — Lightweight adapter for controlling color, depth, and sketch guidance.
-* [InstantID](https://github.com/InstantID/InstantID) — Zero-shot identity-preserving image generation with single facial images.
+* [InstantID](https://github.com/instantX-research/InstantID) — Zero-shot identity-preserving image generation with single facial images.
 * [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix) — Edit images using natural language text instructions.
 * [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) — Segment Anything (SAM) combined with diffusion for seamless inpainting.
 * [DragGAN](https://github.com/XingangPan/DragGAN) — Interactive point-based manipulation on generative image manifolds.
@@ -675,7 +675,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Structured Generation & Constrained Decoding
 
 * [Outlines](https://github.com/dottxt-ai/outlines) — Fast and reliable structured text generation via finite-state machines.
-* [Instructor](https://github.com/jxnl/instructor) — Structured outputs with LLMs powered by Pydantic and type validations.
+* [Instructor](https://github.com/567-labs/instructor) — Structured outputs with LLMs powered by Pydantic and type validations.
 * [Guidance](https://github.com/guidance-ai/guidance) — Constrained language model generation and interleaved control logic.
 * [LMQL](https://github.com/eth-sri/lmql) — Programming language and query syntax for constrained LLM interactions.
 * [Jsonformer](https://github.com/1rgs/jsonformer) — Constrained JSON decoding for language models.
@@ -688,16 +688,16 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Promptfoo](https://github.com/promptfoo/promptfoo) — CLI and library for evaluating LLM output quality and red teaming.
 * [TextGrad](https://github.com/zou-group/textgrad) — Automatic differentiation and backpropagation via textual feedback.
 * [Pezzo](https://github.com/pezzolabs/pezzo) — Cloud-native prompt management and observability platform.
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) — Widely referenced collection of system prompts and behavioral instructions.
+* [Awesome ChatGPT Prompts](https://github.com/f/prompts.chat) — Widely referenced collection of system prompts and behavioral instructions.
 
 ## GenAI Safety, Guardrails & Watermarking
 
-* [Llama Guard](https://github.com/meta-llama/llama-guard) — Safeguard model for human-AI conversational input and output moderation.
-* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) — Open-source toolkit for adding programmable safety rails to LLMs.
+* [Llama Guard](https://github.com/meta-llama/PurpleLlama) — Safeguard model for human-AI conversational input and output moderation.
+* [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) — Open-source toolkit for adding programmable safety rails to LLMs.
 * [Guardrails AI](https://github.com/guardrails-ai/guardrails) — Validation and structure enforcement guardrails for LLM responses.
 * [ShieldGemma](https://github.com/google-deepmind/gemma) — Google safety classifiers based on Gemma for content moderation.
 * [SynthID Text](https://github.com/google-deepmind/synthid-text) — Watermarking and detection technology for AI-generated text by Google DeepMind.
-* [Prompt-Guard](https://github.com/meta-llama/llama-recipes) — Classifier model for detecting prompt injections and jailbreaks.
+* [Prompt-Guard](https://github.com/meta-llama/llama-cookbook) — Classifier model for detecting prompt injections and jailbreaks.
 
 ## VAEs & GANs
 
@@ -715,7 +715,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Transformers](https://github.com/huggingface/transformers) — 100K+ pretrained transformer models.
 * [Flax](https://github.com/google/flax) — Neural network library for JAX.
 * [OpenMMLab](https://github.com/open-mmlab) — Open-source computer vision ecosystem.
-* [Safetensors](https://github.com/huggingface/safetensors) — Simple and safe tensor serialization.
+* [Safetensors](https://github.com/safetensors/safetensors) — Simple and safe tensor serialization.
 * [tokenizers](https://github.com/huggingface/tokenizers) — Fast tokenizer implementations.
 
 ## Model Hubs & Registries
@@ -770,14 +770,14 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Yi](https://github.com/01-ai/Yi) — 01.AI's bilingual language models.
 * [InternLM](https://github.com/InternLM/InternLM) — Multilingual foundation model.
 * [BLOOM](https://github.com/bigscience-workshop/bigscience) — Open multilingual LLM by BigScience.
-* [Falcon](https://github.com/tiiuae/falcon-llm) — Technology Innovation Institute's LLMs.
+* [Falcon](https://huggingface.co/tiiuae/falcon-7b) — Technology Innovation Institute's LLMs.
 * [StableLM](https://github.com/Stability-AI/StableLM) — Stability AI's language models.
 * [Command R](https://github.com/cohere-ai) — Cohere's enterprise-grade LLMs.
 
 ## Large-Scale Training
 
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) — Large-scale transformer training at NVIDIA.
-* [DeepSpeed](https://github.com/microsoft/DeepSpeed) — Distributed training and inference optimization.
+* [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — Distributed training and inference optimization.
 * [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) — GPU-parallel autoregressive transformer training.
 * [Nanotron](https://github.com/huggingface/nanotron) — Efficient distributed training of LLMs.
 * [torchtitan](https://github.com/pytorch/torchtitan) — Native PyTorch large-scale LLM training.
@@ -798,7 +798,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) — Embedding and reranking models (BGE).
 * [E5](https://github.com/microsoft/unilm) — Text representation research by Microsoft.
 * [Instructor](https://github.com/xlang-ai/instructor-embedding) — Task-aware text embeddings.
-* [GTE](https://github.com/alibaba-damo-academy/gte) — General text embeddings by Alibaba.
+* [GTE](https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5) — General text embeddings by Alibaba.
 * [Nomic Embed](https://github.com/nomic-ai/nomic) — Open-source text embedding models.
 * [Cohere Embed](https://github.com/cohere-ai) — Enterprise-grade embeddings.
 
@@ -813,7 +813,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Embedding Utilities
 
-* [Embedchain](https://github.com/mem0ai/mem0) — Framework to create AI apps over any dataset.
+* [Embedchain](https://github.com/embedchain/embedchain) — Framework to create AI apps over any dataset.
 * [txtai](https://github.com/neuml/txtai) — AI-powered semantic search platform.
 * [fastembed](https://github.com/qdrant/fastembed) — Fast and lightweight embedding generation.
 
@@ -837,7 +837,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LlamaIndex](https://github.com/run-llama/llama_index) — Advanced retrieval strategies (sub-question, recursive, etc.).
 * [Haystack](https://github.com/deepset-ai/haystack) — Production-oriented RAG pipelines.
 * [RAPTOR](https://github.com/parthsarthi03/raptor) — Recursive abstractive processing for tree-organized retrieval.
-* [LlamaCloud](https://github.com/run-llama/llama_cloud) — Managed parsing and indexing.
+* [LlamaCloud](https://github.com/run-llama/llama_cloud_services) — Managed parsing and indexing.
 
 ## Graph RAG
 
@@ -909,7 +909,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Crawlee](https://github.com/apify/crawlee) — Web scraping and browser automation.
 * [Firecrawl](https://github.com/mendableai/firecrawl) — Turn entire websites into LLM-ready markdown.
 * [Crawl4AI](https://github.com/unclecode/crawl4ai) — Open-source LLM-friendly web crawler.
-* [Beautiful Soup](https://code.launchpad.net/beautifulsoup) — HTML and XML parsing library.
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) — HTML and XML parsing library.
 * [newspaper3k](https://github.com/codelucas/newspaper) — News article scraping and curation.
 * [trafilatura](https://github.com/adbar/trafilatura) — Web content extraction.
 * [Jina Reader](https://github.com/jina-ai/reader) — Convert URLs to LLM-friendly text.
@@ -984,16 +984,16 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [s1](https://github.com/simplescaling/s1) — Simple test-time scaling for reasoning models with budget-aware token generation.
 * [Sky-T1](https://github.com/NovaSky-AI/SkyThought) — Open-source reasoning model with test-time compute and verifiable reinforcement learning.
 * [Marco-o1](https://github.com/AIDC-AI/Marco-o1) — Open reasoning model exploring Monte Carlo tree search and chain-of-thought exploration.
-* [ReAct](https://github.com/ysymyt/ReAct) — Synergizing reasoning and acting in language models for general task solving.
+* [ReAct](https://github.com/ysymyth/ReAct) — Synergizing reasoning and acting in language models for general task solving.
 * [Reflexion](https://github.com/noahshinn/reflexion) — Reinforcement learning via verbal self-reflection and episodic memory.
 * [Tree of Thoughts (ToT)](https://github.com/princeton-nlp/tree-of-thought-llm) — Deliberate problem solving with language models via search trees.
-* [Language Agent Tree Search (LATS)](https://github.com/lapisrocks/lats) — Integrating Monte Carlo tree search, reflection, and external feedback in agents.
+* [Language Agent Tree Search (LATS)](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Integrating Monte Carlo tree search, reflection, and external feedback in agents.
 * [Self-Discover](https://github.com/catid/self-discover) — Groundbreaking reasoning architecture that discovers task-specific reasoning structures.
-* [Bespoke-Minicheck](https://github.com/bespokelabs/bespoke-minicheck) — High-speed factual verification and reasoning consistency checker.
+* [Bespoke-Minicheck](https://github.com/Liyan06/MiniCheck) — High-speed factual verification and reasoning consistency checker.
 
 ## Autonomous & Self-Directed Agents
 
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Leading open-source platform for autonomous software development and computer use.
+* [OpenHands](https://github.com/OpenHands/OpenHands) — Leading open-source platform for autonomous software development and computer use.
 * [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Visionary autonomous AI agent platform with modular agent blocks.
 * [BabyAGI](https://github.com/yoheinakajima/babyagi) — Seminal task-driven autonomous agent utilizing vector databases.
 * [AgentGPT](https://github.com/reworkd/AgentGPT) — Autonomous AI agent deployment and execution directly in the browser.
@@ -1011,7 +1011,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [GPT Researcher](https://github.com/assafelovic/gpt-researcher) — Autonomous agent designed for comprehensive online research and detailed report writing.
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) — Privacy-focused AI-powered search engine and autonomous research assistant.
 * [MindSearch](https://github.com/InternLM/MindSearch) — Multi-agent web search engine mimicking human cognitive research workflows.
-* [DeepSearch](https://github.com/DS4SD/docling) — Autonomous multi-hop web exploration and document synthesis engine.
+* [DeepSearch](https://github.com/DS4SD/deepsearch-toolkit) — Autonomous multi-hop web exploration and document synthesis engine.
 * [Tavily Python](https://github.com/tavily-ai/tavily-python) — Search engine API custom-built for AI agents and LLM research pipelines.
 
 ## Real-Time Voice & Multimodal Agents
@@ -1036,7 +1036,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Agent Evaluation, Benchmarks & Leaderboards
 
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) — Landmark benchmark evaluating agents on resolving real-world GitHub issues.
-* [GAIA](https://github.com/facebookresearch/gaia) — General AI Assistants benchmark measuring complex multimodal and tool-use capabilities.
+* [GAIA](https://huggingface.co/datasets/gaia-benchmark/GAIA) — General AI Assistants benchmark measuring complex multimodal and tool-use capabilities.
 * [AgentBench](https://github.com/THUDM/AgentBench) — Multi-dimensional benchmark evaluating LLMs as agents across diverse interactive environments.
 * [WebArena](https://github.com/web-arena-x/webarena) — Realistic website environment and benchmark for autonomous web agents.
 * [OSWorld](https://github.com/xlang-ai/OSWorld) — Multimodal benchmark for evaluating computer-use agents across real operating systems.
@@ -1101,7 +1101,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LangMem](https://github.com/langchain-ai/langmem) — Long-term and episodic memory management for LangGraph and LangChain agents.
 * [Cognee](https://github.com/topoteretes/cognee) — Memory and cognitive engine turning unstructured data into dynamic knowledge graphs.
 * [Memary](https://github.com/kingjulio8238/Memary) — Long-term memory engine for autonomous agents using knowledge graphs.
-* [Motorhead](https://github.com/getzep/motorhead) — Memory and information retrieval engine for conversational AI.
+* [Motorhead](https://github.com/getmetal/motorhead) — Memory and information retrieval engine for conversational AI.
 
 ## Temporal & Graph Memory
 
@@ -1148,7 +1148,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Coding Agents
 
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Leading open-source AI software development platform and agent.
+* [OpenHands](https://github.com/OpenHands/OpenHands) — Leading open-source AI software development platform and agent.
 * [Aider](https://github.com/Aider-AI/aider) — AI pair programming in your terminal with git integration and repo mapping.
 * [SWE-agent](https://github.com/SWE-agent/SWE-agent) — Software engineering agent by Princeton that solves real-world GitHub issues.
 * [Cline](https://github.com/cline/cline) — Autonomous AI coding agent in VS Code capable of executing commands, editing files, and using MCP.
@@ -1158,7 +1158,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Tabby](https://github.com/TabbyML/tabby) — Self-hosted AI coding assistant with local model serving.
 * [Sweep](https://github.com/sweepai/sweep) — Autonomous AI software engineer for pull requests and bug fixes.
 * [Devika](https://github.com/stitionai/devika) — Agentic AI software engineer supporting multiple models and project planning.
-* [Mentat](https://github.com/AbanteAI/mentat) — AI coding assistant that coordinates coordinated multi-file edits.
+* [Mentat](https://github.com/AbanteAI/archive-old-cli-mentat) — AI coding assistant that coordinates coordinated multi-file edits.
 * [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) — Builds complete applications from single prompts.
 * [Plandex](https://github.com/plandex-ai/plandex) — Terminal-based AI coding engine for complex multi-stage tasks.
 * [Devon](https://github.com/entropy-research/Devon) — Open-source software engineering agent alternative to Devin.
@@ -1212,12 +1212,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Desktop & OS Agents
 
 * [Anthropic Computer Use Demo](https://github.com/anthropics/anthropic-quickstarts) — Reference implementation for Claude 3.5 Sonnet computer use.
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Autonomous platform allowing AI agents to interact with shells, browsers, and desktop tools.
+* [OpenHands](https://github.com/OpenHands/OpenHands) — Autonomous platform allowing AI agents to interact with shells, browsers, and desktop tools.
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) — Open-source natural language interface for full local computer control.
 * [Self-Operating Computer](https://github.com/OthersideAI/self-operating-computer) — Framework enabling multimodal models to operate mouse and keyboard.
 * [UFO](https://github.com/microsoft/UFO) — UI-focused dual-agent framework for Windows OS interaction by Microsoft.
 * [OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) — Generalist computer agent framework capable of operating across diverse operating systems.
-* [Show-UI](https://github.com/showlab/Show-UI) — Vision-language-action model trained for desktop GUI grounding and interaction.
+* [Show-UI](https://github.com/showlab/ShowUI) — Vision-language-action model trained for desktop GUI grounding and interaction.
 * [SeeAct](https://github.com/OSU-NLP-Group/SeeAct) — Autonomous agent for graphical user interface interaction on the live web.
 * [Cradle](https://github.com/BAAI-Agents/Cradle) — Framework empowering foundation agents to master desktop software and games.
 
@@ -1247,7 +1247,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Official MCP Servers](https://github.com/modelcontextprotocol/servers) — Reference implementations including Filesystem, Git, GitHub, Postgres, Brave Search, Fetch, and SQLite.
 * [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated community collection of Model Context Protocol servers.
 * [MCP Hub](https://github.com/modelcontextprotocol) — Official Model Context Protocol ecosystem registry and resources.
-* [Docker MCP Server](https://github.com/docker/mcp-server) — Model Context Protocol server enabling agents to manage Docker containers.
+* [Docker MCP Server](https://github.com/docker/hub-mcp) — Model Context Protocol server enabling agents to manage Docker containers.
 * [Slack MCP Server](https://github.com/modelcontextprotocol/servers) — Connect AI models and agents directly to Slack workspaces.
 * [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers) — Secure read/write database inspection server for MCP clients.
 
@@ -1263,7 +1263,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [A2A (Agent-to-Agent)](https://github.com/google/A2A) — Open standard protocol by Google for seamless communication between autonomous AI agents.
 * [AG-UI](https://github.com/ag-ui-protocol/ag-ui) — Open interaction protocol between AI agents and human graphical interfaces.
-* [ACP (Agent Communication Protocol)](https://github.com/agntcy/acp) — Decentralized agent communication standard by AGNTCY.
+* [ACP (Agent Communication Protocol)](https://github.com/i-am-bee/acp) — Decentralized agent communication standard by AGNTCY.
 * [OpenAPI](https://github.com/OAI/OpenAPI-Specification) — Universal standard for defining machine-readable RESTful APIs for tool use.
 
 ## Tool & Function Calling Standards
@@ -1315,11 +1315,11 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [FLUX](https://github.com/black-forest-labs/flux) — Next-gen image generation.
 * [Kandinsky](https://github.com/ai-forever/Kandinsky-3) — Multilingual text-to-image generation.
 * [PixArt](https://github.com/PixArt-alpha/PixArt-alpha) — Fast training of diffusion transformers.
-* [Playground v2.5](https://github.com/playgroundai/playground-v2.5) — Enhanced image generation model.
+* [Playground v2.5](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic) — Enhanced image generation model.
 
 ## Interfaces & Workflows
 
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — Node-based generative AI workflows.
+* [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based generative AI workflows.
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) — Creative engine for image generation.
 * [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Most popular SD web interface.
 * [Fooocus](https://github.com/lllyasviel/Fooocus) — Simplified image generation (Midjourney-like UX).
@@ -1331,7 +1331,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [ControlNet](https://github.com/lllyasviel/ControlNet) — Adding conditional control to diffusion models.
 * [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) — Image prompt adapter for diffusion models.
 * [T2I-Adapter](https://github.com/TencentARC/T2I-Adapter) — Composable structure control for image generation.
-* [InstantID](https://github.com/InstantID/InstantID) — Zero-shot identity-preserving generation.
+* [InstantID](https://github.com/instantX-research/InstantID) — Zero-shot identity-preserving generation.
 
 ## Image-to-Image
 
@@ -1348,14 +1348,14 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Diffusers (Video)](https://github.com/huggingface/diffusers) — Video generation pipelines.
 * [Open-Sora](https://github.com/hpcaitech/Open-Sora) — Open-source Sora-like video generation.
 * [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) — Open reproduction of Sora.
-* [CogVideo](https://github.com/THUDM/CogVideo) — Text-to-video generation by Tsinghua.
-* [CogVideoX](https://github.com/THUDM/CogVideo) — Next-gen video generation.
+* [CogVideo](https://github.com/zai-org/CogVideo) — Text-to-video generation by Tsinghua.
+* [CogVideoX](https://github.com/zai-org/CogVideo) — Next-gen video generation.
 * [VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) — Open diffusion models for video generation.
 * [AnimateDiff](https://github.com/guoyww/AnimateDiff) — Animate personalized text-to-image models.
 * [Latte](https://github.com/Vchitect/Latte) — Latent diffusion transformer for video generation.
 * [Mochi](https://github.com/genmoai/mochi) — Open state-of-the-art video generation by Genmo.
 * [LTX-Video](https://github.com/Lightricks/LTX-Video) — Real-time video generation.
-* [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) — Video generation by Tencent.
+* [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) — Video generation by Tencent.
 
 ## Video Editing & Processing
 
@@ -1382,7 +1382,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Bark](https://github.com/suno-ai/bark) — Transformer-based text-to-audio model by Suno.
 * [Coqui TTS](https://github.com/coqui-ai/TTS) — Deep learning TTS toolkit.
 * [VALL-E X](https://github.com/Plachtaa/VALL-E-X) — Multilingual TTS with voice cloning.
-* [WhisperSpeech](https://github.com/collabora/WhisperSpeech) — Open inverse Whisper for TTS.
+* [WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) — Open inverse Whisper for TTS.
 * [Parler-TTS](https://github.com/huggingface/parler-tts) — High-quality TTS with natural language descriptions.
 
 ## Sound Effects & Audio Generation
@@ -1405,7 +1405,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian) — 3D content generation with Gaussian splatting.
 * [Wonder3D](https://github.com/xxlong0/Wonder3D) — Single image to 3D with cross-domain diffusion.
 * [Zero123++](https://github.com/SUDO-AI-3D/zero123plus) — Image-conditioned 3D generation.
-* [Meshy](https://github.com/meshy-ai) — AI 3D model generation.
+* [Meshy](https://github.com/meshy-dev) — AI 3D model generation.
 
 ## Neural Rendering
 
@@ -1430,11 +1430,11 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## World Model Architectures
 
 * [Dreamer v3](https://github.com/danijar/dreamerv3) — World-model-based reinforcement learning.
-* [Genie](https://github.com/google-deepmind/genie) — Generative interactive environments.
+* [Genie](https://sites.google.com/view/genie-2024) — Generative interactive environments.
 * [DIAMOND](https://github.com/eloialonso/diamond) — Diffusion for world modeling.
-* [UniSim](https://github.com/google-research/unisim) — Universal simulation via real-world interaction.
+* [UniSim](https://github.com/google/unisim) — Universal simulation via real-world interaction.
 * [IRIS](https://github.com/eloialonso/iris) — Imagination with auto-regression over an inner speech.
-* [GameNGen](https://github.com/game-ngen) — Neural game engine.
+* [GameNGen](https://gamengen.github.io) — Neural game engine.
 
 ## Physics Simulation
 
@@ -1537,7 +1537,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [AgentBench](https://github.com/THUDM/AgentBench) — Comprehensive benchmark for LLM agents.
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) — Real-world software engineering benchmark.
-* [GAIA](https://github.com/gaia-benchmark/GAIA) — General AI assistant benchmark.
+* [GAIA](https://huggingface.co/datasets/gaia-benchmark/GAIA) — General AI assistant benchmark.
 * [Tau-bench](https://github.com/sierra-research/tau-bench) — Benchmark for tool-agent-user interaction.
 * [WebArena](https://github.com/web-arena-x/webarena) — Realistic web environment for agents.
 * [MLE-bench](https://github.com/openai/mle-bench) — Machine learning engineering benchmark.
@@ -1584,7 +1584,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Guardrails
 
-* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) — Programmable guardrails for LLM apps.
+* [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) — Programmable guardrails for LLM apps.
 * [Guardrails AI](https://github.com/guardrails-ai/guardrails) — Adding guardrails to LLM outputs.
 * [LLM Guard](https://github.com/protectai/llm-guard) — Security toolkit for LLM interactions.
 * [Rebuff](https://github.com/protectai/rebuff) — Prompt injection detector.
@@ -1597,7 +1597,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [Garak](https://github.com/NVIDIA/garak) — LLM vulnerability scanner.
 * [LLM Guard](https://github.com/protectai/llm-guard) — Comprehensive security toolkit.
-* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) — Programmable safety rails.
+* [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) — Programmable safety rails.
 * [Vigil](https://github.com/deadbits/vigil-llm) — LLM security scanner.
 * [LangKit](https://github.com/whylabs/langkit) — LLM security monitoring.
 
@@ -1706,7 +1706,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [GGML](https://github.com/ggerganov/ggml) — Tensor library optimized for transformer inference.
 * [GGUF](https://github.com/ggml-org/llama.cpp) — Binary format for quantized models.
-* [Safetensors](https://github.com/huggingface/safetensors) — Safe and fast tensor serialization format.
+* [Safetensors](https://github.com/safetensors/safetensors) — Safe and fast tensor serialization format.
 
 ---
 
@@ -1715,7 +1715,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Large-Scale Training
 
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) — Efficient large-scale transformer training.
-* [DeepSpeed](https://github.com/microsoft/DeepSpeed) — ZeRO optimization and distributed training.
+* [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — ZeRO optimization and distributed training.
 * [ColossalAI](https://github.com/hpcaitech/ColossalAI) — Unified system for large-scale parallel training.
 * [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) — An implementation for model parallel autoregressive transformers.
 * [Nanotron](https://github.com/huggingface/nanotron) — Efficient LLM training by Hugging Face.
@@ -1793,7 +1793,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LibreChat](https://github.com/danny-avila/LibreChat) — Enhanced ChatGPT clone with multi-provider support.
 * [LobeChat](https://github.com/lobehub/lobe-chat) — Modern AI chat framework.
 * [Big-AGI](https://github.com/enricoros/big-AGI) — AI suite built for professionals.
-* [Chatbox](https://github.com/Bin-Huang/chatbox) — Desktop app for AI models.
+* [Chatbox](https://github.com/chatboxai/chatbox) — Desktop app for AI models.
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern) — AI chat interface for role-playing.
 * [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) — Gradio web UI for LLMs.
 * [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — All-in-one AI desktop app.
@@ -1922,7 +1922,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Langfuse](https://github.com/langfuse/langfuse) — Open-source LLM engineering platform.
 * [Arize Phoenix](https://github.com/Arize-ai/phoenix) — ML and LLM observability.
 * [OpenLLMetry](https://github.com/traceloop/openllmetry) — OpenTelemetry-native LLM observability.
-* [Lunary](https://github.com/lunary-ai/lunary) — Production toolkit for LLM apps.
+* [Lunary](https://github.com/lunary-ai/lunary-py) — Production toolkit for LLM apps.
 * [OpenLIT](https://github.com/openlit/openlit) — OpenTelemetry-native observability for GenAI.
 * [Helicone](https://github.com/Helicone/helicone) — Open-source LLM observability platform.
 
@@ -1940,7 +1940,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LiteLLM](https://github.com/BerriAI/litellm) — Call 100+ LLM APIs in OpenAI format.
 * [OpenRouter](https://github.com/OpenRouterTeam) — Unified API for multiple LLMs.
 * [AI Gateway](https://github.com/Portkey-AI/gateway) — Blazing fast AI gateway by Portkey.
-* [Martian](https://github.com/withmartian/llm-router) — Intelligent LLM routing.
+* [Martian](https://github.com/withmartian/routerbench) — Intelligent LLM routing.
 
 ---
 
@@ -2007,7 +2007,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Cleanlab](https://github.com/cleanlab/cleanlab) — Find and fix data issues automatically.
 * [Great Expectations](https://github.com/great-expectations/great_expectations) — Data quality validation.
 * [DataGradients](https://github.com/Deci-AI/data-gradients) — Computer vision dataset analysis.
-* [NeMo Curator](https://github.com/NVIDIA/NeMo-Curator) — Scalable data curation for LLMs.
+* [NeMo Curator](https://github.com/NVIDIA-NeMo/Curator) — Scalable data curation for LLMs.
 * [Lilac](https://github.com/lilacai/lilac) — AI-powered dataset curation.
 
 ## Benchmark Datasets
@@ -2024,7 +2024,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Research Tools
 
-* [Semantic Scholar](https://github.com/allenai/s2) — AI-powered scientific literature platform.
+* [Semantic Scholar](https://github.com/allenai/s2-folks) — AI-powered scientific literature platform.
 * [OpenAlex](https://github.com/ourresearch/openalex-api-tutorials) — Open scholarly metadata.
 * [Papers With Code](https://github.com/paperswithcode) — ML papers linked with code and benchmarks.
 * [Connected Papers](https://github.com/connectedpapers) — Visual tool for exploring academic papers.
@@ -2136,12 +2136,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [GatorTron](https://github.com/NVIDIA/NeMo) — Large clinical language model.
 * [ClinicalBERT](https://github.com/EmilyAlsentzer/clinicalBERT) — BERT for clinical text.
 * [BioGPT](https://github.com/microsoft/BioGPT) — Generative pre-trained transformer for biomedical text.
-* [PubMedBERT](https://github.com/microsoft/BiomedNLP-BiomedBERT-MNLI-SNLI) — Biomedical language model.
+* [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract) — Biomedical language model.
 * [MedPaLM](https://github.com/google-research/google-research) — Google's medical LLM research.
 
 ## Medical Foundation Models
 
-* [BiomedCLIP](https://github.com/microsoft/BiomedCLIP) — Biomedical vision-language model.
+* [BiomedCLIP](https://github.com/microsoft/BiomedCLIP_data_pipeline) — Biomedical vision-language model.
 * [LLaVA-Med](https://github.com/microsoft/LLaVA-Med) — Medical visual question answering.
 * [PMC-LLaMA](https://github.com/chaoyi-wu/PMC-LLaMA) — Medical LLM fine-tuned on PubMed.
 * [Med-Gemini](https://github.com/google-research/google-research) — Multimodal medical AI by Google.
@@ -2169,7 +2169,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [SageMath](https://github.com/sagemath/sage) — Open-source mathematics software system.
 * [Julia](https://github.com/JuliaLang/julia) — High-performance technical computing language.
-* [Maxima](https://github.com/andrejv/maxima) — Computer algebra system.
+* [Maxima](https://github.com/wxMaxima-developers/wxmaxima) — Computer algebra system.
 
 ---
 
@@ -2206,14 +2206,14 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Legal NLP
 
-* [Legal-BERT](https://github.com/nlpaueb/legal-bert) — BERT for legal text.
+* [Legal-BERT](https://huggingface.co/nlpaueb/legal-bert-base-uncased) — BERT for legal text.
 * [BlackStone](https://github.com/ICLRandD/Blackstone) — spaCy model for law.
-* [SaulLM](https://github.com/Equall-AI/saul) — Legal domain LLMs.
+* [SaulLM](https://huggingface.co/Equall) — Legal domain LLMs.
 
 ## Contract Analysis
 
 * [Docassemble](https://github.com/jhpyle/docassemble) — Expert systems for legal documents.
-* [Lexpredict](https://github.com/LexPredict/lexnlp) — NLP for legal and regulatory text.
+* [Lexpredict](https://github.com/LexPredict/lexpredict-lexnlp) — NLP for legal and regulatory text.
 
 ---
 
@@ -2265,7 +2265,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Code Intelligence
 
 * [Tree-sitter](https://github.com/tree-sitter/tree-sitter) — Incremental parsing system.
-* [Sourcegraph](https://github.com/sourcegraph/sourcegraph) — Code AI platform.
+* [Sourcegraph](https://github.com/sourcegraph/sourcegraph-public-snapshot) — Code AI platform.
 * [ast-grep](https://github.com/ast-grep/ast-grep) — Structural search and rewrite tool.
 * [CodeQL](https://github.com/github/codeql) — Semantic code analysis engine.
 * [Semgrep](https://github.com/semgrep/semgrep) — Fast static analysis.
@@ -2328,7 +2328,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Tesseract](https://github.com/tesseract-ocr/tesseract) — Open-source OCR engine.
 * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — Practical multilingual OCR.
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) — Ready-to-use OCR.
-* [Surya](https://github.com/VikParuchuri/surya) — OCR, layout detection, table recognition.
+* [Surya](https://github.com/datalab-to/surya) — OCR, layout detection, table recognition.
 * [docTR](https://github.com/mindee/doctr) — Deep learning document text recognition.
 
 ## Document Understanding & Conversion
@@ -2359,7 +2359,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Rasa](https://github.com/RasaHQ/rasa) — Open-source conversational AI framework.
 * [Botpress](https://github.com/botpress/botpress) — Building chatbots with AI.
 * [Typebot](https://github.com/baptisteArno/typebot.io) — Conversational form builder.
-* [Dialogflow CX](https://github.com/GoogleCloudPlatform/dialogflow-cx-bot-builder-examples) — Google's conversational AI.
+* [Dialogflow CX](https://github.com/GoogleCloudPlatform/dialogflow-integrations) — Google's conversational AI.
 * [Chainlit](https://github.com/Chainlit/chainlit) — Build conversational AI in minutes.
 * [Flowise](https://github.com/FlowiseAI/Flowise) — Drag-and-drop LLM chatbot builder.
 * [Langflow](https://github.com/langflow-ai/langflow) — Visual framework for multi-agent AI apps.
@@ -2403,7 +2403,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [STORM](https://github.com/stanford-oval/storm) — Knowledge synthesis from web research.
 * [PaperQA](https://github.com/Future-House/paper-qa) — Research paper question answering.
-* [Semantic Scholar API](https://github.com/allenai/s2) — Programmatic access to scientific literature.
+* [Semantic Scholar API](https://github.com/allenai/s2-folks) — Programmatic access to scientific literature.
 
 ---
 
@@ -2501,14 +2501,14 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Sky-T1](https://github.com/NovaSky-AI/SkyThought) — Open reasoning model training.
 * [s1](https://github.com/simplescaling/s1) — Simple test-time scaling for reasoning.
 * [Marco-o1](https://github.com/AIDC-AI/Marco-o1) — Reasoning with open LLMs.
-* [Bespoke-Minicheck](https://github.com/bespokelabs/bespoke-minicheck) — Fact-checking reasoning.
+* [Bespoke-Minicheck](https://github.com/Liyan06/MiniCheck) — Fact-checking reasoning.
 
 ## Self-Improving Agents
 
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Agents that write and improve their own code.
+* [OpenHands](https://github.com/OpenHands/OpenHands) — Agents that write and improve their own code.
 * [SWE-agent](https://github.com/SWE-agent/SWE-agent) — Agents that solve real GitHub issues.
 * [Voyager](https://github.com/MineDojo/Voyager) — LLM-powered lifelong learning agent.
-* [LATS](https://github.com/lapisrocks/lats) — Language agent tree search.
+* [LATS](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Language agent tree search.
 
 ## Embodied AI
 
@@ -2565,7 +2565,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Mamba](https://github.com/state-spaces/mamba) — Linear-time sequence modeling.
 * [S4](https://github.com/state-spaces/s4) — Structured state spaces for sequence modeling.
 * [RWKV](https://github.com/BlinkDL/RWKV-LM) — RNN with transformer-level performance.
-* [Jamba](https://github.com/AI21Labs/Jamba) — Hybrid SSM-transformer model.
+* [Jamba](https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini) — Hybrid SSM-transformer model.
 
 ---
 
@@ -2573,7 +2573,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Machine Learning Courses
 
-* [Machine Learning Roadmap](https://github.com/machinelearningmindset/machine-learning-roadmap) — Complete ML roadmap.
+* [Machine Learning Roadmap](https://github.com/alirezadir/Machine-Learning-Interviews) — Complete ML roadmap.
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML) — Learn ML and MLOps.
 * [ML for Beginners](https://github.com/microsoft/ML-For-Beginners) — 26-lesson ML curriculum by Microsoft.
 * [AI for Beginners](https://github.com/microsoft/AI-For-Beginners) — 24-lesson AI curriculum by Microsoft.
@@ -2618,7 +2618,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) — Curated list of LLM resources.
 * [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) — Generative AI tools and resources.
 * [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) — Curated list of AI agents.
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) — Prompt collection.
+* [Awesome ChatGPT Prompts](https://github.com/f/prompts.chat) — Prompt collection.
 * [Awesome Diffusion Models](https://github.com/diff-usion/Awesome-Diffusion-Models) — Diffusion model resources.
 
 ---
@@ -2640,7 +2640,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Microsoft Research
 
 * [Microsoft Research](https://github.com/microsoft) — AI and systems research.
-* [Microsoft DeepSpeed](https://github.com/microsoft/DeepSpeed) — Distributed training optimization.
+* [Microsoft DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — Distributed training optimization.
 * [Microsoft AI](https://github.com/Azure) — Azure AI services.
 
 ## NVIDIA
@@ -2754,7 +2754,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Configuration & Experiment Management
 
-* [Hydra](https://github.com/facebookresearch/hydra) — Application configuration management.
+* [Hydra](https://github.com/hydra-ecosystem/hydra) — Application configuration management.
 * [OmegaConf](https://github.com/omry/omegaconf) — YAML configuration library.
 * [gin-config](https://github.com/google/gin-config) — Lightweight configuration framework.
 
@@ -2766,7 +2766,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [Promptfoo](https://github.com/promptfoo/promptfoo) — Test, evaluate, and red-team prompts.
 * [DSPy](https://github.com/stanfordnlp/dspy) — Programming foundation models instead of prompting.
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) — Curated prompt collection.
+* [Awesome ChatGPT Prompts](https://github.com/f/prompts.chat) — Curated prompt collection.
 * [LangChain Hub](https://github.com/langchain-ai/langchain) — Community prompt hub.
 * [PromptPerfect](https://github.com/promptslab) — Prompt optimization tools.
 
@@ -2776,7 +2776,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [TextGrad](https://github.com/zou-group/textgrad) — Optimization through text feedback gradients.
 * [OPRO](https://github.com/google-deepmind/opro) — Optimization by prompting by DeepMind.
 * [EvoPrompt](https://github.com/beeevita/EvoPrompt) — Evolutionary prompt optimization.
-* [APE](https://github.com/keirp/automatic-prompt-engineer) — Automatic prompt engineering.
+* [APE](https://github.com/keirp/automatic_prompt_engineer) — Automatic prompt engineering.
 
 ## Prompt Security
 
@@ -2793,7 +2793,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Outlines](https://github.com/dottxt-ai/outlines) — Structured generation for LLMs.
 * [Guidance](https://github.com/guidance-ai/guidance) — Control language model generation.
 * [LM Format Enforcer](https://github.com/noamgat/lm-format-enforcer) — Enforce output formats.
-* [Instructor](https://github.com/jxnl/instructor) — Structured outputs with LLMs and Pydantic.
+* [Instructor](https://github.com/567-labs/instructor) — Structured outputs with LLMs and Pydantic.
 * [Marvin](https://github.com/PrefectHQ/marvin) — Build AI applications with structured types.
 * [LMQL](https://github.com/eth-sri/lmql) — Query language for language models.
 
@@ -2819,7 +2819,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Open-R1](https://github.com/huggingface/open-r1) — Open reasoning model research.
 * [DeepSeek R1](https://github.com/deepseek-ai/DeepSeek-R1) — Open reasoning model.
 * [Marco-o1](https://github.com/AIDC-AI/Marco-o1) — Open reasoning with chain-of-thought.
-* [ReasonGraph](https://github.com/reason-graph) — Graph-based reasoning.
+* [ReasonGraph](https://github.com/TencentCloudADP/youtu-graphrag) — Graph-based reasoning.
 
 ## Planning & Task Decomposition
 
@@ -2827,7 +2827,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Voyager](https://github.com/MineDojo/Voyager) — LLM-based lifelong learning and planning agent.
 * [HuggingGPT](https://github.com/microsoft/JARVIS) — Task planning with LLMs and expert models.
 * [ToolLLM](https://github.com/OpenBMB/ToolBench) — Facilitating tool-use planning.
-* [LATS](https://github.com/lapisrocks/lats) — Language agent tree search for planning.
+* [LATS](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Language agent tree search for planning.
 
 ## Logical Reasoning
 
@@ -2836,7 +2836,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Math Reasoning
 
-* [MathVista](https://github.com/mathvista/mathvista) — Mathematical reasoning in visual contexts.
+* [MathVista](https://github.com/lupantech/MathVista) — Mathematical reasoning in visual contexts.
 * [MATH](https://github.com/hendrycks/math) — Math problem solving benchmark.
 * [GSM8K](https://github.com/openai/grade-school-math) — Grade school math benchmark.
 
@@ -2883,7 +2883,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Mixture of Experts
 
-* [DeepSpeed-MoE](https://github.com/microsoft/DeepSpeed) — Mixture-of-experts infrastructure.
+* [DeepSpeed-MoE](https://github.com/deepspeedai/DeepSpeed) — Mixture-of-experts infrastructure.
 * [Megatron-LM MoE](https://github.com/NVIDIA/Megatron-LM) — Expert parallelism for large MoE models.
 * [OpenMoE](https://github.com/XueFuzhao/OpenMoE) — Open-source MoE language models.
 * [Mixtral](https://github.com/mistralai/mistral-inference) — Sparse MoE by Mistral AI.
@@ -2931,7 +2931,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [AIF360](https://github.com/Trusted-AI/AIF360) — AI Fairness 360 toolkit by IBM.
 * [Aequitas](https://github.com/dssg/aequitas) — Bias and fairness audit toolkit.
 * [What-If Tool](https://github.com/PAIR-code/what-if-tool) — Visual probing of ML models.
-* [FairPy](https://github.com/ariel-research/fairpy) — Fair division algorithms.
+* [FairPy](https://github.com/erelsgl/fairpy) — Fair division algorithms.
 
 ## Privacy
 
@@ -2944,7 +2944,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 * [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) — Microsoft's responsible AI suite.
 * [Model Cards Toolkit](https://github.com/tensorflow/model-card-toolkit) — Create model cards for documentation.
-* [AI Fairness Checklist](https://github.com/microsoft/fairness-checklist) — Fairness guidelines by Microsoft.
+* [AI Fairness Checklist](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/) — Fairness guidelines by Microsoft.
 
 ---
 
@@ -3016,7 +3016,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Symbolic AI
 
 * [PrologAI](https://github.com/SWI-Prolog/swipl-devel) — Prolog for AI reasoning.
-* [Pyke](https://github.com/BruceEckel/pyke) — Knowledge-based systems in Python.
+* [Pyke](https://sourceforge.net/projects/pyke/) — Knowledge-based systems in Python.
 * [SymPy](https://github.com/sympy/sympy) — Symbolic mathematics for AI.
 
 ---
@@ -3029,7 +3029,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [EconML](https://github.com/py-why/EconML) — Machine learning for causal inference.
 * [CausalML](https://github.com/uber/causalml) — Uplift modeling and causal inference by Uber.
 * [pgmpy](https://github.com/pgmpy/pgmpy) — Probabilistic graphical models.
-* [CausalNex](https://github.com/quantumblacklabs/causalnex) — Bayesian networks for causal reasoning.
+* [CausalNex](https://github.com/mckinsey/causalnex) — Bayesian networks for causal reasoning.
 
 ## Causal Discovery
 
@@ -3055,7 +3055,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Digital Twin Platforms
 
 * [NVIDIA Omniverse](https://github.com/NVIDIA-Omniverse) — Digital twin and simulation platform.
-* [Azure Digital Twins](https://github.com/Azure/azure-digital-twins-tools) — Microsoft's digital twin platform.
+* [Azure Digital Twins](https://github.com/Azure-Samples/azure-edge-extensions-adt-transpiler) — Microsoft's digital twin platform.
 * [Eclipse Ditto](https://github.com/eclipse-ditto/ditto) — Open-source digital twin framework.
 
 ---
@@ -3077,7 +3077,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ## Neuroevolution
 
-* [NEAT-Python](https://github.com/CodeReclworker/NEAT-python) — NEAT algorithm implementation.
+* [NEAT-Python](https://github.com/CodeReclaimers/neat-python) — NEAT algorithm implementation.
 * [EvoJAX](https://github.com/google/evojax) — Hardware-accelerated neuroevolution.
 
 ---
@@ -3098,21 +3098,21 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Transformers](https://github.com/huggingface/transformers) — The LLM ecosystem backbone.
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) — Run LLMs efficiently anywhere.
 * [vLLM](https://github.com/vllm-project/vllm) — High-throughput LLM serving.
-* [DeepSpeed](https://github.com/microsoft/DeepSpeed) — Distributed training optimization.
+* [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — Distributed training optimization.
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) — Large-scale model training.
 * [Ollama](https://github.com/ollama/ollama) — The easiest way to run LLMs locally.
 
 ### Generative AI
 
 * [Diffusers](https://github.com/huggingface/diffusers) — Diffusion model ecosystem.
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — Node-based AI workflows.
+* [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based AI workflows.
 * [FLUX](https://github.com/black-forest-labs/flux) — Next-gen image generation.
 * [Stable Diffusion](https://github.com/CompVis/stable-diffusion) — The original latent diffusion model.
 
 ### AI Agents
 
 * [LangGraph](https://github.com/langchain-ai/langgraph) — Stateful agent workflows.
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) — AI software development.
+* [OpenHands](https://github.com/OpenHands/OpenHands) — AI software development.
 * [AutoGen](https://github.com/microsoft/autogen) — Multi-agent framework.
 * [CrewAI](https://github.com/crewAIInc/crewAI) — Agent orchestration.
 * [LangChain](https://github.com/langchain-ai/langchain) — LLM application building blocks.
