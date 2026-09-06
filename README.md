@@ -1,4 +1,4 @@
-# The Modern AI Atlas
+# The AI Stack
 
 > A rigorously curated directory of foundational, production-grade, and breakthrough open-source repositories spanning Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, LLMs, RAG, Agentic AI, Robotics, and Systems Research.
 
@@ -3190,6 +3190,6 @@ It helps others discover the collection too.
 
 # License
 
-This list is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+This list is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license (see [LICENSE](LICENSE)).
 
 Individual repositories listed here remain under their respective licenses.
