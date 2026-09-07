@@ -1,5 +1,7 @@
 # The AI Stack
 
+![The AI Stack](_assets/banner.png)
+
 > A rigorously curated directory of foundational, production-grade, and breakthrough open-source repositories spanning Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, LLMs, RAG, Agentic AI, Robotics, and Systems Research.
 
 **Engineered for signal over noise.**
