@@ -27,16 +27,51 @@
 
 ### ▶️ YouTube — English
 
-- [FreeCodeCamp / AI Jason: Video Guides & Tutorials](https://www.youtube.com/@freecodecamp)
-  - Channel: FreeCodeCamp / AI Jason
+- [Agentic AI With Langgraph](https://www.youtube.com/playlist?list=PLZoTAELRMXVPFd7JdvB-rnTb_5V26NYNO)
+  - Channel: Krish Naik
+  - Language: English / Hinglish
+  - Type: Course Playlist
+  - Level: Intermediate
+  - Why: Step-by-step production multi-agent system building with LangGraph, SQLite state persistence, and tool integration.
+- [AI Anytime: Video Guides & Tutorials](https://www.youtube.com/@AIAnytime)
+  - Channel: AI Anytime
   - Language: English
-  - Type: Course
-  - Level: Beginner
-  - Why: Clear walkthrough of ReAct prompting, LangGraph workflows, and building autonomous agent teams.
+  - Type: Project Series
+  - Level: Intermediate to Advanced
+  - Why: Production agent pipelines, CrewAI multi-agent teams, and local Ollama autonomous workflows.
+- [MCP](https://www.youtube.com/playlist?list=PL2xnrU4RbY0DiLpowcC5PxF92N5kY9s_J)
+  - Channel: David Ondrej
+  - Language: English
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Hands-on implementation of Model Context Protocol (MCP) clients, servers, and autonomous agent loops.
+- [Learn Agentic AI: From Basics to Advanced Multi-Agent Systems](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DeLpPBREcC9aU8ESfYeSeX)
+  - Channel: Code With Aarohi
+  - Language: English
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Comprehensive guide to agent memory, tool calling, and multi-agent coordination.
 
 ### ▶️ YouTube — Hindi / Hinglish
 
-> No high-quality Hindi/Hinglish resource identified for this topic.
+- [Agentic AI using LangGraph](https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL)
+  - Channel: CampusX
+  - Language: Hindi / Hinglish
+  - Type: Course Playlist
+  - Level: Intermediate
+  - Why: Nitish Singh explains state graphs, conditional routing, human-in-the-loop, and multi-agent architectures in Hindi.
+- [Complete Generativ AI And Agentic AI Playlist](https://www.youtube.com/playlist?list=PLTDARY42LDV567lWN_5BtoVGjMFKbthGu)
+  - Channel: Krish Naik Hindi
+  - Language: Hindi
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: End-to-end multi-agent systems and Generative AI applications in Hindi.
+- [Build a Production-Ready Multi-Agent AI Systems (LangGraph Series) | Agentic AI Project](https://www.youtube.com/playlist?list=PLEQRwDHq07hk)
+  - Channel: Code With Aarohi Hindi
+  - Language: Hindi
+  - Type: Project Series
+  - Level: Intermediate
+  - Why: Practical multi-agent architecture implementations in Hindi.
 
 
 ### 📚 Books

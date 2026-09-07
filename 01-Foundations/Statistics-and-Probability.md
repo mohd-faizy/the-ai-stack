@@ -57,6 +57,12 @@
   - Type: Playlist
   - Level: Beginner to Intermediate
   - Why: Nitish Singh covers linear algebra, calculus, probability, and optimization in Hindi.
+- [Mathematics, statistics for data science and machine learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE3Aba8g3hVxl0gcocgQpLoA)
+  - Channel: codebasics Hindi
+  - Language: Hindi
+  - Type: Playlist
+  - Level: Beginner
+  - Why: Intuitive explanations of data science math, descriptive statistics, and probability distributions in Hindi.
 
 
 ### 📚 Books

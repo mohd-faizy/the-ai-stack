@@ -27,16 +27,45 @@
 
 ### ▶️ YouTube — English
 
-- [FreeCodeCamp / Edureka: Video Guides & Tutorials](https://www.youtube.com/@freecodecamp)
-  - Channel: FreeCodeCamp / Edureka
+- [Diffusion Models Explained](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8Dw9KooMo3mb0PlNpvNpXJl)
+  - Channel: Code With Aarohi
   - Language: English
-  - Type: Full Course
-  - Level: Beginner
-  - Why: Comprehensive multi-hour introduction to Generative AI, prompt engineering, diffusion, and LLMs.
+  - Type: Playlist
+  - Level: Intermediate
+  - Why: Visual and code explanations of Denoising Diffusion Probabilistic Models (DDPM), forward/reverse processes, and Stable Diffusion.
+- [Local AI Series](https://www.youtube.com/playlist?list=PLB71FAt4fa40)
+  - Channel: Hugging Face
+  - Language: English
+  - Type: Course Series
+  - Level: Beginner to Intermediate
+  - Why: Hands-on guides to running open-weights generative models, Diffusers, and transformers locally.
+- [ChatGPT, GPT4, OpenAI, Stable Diffusion and more!](https://www.youtube.com/playlist?list=PLujxSBD-JXgmB1AnewzycdtUtf5YVUyzU)
+  - Channel: Two Minute Papers
+  - Language: English
+  - Type: Breakthrough Research Summaries
+  - Level: All Levels
+  - Why: Bi-weekly explanations of generative AI milestones from text-to-image to text-to-video.
 
 ### ▶️ YouTube — Hindi / Hinglish
 
-> No high-quality Hindi/Hinglish resource identified for this topic.
+- [Complete Generativ AI And Agentic AI Playlist](https://www.youtube.com/playlist?list=PLTDARY42LDV567lWN_5BtoVGjMFKbthGu)
+  - Channel: Krish Naik Hindi
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Complete end-to-end curriculum on LLMs, LangChain, Hugging Face transformers, and fine-tuning.
+- [Generative AI using LangChain](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0)
+  - Channel: CampusX
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Nitish Singh explains Generative AI application development, prompt engineering, RAG, and LangChain in Hindi.
+- [How to Set Up AI Agents in monday.com in Hindi](https://www.youtube.com/playlist?list=PLFcdI8jkZrBk)
+  - Channel: Metics Media | Hindi
+  - Language: Hindi
+  - Type: Practical Playlist
+  - Level: Beginner
+  - Why: Practical tutorials on generative AI workflows, agent setup, and prompt engineering in Hindi.
 
 
 ### 📚 Books

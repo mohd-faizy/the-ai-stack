@@ -9252,6 +9252,62 @@
             "desc": "Diffusion model resources."
           }
         ]
+      },
+      {
+        "title": "YouTube Courses & Playlists",
+        "fileName": "YouTube-Courses-and-Playlists.md",
+        "repos": [
+          {
+            "name": "3Blue1Brown",
+            "url": "https://www.youtube.com/@3blue1brown",
+            "desc": "Visual mathematics, linear algebra, and neural networks."
+          },
+          {
+            "name": "Andrej Karpathy",
+            "url": "https://www.youtube.com/@AndrejKarpathy",
+            "desc": "Neural Networks: Zero to Hero and GPT from scratch."
+          },
+          {
+            "name": "StatQuest with Josh Starmer",
+            "url": "https://www.youtube.com/@statquest",
+            "desc": "Visual machine learning, statistics, and neural networks."
+          },
+          {
+            "name": "CampusX",
+            "url": "https://www.youtube.com/@campusx-official",
+            "desc": "100 Days of ML, 100 Days of DL, and Agentic AI in Hindi."
+          },
+          {
+            "name": "Krish Naik",
+            "url": "https://www.youtube.com/@krishnaik06",
+            "desc": "End-to-end data science, machine learning, and LangGraph agent tutorials."
+          },
+          {
+            "name": "AI Anytime",
+            "url": "https://www.youtube.com/@AIAnytime",
+            "desc": "Production GenAI applications, LangGraph, and multi-agent workflows."
+          },
+          {
+            "name": "Sebastian Raschka",
+            "url": "https://www.youtube.com/@SebastianRaschka",
+            "desc": "Build a Large Language Model from scratch and PyTorch masterclasses."
+          },
+          {
+            "name": "Umar Jamil",
+            "url": "https://www.youtube.com/@umarjamilai",
+            "desc": "Attention Is All You Need, LLaMA, LoRA, and MoE from scratch in PyTorch."
+          },
+          {
+            "name": "ByteByteGo",
+            "url": "https://www.youtube.com/@ByteByteGo",
+            "desc": "Large-scale system design and machine learning systems architecture."
+          },
+          {
+            "name": "Two Minute Papers",
+            "url": "https://www.youtube.com/@TwoMinutePapers",
+            "desc": "Breakthrough research papers and generative AI milestones."
+          }
+        ]
       }
     ]
   },

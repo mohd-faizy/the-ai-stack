@@ -34,21 +34,45 @@
 
 ### ▶️ YouTube — English
 
-- [freeCodeCamp.org: Video Guides & Tutorials](https://www.youtube.com/@freecodecamp)
-  - Channel: freeCodeCamp.org
-  - Language: English
-  - Type: Course
+- [Agentic AI With Langgraph](https://www.youtube.com/playlist?list=PLZoTAELRMXVPFd7JdvB-rnTb_5V26NYNO)
+  - Channel: Krish Naik
+  - Language: English / Hinglish
+  - Type: Course Playlist
   - Level: Intermediate
-  - Why: Complete coding tutorial setting up StateGraph, conditional edges, SQLite persistence, and tool calling.
+  - Why: Step-by-step production multi-agent system building with LangGraph, SQLite state persistence, and tool integration.
+- [AI Anytime: Video Guides & Tutorials](https://www.youtube.com/@AIAnytime)
+  - Channel: AI Anytime
+  - Language: English
+  - Type: Project Series
+  - Level: Intermediate to Advanced
+  - Why: Production agent pipelines, CrewAI multi-agent teams, and local Ollama autonomous workflows.
+- [Learn Agentic AI: From Basics to Advanced Multi-Agent Systems](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DeLpPBREcC9aU8ESfYeSeX)
+  - Channel: Code With Aarohi
+  - Language: English
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Comprehensive guide to agent memory, tool calling, and multi-agent coordination.
+- [MCP](https://www.youtube.com/playlist?list=PL2xnrU4RbY0DiLpowcC5PxF92N5kY9s_J)
+  - Channel: David Ondrej
+  - Language: English
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Hands-on implementation of Model Context Protocol (MCP) clients, servers, and autonomous agent loops.
 
 ### ▶️ YouTube — Hindi / Hinglish
 
-- [Agentic AI using LangGraph in Hindi](https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL)
+- [Agentic AI using LangGraph](https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL)
   - Channel: CampusX
   - Language: Hindi / Hinglish
   - Type: Playlist
   - Level: Beginner to Intermediate
   - Why: Build autonomous multi-actor workflows, human-in-the-loop, and persistent memory in Hinglish.
+- [Complete Generativ AI And Agentic AI Playlist](https://www.youtube.com/playlist?list=PLTDARY42LDV567lWN_5BtoVGjMFKbthGu)
+  - Channel: Krish Naik Hindi
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: End-to-end multi-agent systems, LangChain, and Generative AI applications in Hindi.
 
 
 ### 📚 Books

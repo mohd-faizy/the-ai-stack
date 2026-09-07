@@ -3852,6 +3852,7 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 > - [66.4 AI Agents Courses](66-AI-Learning-Repositories/AI-Agents-Courses.md)
 > - [66.5 Generative AI Courses](66-AI-Learning-Repositories/Generative-AI-Courses.md)
 > - [66.6 Awesome Lists](66-AI-Learning-Repositories/Awesome-Lists.md)
+> - [66.7 YouTube Courses & Playlists](66-AI-Learning-Repositories/YouTube-Courses-and-Playlists.md)
 
 
 ## 66.1 Machine Learning Courses
@@ -3921,6 +3922,22 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) — Curated list of AI agents.
 * [Awesome ChatGPT Prompts](https://github.com/f/prompts.chat) — Prompt collection.
 * [Awesome Diffusion Models](https://github.com/diff-usion/Awesome-Diffusion-Models) — Diffusion model resources.
+ 
+## 66.7 YouTube Courses & Playlists
+
+> 📖 *Curated Learning Guide:* [66.7 YouTube Courses & Playlists — 84 Premier Channels & Video Playlists](66-AI-Learning-Repositories/YouTube-Courses-and-Playlists.md)
+
+
+* [3Blue1Brown](https://www.youtube.com/@3blue1brown) — Visual mathematics, linear algebra, calculus, and neural networks.
+* [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) — Neural Networks: Zero to Hero and building GPT from scratch.
+* [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) — Visual machine learning, statistics, and neural networks.
+* [CampusX](https://www.youtube.com/@campusx-official) — 100 Days of ML, 100 Days of DL, 100 Days of MLOps, and Agentic AI in Hindi.
+* [Krish Naik](https://www.youtube.com/@krishnaik06) — End-to-end data science, machine learning, and LangGraph agent tutorials.
+* [AI Anytime](https://www.youtube.com/@AIAnytime) — Production GenAI applications, LangGraph, and multi-agent workflows.
+* [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka) — Build a Large Language Model from scratch and PyTorch masterclasses.
+* [Umar Jamil](https://www.youtube.com/@umarjamilai) — Attention Is All You Need, LLaMA, LoRA, and MoE from scratch in PyTorch.
+* [ByteByteGo](https://www.youtube.com/@ByteByteGo) — Large-scale system design and machine learning systems architecture.
+* [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) — Bi-weekly breakdowns of breakthrough research and generative AI.
 
 ---
 

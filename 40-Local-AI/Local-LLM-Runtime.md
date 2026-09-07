@@ -27,16 +27,39 @@
 
 ### ▶️ YouTube — English
 
-- [NetworkChuck / Matthew Berman: Video Guides & Tutorials](https://www.youtube.com/@MatthewBerman)
-  - Channel: NetworkChuck / Matthew Berman
+- [Local AI Series](https://www.youtube.com/playlist?list=PLB71FAt4fa40)
+  - Channel: Hugging Face
+  - Language: English
+  - Type: Course Series
+  - Level: Beginner to Intermediate
+  - Why: Hands-on guides to running open-weights models, local inference runtimes, and transformers on consumer hardware.
+- [LLM Installations](https://www.youtube.com/playlist?list=PLVdRlinteIpZogEBWdKvJLLZer_9-UAwB)
+  - Channel: Fahd Mirza
+  - Language: English
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: The most comprehensive step-by-step installation guides for Ollama, vLLM, llama.cpp, LM Studio, and quantized GGUF/EXL2 models.
+- [Matthew Berman: Video Guides & Tutorials](https://www.youtube.com/@matthew_berman)
+  - Channel: Matthew Berman
   - Language: English
   - Type: Tutorial
   - Level: Beginner
-  - Why: Energetic step-by-step tutorial covering Ollama installation, custom Modelfiles, and API integration.
+  - Why: Energetic step-by-step tutorials covering Ollama installation, custom Modelfiles, and local API integration.
 
 ### ▶️ YouTube — Hindi / Hinglish
 
-> No high-quality Hindi/Hinglish resource identified for this topic.
+- [Complete Generativ AI And Agentic AI Playlist](https://www.youtube.com/playlist?list=PLTDARY42LDV567lWN_5BtoVGjMFKbthGu)
+  - Channel: Krish Naik Hindi
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: End-to-end setup of open-source local LLMs, Ollama, LangChain, and private document Q&A in Hindi.
+- [Generative AI using LangChain](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0)
+  - Channel: CampusX
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Nitish Singh guides through local model serving and vector search integrations in Hindi.
 
 
 ### 📚 Books

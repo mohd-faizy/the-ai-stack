@@ -27,16 +27,45 @@
 
 ### ▶️ YouTube — English
 
-- [FreeCodeCamp / Maxime Labonne: Video Guides & Tutorials](https://www.youtube.com/@freecodecamp)
-  - Channel: FreeCodeCamp / Maxime Labonne
+- [Build a Large Language Model (From Scratch)](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
+  - Channel: Sebastian Raschka
   - Language: English
-  - Type: Course
-  - Level: Intermediate
-  - Why: Comprehensive multi-hour course covering model architecture, LoRA fine-tuning, and GGUF quantization.
+  - Type: Course / Video Series
+  - Level: Intermediate to Advanced
+  - Why: The companion video masterclass for Sebastian Raschka's seminal book, implementing tokenization, attention, and pre-training in PyTorch.
+- [Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.](https://www.youtube.com/watch?v=ISNdQcPhsts)
+  - Channel: Umar Jamil
+  - Language: English
+  - Type: Video Masterclass
+  - Level: Intermediate to Advanced
+  - Why: Definitive line-by-line mathematical derivation and PyTorch code of the original Attention is All You Need architecture.
+- [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+  - Channel: Andrej Karpathy
+  - Language: English
+  - Type: Flagship Lecture
+  - Level: Beginner to Intermediate
+  - Why: Karpathy's world-renowned 1-hour overview of pre-training, fine-tuning, security, and multimodal reasoning.
 
 ### ▶️ YouTube — Hindi / Hinglish
 
-> No high-quality Hindi/Hinglish resource identified for this topic.
+- [Complete Generativ AI And Agentic AI Playlist](https://www.youtube.com/playlist?list=PLTDARY42LDV567lWN_5BtoVGjMFKbthGu)
+  - Channel: Krish Naik Hindi
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Complete end-to-end curriculum on LLMs, LangChain, Hugging Face transformers, and fine-tuning.
+- [Generative AI using LangChain](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0)
+  - Channel: CampusX
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Nitish Singh explains LLM application development, prompt engineering, RAG, and LangChain in Hindi.
+- [LLM Fine-Tuning from Scratch to Advance](https://www.youtube.com/playlist?list=PLQxDHpeGU14AfMnI41zEo5G1xfZXhSVm0)
+  - Channel: Sunny Savita
+  - Language: Hindi
+  - Type: Playlist
+  - Level: Intermediate
+  - Why: Practical fine-tuning of open-source models using LoRA/QLoRA and PEFT in Hindi.
 
 
 ### 📚 Books

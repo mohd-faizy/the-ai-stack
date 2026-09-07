@@ -27,6 +27,18 @@
 
 ### ▶️ YouTube — English
 
+- [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+  - Channel: StatQuest with Josh Starmer
+  - Language: English
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Step-by-step visual mathematical foundations covering Decision Trees, Random Forests, XGBoost, and SVMs.
+- [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA)
+  - Channel: Daniel Bourke
+  - Language: English
+  - Type: Full Course
+  - Level: Beginner to Intermediate
+  - Why: Hands-on code-first introduction to modern machine learning and tensor operations.
 - [FreeCodeCamp / Kylie Ying: Video Guides & Tutorials](https://www.youtube.com/@freecodecamp)
   - Channel: FreeCodeCamp / Kylie Ying
   - Language: English
@@ -36,7 +48,24 @@
 
 ### ▶️ YouTube — Hindi / Hinglish
 
-> No high-quality Hindi/Hinglish resource identified for this topic.
+- [100 Days of Machine Learning | CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+  - Channel: CampusX
+  - Language: Hindi / Hinglish
+  - Type: Full Course Playlist
+  - Level: Beginner to Intermediate
+  - Why: The definitive 100-day series by Nitish Singh covering math, intuition, code, and deployment from scratch.
+- [Mathematics, statistics for data science and machine learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE3Aba8g3hVxl0gcocgQpLoA)
+  - Channel: codebasics Hindi
+  - Language: Hindi
+  - Type: Playlist
+  - Level: Beginner
+  - Why: Intuitive explanations of data science math and machine learning foundations in Hindi.
+- [End To End Data Science Projects](https://www.youtube.com/playlist?list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
+  - Channel: Krish Naik Hindi
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Intermediate
+  - Why: Production end-to-end data science and machine learning pipelines with deployment.
 
 
 ### 📚 Books

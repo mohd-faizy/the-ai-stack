@@ -15,6 +15,7 @@ Explore in-depth roadmaps, authoritative textbooks, official documentation, cour
 * [**LLM Courses**](LLM-Courses.md) — LLM Course, LLMs-from-scratch (Sebastian Raschka), Hands-on LLMs, and LLM Zoomcamp.
 * [**AI Agents Courses**](AI-Agents-Courses.md) — AI Agents for Beginners, Multi AI Agent Systems, and autonomous agent curricula.
 * [**Generative AI Courses**](Generative-AI-Courses.md) — Generative AI for Beginners, Diffusion Models Class, and generative AI roadmaps.
+* [**YouTube Courses & Playlists**](YouTube-Courses-and-Playlists.md) — 84 premier channels, verified university courses, and production playlists across all AI domains.
 * [**Awesome Lists**](Awesome-Lists.md) — Awesome Machine Learning, Awesome LLM, Awesome Generative AI, and curated resource directories.
 
 ## 🧭 Recommended Study Sequence

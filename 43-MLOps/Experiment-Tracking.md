@@ -27,12 +27,18 @@
 
 ### ▶️ YouTube — English
 
-- [FreeCodeCamp / Weights & Biases: Video Guides & Tutorials](https://www.youtube.com/@freecodecamp)
-  - Channel: FreeCodeCamp / Weights & Biases
+- [Weights & Biases: Video Guides & Tutorials](https://www.youtube.com/@WeightsBiases)
+  - Channel: Weights & Biases
   - Language: English
-  - Type: Tutorial
-  - Level: Beginner
-  - Why: Comprehensive hands-on walkthrough showing how to track PyTorch experiments and visualize training loss.
+  - Type: Channel / Tutorials
+  - Level: Intermediate to Advanced
+  - Why: Official guides on experiment tracking, hyperparameter sweeps, Weave tracing, and LLM evaluation benchmarks.
+- [MLOPS](https://www.youtube.com/playlist?list=PLZoTAELRMXVOjS7KXQK3DAj7ER6LT2fEO)
+  - Channel: Krish Naik
+  - Language: English / Hinglish
+  - Type: Playlist
+  - Level: Intermediate
+  - Why: End-to-end MLOps pipeline building with MLflow, DVC, Docker, GitHub Actions, and AWS deployment.
 
 ### ▶️ YouTube — Hindi / Hinglish
 
@@ -42,6 +48,12 @@
   - Type: Playlist
   - Level: Beginner to Intermediate
   - Why: Complete 100-day roadmap on Git, Docker, DVC, MLflow, CI/CD, and model monitoring in Hindi.
+- [LLMOPS](https://www.youtube.com/playlist?list=PLQxDHpeGU14CG-wDgZDqFdjsWhWqtDGdi)
+  - Channel: Sunny Savita
+  - Language: Hindi
+  - Type: Playlist
+  - Level: Intermediate
+  - Why: Production LLMOps, prompt evaluation, model registry, and continuous integration workflows in Hindi.
 
 
 ### 📚 Books

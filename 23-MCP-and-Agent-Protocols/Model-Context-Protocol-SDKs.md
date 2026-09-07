@@ -32,7 +32,19 @@
 
 ### ▶️ YouTube — English
 
-- [Matthew Berman: Video Guides & Tutorials](https://www.youtube.com/@MatthewBerman)
+- [MCP Explained](https://www.youtube.com/playlist?list=PLOspHqNVtKAAY8UCxA15eIK3lgE9BLc4n)
+  - Channel: IBM Technology
+  - Language: English
+  - Type: Lightboard Architectural Series
+  - Level: Beginner to Intermediate
+  - Why: Architectural breakdown of Model Context Protocol (MCP), client-server communication, and standardization.
+- [MCP](https://www.youtube.com/playlist?list=PL2xnrU4RbY0DiLpowcC5PxF92N5kY9s_J)
+  - Channel: David Ondrej
+  - Language: English
+  - Type: Tutorial Series
+  - Level: Beginner to Intermediate
+  - Why: Step-by-step guides building custom MCP servers, connecting Cursor, Claude Desktop, and autonomous agents.
+- [Matthew Berman: Video Guides & Tutorials](https://www.youtube.com/@matthew_berman)
   - Channel: Matthew Berman
   - Language: English
   - Type: Tutorial
@@ -41,7 +53,18 @@
 
 ### ▶️ YouTube — Hindi / Hinglish
 
-> No high-quality Hindi/Hinglish resource identified for this topic.
+- [Model Context Protocol](https://www.youtube.com/playlist?list=PLKnIA16_Rmva_oZ9F4ayUu9qcWgF7Fyc0)
+  - Channel: CampusX
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Complete walkthrough of MCP architecture, FastMCP server setup, and agent connectivity in Hindi.
+- [MCP(Model Context Protocol)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPC8r1xF68Gksi241DAtMsK)
+  - Channel: Krish Naik
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Beginner to Intermediate
+  - Why: Hands-on implementation of MCP tools and custom resources for generative AI applications.
 
 ### 📚 Books
 

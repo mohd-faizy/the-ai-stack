@@ -27,6 +27,18 @@
 
 ### ▶️ YouTube — English
 
+- [How Are Microchips Made?](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuzMea5pSGb2JvQfe42eYYS)
+  - Channel: Branch Education
+  - Language: English
+  - Type: 3D Animated Series
+  - Level: Beginner to Advanced
+  - Why: Visual 3D animations explaining silicon wafer fabrication, semiconductor packaging, GPU transistors, and memory bandwidth.
+- [System Design Fundamentals](https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf)
+  - Channel: ByteByteGo
+  - Language: English
+  - Type: Course Series
+  - Level: Intermediate
+  - Why: Alex Xu breaks down distributed systems, cluster scheduling, load balancing, and high-throughput data processing.
 - [NVIDIA Developer: Video Guides & Tutorials](https://www.youtube.com/@NVIDIADeveloper)
   - Channel: NVIDIA Developer
   - Language: English
@@ -36,7 +48,18 @@
 
 ### ▶️ YouTube — Hindi / Hinglish
 
-> No high-quality Hindi/Hinglish resource identified for this topic.
+- [Generative AI On AWS Cloud](https://www.youtube.com/playlist?list=PLTDARY42LDV6T6qaFV7NfIS2xX18QWhHU)
+  - Channel: Krish Naik Hindi
+  - Language: Hindi / Hinglish
+  - Type: Playlist
+  - Level: Intermediate
+  - Why: Provisioning GPU clusters, EC2 accelerator instances, and cloud AI infrastructure in Hindi.
+- [AWS Foundations](https://www.youtube.com/playlist?list=PLseXYkzLxM8H-PA0ujhUawzt8S2a-h7Fc)
+  - Channel: iNeuron Tech Hindi
+  - Language: Hindi
+  - Type: Course Playlist
+  - Level: Beginner to Intermediate
+  - Why: Cloud computing essentials, VM instances, storage, and distributed infrastructure in Hindi.
 
 
 ### 📚 Books
