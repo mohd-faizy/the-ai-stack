@@ -61,6 +61,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/TensorFlow-Advanced](https://github.com/mohd-faizy/TensorFlow-Advanced) — Generative deep learning with TensorFlow: Autoencoders, Variational Autoencoders (VAEs), Neural Style Transfer, and GANs.
 - [StyleGAN3](https://github.com/NVlabs/stylegan3) — Alias-free generative adversarial networks by NVIDIA.
 - [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl) — Scaling StyleGAN to large and diverse dataset synthesis.
 - [GigaGAN](https://github.com/mingukkang/GigaGAN) — Scaling up generative adversarial networks for fast text-to-image synthesis.
@@ -72,6 +73,7 @@
 
 ### 🛠️ Projects
 
+- [Variational Autoencoder & GAN Latent Exploration](https://github.com/mohd-faizy/TensorFlow-Advanced) — Trained generative models generating novel samples and traversing latent feature manifolds.
 - [Train a VQ-VAE on ImageNet Latents](https://github.com/AntixK/PyTorch-VAE) — Implement vector quantization with codebook commitment loss and visualize reconstructed image patches.
 
 ## 🧭 Recommended Learning Path

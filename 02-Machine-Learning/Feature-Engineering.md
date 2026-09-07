@@ -57,6 +57,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/Preprocess_ML](https://github.com/mohd-faizy/Preprocess_ML) — Production-ready preprocessing pipelines using Scikit-Learn: imputation, scaling, polynomial features, and categorical encodings.
 - [Featuretools](https://github.com/alteryx/featuretools) — Automated feature engineering.
 - [Feature-engine](https://github.com/feature-engine/feature_engine) — Feature engineering and selection.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) — Time series feature extraction.

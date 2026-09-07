@@ -65,6 +65,9 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/DeepLearning_Specialization_with_TensorFlow](https://github.com/mohd-faizy/DeepLearning_Specialization_with_TensorFlow) — Hands-on neural network implementations, backprop derivations, and deep learning architectures with TensorFlow.
+- [mohd-faizy/the-incredible-pytorch](https://github.com/mohd-faizy/the-incredible-pytorch) — The Incredible PyTorch: curated collection of tutorials, papers, architectures, and community resources.
+- [mohd-faizy/PyTorch-Essentials](https://github.com/mohd-faizy/PyTorch-Essentials) — Complete journey from PyTorch fundamentals to advanced custom layers, autograd mechanics, training loops, and dynamic graph inspection.
 - [PyTorch](https://github.com/pytorch/pytorch) — Dynamic computational graph deep learning framework.
 - [TensorFlow](https://github.com/tensorflow/tensorflow) — End-to-end machine learning platform.
 - [JAX](https://github.com/jax-ml/jax) — High-performance numerical computing with XLA.

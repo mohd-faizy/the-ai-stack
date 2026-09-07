@@ -65,6 +65,8 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/Math4ML-LinearAlgebra](https://github.com/mohd-faizy/Math4ML-LinearAlgebra) — Rigorous Jupyter notebook implementations of Linear Algebra, Multivariate Calculus, Matrix Decompositions, and PCA from scratch.
+- [mohd-faizy/maths-for-intelligent-systems](https://github.com/mohd-faizy/maths-for-intelligent-systems) — Comprehensive mathematical and statistical foundations for AI, ML, Deep Learning, Transformers, Reinforcement Learning, and Agentic Systems.
 - [NumPy](https://github.com/numpy/numpy) — Fundamental numerical computing in Python.
 - [SciPy](https://github.com/scipy/scipy) — Scientific computing and algorithms.
 - [SymPy](https://github.com/sympy/sympy) — Symbolic mathematics and computer algebra.
@@ -79,6 +81,7 @@
 
 ### 🛠️ Projects
 
+- [Mathematical Foundations for Intelligent Systems Lab](https://github.com/mohd-faizy/maths-for-intelligent-systems) — Interactive Python notebooks deriving and visualizing eigenvalues, spectral projections, and matrix factorizations for AI architectures.
 - [Build a Micro-Tensor Engine from Scratch](https://github.com/karpathy/micrograd) — Implement multi-dimensional tensor representations, matrix multiplication, and broadcasting from pure Python.
 - [Eigenface Facial Recognition via SVD/PCA](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html) — Dimensionality reduction on image matrices using SVD decomposition.
 

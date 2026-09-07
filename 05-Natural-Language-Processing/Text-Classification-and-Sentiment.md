@@ -50,6 +50,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/NLP_Projects](https://github.com/mohd-faizy/NLP_Projects) — End-to-end text classification, sentiment analysis, document clustering, and sequence prediction models.
 - [TextAttack](https://github.com/QData/TextAttack) — Adversarial attacks and data augmentation for NLP.
 - [Setfit](https://github.com/huggingface/setfit) — Few-shot text classification.
 - [FastText](https://github.com/facebookresearch/fastText) — Efficient text classification and word representations.

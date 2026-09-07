@@ -55,6 +55,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/NanoTorch-LLM](https://github.com/mohd-faizy/NanoTorch-LLM) — A minimalist, educational Language Model built from scratch using PyTorch. Learn the core mechanics of LLMs, module-by-module.
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) — Efficient local LLM inference in C/C++.
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm) — Universal LLM deployment on any device.
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) — NVIDIA-optimized LLM inference.
@@ -69,6 +70,7 @@
 
 ### 🛠️ Projects
 
+- [NanoTorch-LLM From-Scratch Decoder](https://github.com/mohd-faizy/NanoTorch-LLM) — Step-by-step modular implementation of causal multi-head self-attention, rotary position embeddings, and autoregressive text generation.
 - [Build a Custom 125M Llama Architecture from Scratch](https://github.com/pytorch/torchtune) — Assemble SwiGLU, RoPE, RMSNorm, and GQA into a custom decoder-only model and pre-train on OpenWebText.
 
 ## 🧭 Recommended Learning Path

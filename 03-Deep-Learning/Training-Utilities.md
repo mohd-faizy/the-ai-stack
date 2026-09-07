@@ -63,6 +63,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow](https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow) — Quantifying uncertainty, epistemic noise, and variational inference in deep learning using TensorFlow Probability.
 - [Lightning](https://github.com/Lightning-AI/pytorch-lightning) — Structured PyTorch training framework.
 - [timm](https://github.com/huggingface/pytorch-image-models) — PyTorch image model library with hundreds of pretrained models.
 - [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) — Machine learning metrics for PyTorch.

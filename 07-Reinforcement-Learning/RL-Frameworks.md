@@ -64,6 +64,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/Reinforcement_learning](https://github.com/mohd-faizy/Reinforcement_learning) — Reinforcement learning foundations, algorithms, and agents for navigating environments and LLM policy training.
 - [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3) — Reliable RL algorithm implementations.
 - [CleanRL](https://github.com/vwxyzjn/cleanrl) — High-quality single-file RL implementations.
 - [Ray RLlib](https://github.com/ray-project/ray) — Scalable reinforcement learning library.
@@ -80,6 +81,7 @@
 
 ### 🛠️ Projects
 
+- [Deep Q-Learning & Policy Gradient Agent Playground](https://github.com/mohd-faizy/Reinforcement_learning) — Hands-on implementation of Q-learning, deep Q-networks, and policy gradients in Python.
 - [Train an Autonomous Lunar Lander Agent with PPO](https://stable-baselines3.readthedocs.io/) — Train a continuous control agent using Stable-Baselines3 and record evaluation videos.
 
 ## 🧭 Recommended Learning Path

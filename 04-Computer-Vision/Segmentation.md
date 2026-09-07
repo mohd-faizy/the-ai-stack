@@ -57,6 +57,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/TensorFlow-Advanced](https://github.com/mohd-faizy/TensorFlow-Advanced) — Advanced computer vision implementations covering semantic segmentation with U-Net, FCN, and custom loss functions.
 - [Segment Anything](https://github.com/facebookresearch/segment-anything) — General-purpose segmentation model.
 - [Segment Anything 2](https://github.com/facebookresearch/sam2) — SAM for images and videos.
 - [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) — Semantic segmentation toolbox.

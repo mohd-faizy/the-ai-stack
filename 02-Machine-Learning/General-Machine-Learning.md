@@ -66,6 +66,8 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/Machine-Learning-Algorithms](https://github.com/mohd-faizy/Machine-Learning-Algorithms) — From-scratch algorithmic implementations of core ML models in Python Jupyter Notebooks with detailed mathematical explanations.
+- [mohd-faizy/Machine_Learning_with_Python](https://github.com/mohd-faizy/Machine_Learning_with_Python) — Comprehensive toolkit and notebooks covering classical supervised and unsupervised machine learning algorithms, model evaluation, and inference.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) — General-purpose machine learning in Python.
 - [XGBoost](https://github.com/dmlc/xgboost) — Scalable gradient boosting.
 - [LightGBM](https://github.com/lightgbm-org/LightGBM) — Fast gradient boosting framework.

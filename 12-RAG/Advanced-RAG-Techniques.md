@@ -60,6 +60,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/RAG-Design-Patterns](https://github.com/mohd-faizy/RAG-Design-Patterns) — Modular implementations of advanced retrieval strategies: HyDE, parent-document chunking, cross-encoder reranking, and self-reflective loops.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — Document-centric RAG with deep parsing.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) — Advanced retrieval strategies (sub-question, recursive, etc.).
 - [parthsarthi03/raptor](https://github.com/parthsarthi03/raptor) — Recursive abstractive processing for tree-organized retrieval.
@@ -75,6 +76,7 @@
 
 ### 🛠️ Projects
 
+- [Advanced Query Expansion & Cross-Encoder Reranker](https://github.com/mohd-faizy/RAG-Design-Patterns) — Production pipeline combining multi-query generation with BGE / Cohere reranking for ultra-high precision passage retrieval.
 - [Contextual Hybrid Financial Search Engine](https://www.anthropic.com/news/contextual-retrieval) — Implement Anthropic Contextual Retrieval with Cohere Rerank to query multi-page corporate balance sheets with zero lost context.
 
 ## 🧭 Recommended Learning Path

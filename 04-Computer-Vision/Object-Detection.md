@@ -62,6 +62,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/TensorFlow-Advanced](https://github.com/mohd-faizy/TensorFlow-Advanced) — Object detection architectures, bounding box coordinate regression, anchor boxes, and IoU metric evaluation in TensorFlow.
 - [Ultralytics](https://github.com/ultralytics/ultralytics) — YOLOv8/v11 and beyond.
 - [Detectron2](https://github.com/facebookresearch/detectron2) — Meta's detection and segmentation platform.
 - [MMDetection](https://github.com/open-mmlab/mmdetection) — Object detection toolbox with 200+ models.

@@ -66,6 +66,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/Stats-with-Data](https://github.com/mohd-faizy/Stats-with-Data) — Practical statistical methods, probability distributions, regression modeling, and hypothesis testing in Python.
 - [statsmodels](https://github.com/statsmodels/statsmodels) — Statistical modeling and econometrics.
 - [PyMC](https://github.com/pymc-devs/pymc) — Probabilistic programming and Bayesian modeling.
 - [ArviZ](https://github.com/arviz-devs/arviz) — Exploratory analysis of Bayesian models.

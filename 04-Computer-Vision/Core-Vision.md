@@ -56,6 +56,8 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/TF02_Convolutional-Neural-Networks-in-TensorFlow](https://github.com/mohd-faizy/TF02_Convolutional-Neural-Networks-in-TensorFlow) — Convolutional neural network architectures in TensorFlow: feature visualization, data augmentation, transfer learning, and dropout regularization.
+- [mohd-faizy/Computer-Vision-Zero-to-Hero](https://github.com/mohd-faizy/Computer-Vision-Zero-to-Hero) — Practical computer vision repository implementing image transformations, feature matching, and deep vision pipelines using OpenCV and PyTorch.
 - [OpenCV](https://github.com/opencv/opencv) — Computer vision library with 2500+ optimized algorithms.
 - [scikit-image](https://github.com/scikit-image/scikit-image) — Image processing in Python.
 - [Kornia](https://github.com/kornia/kornia) — Differentiable computer vision library for PyTorch.

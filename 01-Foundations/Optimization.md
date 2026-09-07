@@ -65,6 +65,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/maths-for-intelligent-systems](https://github.com/mohd-faizy/maths-for-intelligent-systems) — Derivations and implementations of gradient descent, Adam, momentum, Newton-Raphson, and constrained optimization algorithms.
 - [CVXPY](https://github.com/cvxpy/cvxpy) — Convex optimization in Python.
 - [Optuna](https://github.com/optuna/optuna) — Hyperparameter optimization framework.
 - [scipy.optimize](https://github.com/scipy/scipy) — Optimization algorithms within SciPy.

@@ -57,6 +57,8 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/Natural_Language_Processing_in_Python](https://github.com/mohd-faizy/Natural_Language_Processing_in_Python) — Applied natural language processing workflows: tokenization, vocabulary indexing, TF-IDF, Word2Vec, and sequence modeling.
+- [mohd-faizy/The-NLP-Pandect](https://github.com/mohd-faizy/The-NLP-Pandect) — A comprehensive encyclopedic reference repository covering classical NLP to transformer-based language representations.
 - [spaCy](https://github.com/explosion/spaCy) — Industrial-strength NLP library.
 - [NLTK](https://github.com/nltk/nltk) — The Natural Language Toolkit.
 - [Stanza](https://github.com/stanfordnlp/stanza) — Stanford NLP Python library.
@@ -72,6 +74,7 @@
 
 ### 🛠️ Projects
 
+- [Comprehensive NLP Knowledge Base & Model Suite](https://github.com/mohd-faizy/The-NLP-Pandect) — Extensive documentation and code examples walking through text normalization, linguistic parsing, and transformer inference.
 - [End-to-End Multilingual Text Tagger & Classifier](https://huggingface.co/learn/nlp-course/chapter3/1) — Build and deploy a custom fine-tuned RoBERTa classification API using Hugging Face Trainer and FastAPI.
 
 ## 🧭 Recommended Learning Path

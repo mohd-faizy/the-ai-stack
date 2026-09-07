@@ -12,88 +12,88 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 ## Contents
 
 * [Essential AI Repositories](#essential-ai-repositories)
-* [Foundations](#foundations)
-* [Machine Learning](#machine-learning)
-* [Deep Learning](#deep-learning)
-* [Computer Vision](#computer-vision)
-* [Natural Language Processing](#natural-language-processing)
-* [Speech & Audio](#speech--audio)
-* [Reinforcement Learning](#reinforcement-learning)
-* [Generative AI](#generative-ai)
-* [Foundation Models](#foundation-models)
-* [Large Language Models](#large-language-models)
-* [Embeddings](#embeddings)
-* [Retrieval-Augmented Generation](#retrieval-augmented-generation)
-* [Vector Databases](#vector-databases)
-* [Search & Retrieval](#search--retrieval)
-* [Knowledge Graphs](#knowledge-graphs)
-* [Agentic AI & AI Agents](#agentic-ai--ai-agents)
-* [Multi-Agent Systems](#multi-agent-systems)
-* [Agent Memory](#agent-memory)
-* [Agent Tools](#agent-tools)
-* [AI Coding](#ai-coding)
-* [Browser Agents](#browser-agents)
-* [Computer Use](#computer-use)
-* [MCP & Agent Protocols](#mcp--agent-protocols)
-* [Multimodal AI](#multimodal-ai)
-* [Image Generation](#image-generation)
-* [Video Generation](#video-generation)
-* [Audio & Music Generation](#audio--music-generation)
-* [3D AI](#3d-ai)
-* [World Models](#world-models)
-* [Robotics](#robotics)
-* [Autonomous Vehicles](#autonomous-vehicles)
-* [AI Evaluation](#ai-evaluation)
-* [AI Safety](#ai-safety)
-* [AI Security](#ai-security)
-* [Interpretability](#interpretability)
-* [Model Inference](#model-inference)
-* [Quantization](#quantization)
-* [Model Training](#model-training)
-* [Fine-Tuning](#fine-tuning)
-* [Local AI](#local-ai)
-* [Edge AI](#edge-ai)
-* [AI Infrastructure](#ai-infrastructure)
-* [MLOps](#mlops)
-* [LLMOps](#llmops)
-* [Data Engineering for AI](#data-engineering-for-ai)
-* [Datasets & Annotation](#datasets--annotation)
-* [AI Knowledge & Research](#ai-knowledge--research)
-* [AI for Science](#ai-for-science)
-* [Bioinformatics](#bioinformatics)
-* [Healthcare AI](#healthcare-ai)
-* [AI for Mathematics](#ai-for-mathematics)
-* [AI for Finance](#ai-for-finance)
-* [AI for Legal](#ai-for-legal)
-* [AI for Climate & Environment](#ai-for-climate--environment)
-* [AI for Education](#ai-for-education)
-* [Developer AI](#developer-ai)
-* [AI Databases](#ai-databases)
-* [Document AI](#document-ai)
-* [Conversational AI](#conversational-ai)
-* [AI Search & Research Agents](#ai-search--research-agents)
-* [Human-AI Interaction](#human-ai-interaction)
-* [AI for Games](#ai-for-games)
-* [AI Automation](#ai-automation)
-* [Emerging AI](#emerging-ai)
-* [AI Research Implementations](#ai-research-implementations)
-* [AI Learning Repositories](#ai-learning-repositories)
-* [AI Research Organizations](#ai-research-organizations)
-* [AI APIs & SDKs](#ai-apis--sdks)
-* [AI Developer Tooling](#ai-developer-tooling)
-* [Prompt Engineering](#prompt-engineering)
-* [Structured Generation](#structured-generation)
-* [Reasoning & Planning](#reasoning--planning)
-* [Model Compression](#model-compression)
-* [Efficient AI](#efficient-ai)
-* [Sustainable AI](#sustainable-ai)
-* [Responsible AI](#responsible-ai)
-* [Privacy-Preserving AI](#privacy-preserving-ai)
-* [AI Diagnostics](#ai-diagnostics)
-* [Neuro-Symbolic AI](#neuro-symbolic-ai)
-* [Causal AI](#causal-ai)
-* [Simulation & Digital Twins](#simulation--digital-twins)
-* [Evolutionary & Genetic AI](#evolutionary--genetic-ai)
+* [01. Foundations](#01-foundations)
+* [02. Machine Learning](#02-machine-learning)
+* [03. Deep Learning](#03-deep-learning)
+* [04. Computer Vision](#04-computer-vision)
+* [05. Natural Language Processing](#05-natural-language-processing)
+* [06. Speech & Audio](#06-speech--audio)
+* [07. Reinforcement Learning](#07-reinforcement-learning)
+* [08. Generative AI](#08-generative-ai)
+* [09. Foundation Models](#09-foundation-models)
+* [10. Large Language Models](#10-large-language-models)
+* [11. Embeddings](#11-embeddings)
+* [12. Retrieval-Augmented Generation](#12-retrieval-augmented-generation)
+* [13. Vector Databases](#13-vector-databases)
+* [14. Search & Retrieval](#14-search--retrieval)
+* [15. Knowledge Graphs](#15-knowledge-graphs)
+* [16. Agentic AI & AI Agents](#16-agentic-ai--ai-agents)
+* [17. Multi-Agent Systems](#17-multi-agent-systems)
+* [18. Agent Memory](#18-agent-memory)
+* [19. Agent Tools](#19-agent-tools)
+* [20. AI Coding](#20-ai-coding)
+* [21. Browser Agents](#21-browser-agents)
+* [22. Computer Use](#22-computer-use)
+* [23. MCP & Agent Protocols](#23-mcp--agent-protocols)
+* [24. Multimodal AI](#24-multimodal-ai)
+* [25. Image Generation](#25-image-generation)
+* [26. Video Generation](#26-video-generation)
+* [27. Audio & Music Generation](#27-audio--music-generation)
+* [28. 3D AI](#28-3d-ai)
+* [29. World Models](#29-world-models)
+* [30. Robotics](#30-robotics)
+* [31. Autonomous Vehicles](#31-autonomous-vehicles)
+* [32. AI Evaluation](#32-ai-evaluation)
+* [33. AI Safety](#33-ai-safety)
+* [34. AI Security](#34-ai-security)
+* [35. Interpretability](#35-interpretability)
+* [36. Model Inference](#36-model-inference)
+* [37. Quantization](#37-quantization)
+* [38. Model Training](#38-model-training)
+* [39. Fine-Tuning](#39-fine-tuning)
+* [40. Local AI](#40-local-ai)
+* [41. Edge AI](#41-edge-ai)
+* [42. AI Infrastructure](#42-ai-infrastructure)
+* [43. MLOps](#43-mlops)
+* [44. LLMOps](#44-llmops)
+* [45. Data Engineering for AI](#45-data-engineering-for-ai)
+* [46. Datasets & Annotation](#46-datasets--annotation)
+* [47. AI Knowledge & Research](#47-ai-knowledge--research)
+* [48. AI for Science](#48-ai-for-science)
+* [49. Bioinformatics](#49-bioinformatics)
+* [50. Healthcare AI](#50-healthcare-ai)
+* [51. AI for Mathematics](#51-ai-for-mathematics)
+* [52. AI for Finance](#52-ai-for-finance)
+* [53. AI for Legal](#53-ai-for-legal)
+* [54. AI for Climate & Environment](#54-ai-for-climate--environment)
+* [55. AI for Education](#55-ai-for-education)
+* [56. Developer AI](#56-developer-ai)
+* [57. AI Databases](#57-ai-databases)
+* [58. Document AI](#58-document-ai)
+* [59. Conversational AI](#59-conversational-ai)
+* [60. AI Search & Research Agents](#60-ai-search--research-agents)
+* [61. Human-AI Interaction](#61-human-ai-interaction)
+* [62. AI for Games](#62-ai-for-games)
+* [63. AI Automation](#63-ai-automation)
+* [64. Emerging AI](#64-emerging-ai)
+* [65. AI Research Implementations](#65-ai-research-implementations)
+* [66. AI Learning Repositories](#66-ai-learning-repositories)
+* [67. AI Research Organizations](#67-ai-research-organizations)
+* [68. AI APIs & SDKs](#68-ai-apis--sdks)
+* [69. AI Developer Tooling](#69-ai-developer-tooling)
+* [70. Prompt Engineering](#70-prompt-engineering)
+* [71. Structured Generation](#71-structured-generation)
+* [72. Reasoning & Planning](#72-reasoning--planning)
+* [73. Model Compression](#73-model-compression)
+* [74. Efficient AI](#74-efficient-ai)
+* [75. Sustainable AI](#75-sustainable-ai)
+* [76. Responsible AI](#76-responsible-ai)
+* [77. Privacy-Preserving AI](#77-privacy-preserving-ai)
+* [78. AI Diagnostics](#78-ai-diagnostics)
+* [79. Neuro-Symbolic AI](#79-neuro-symbolic-ai)
+* [80. Causal AI](#80-causal-ai)
+* [81. Simulation & Digital Twins](#81-simulation--digital-twins)
+* [82. Evolutionary & Genetic AI](#82-evolutionary--genetic-ai)
 * [Notable Repositories](#notable-repositories)
 
 ---
@@ -141,22 +141,24 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Foundations
+# 01. Foundations
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Foundations — Domain Overview & Roadmap**](01-Foundations/README.md)
-> - [Mathematics & Linear Algebra](01-Foundations/Mathematics-and-Linear-Algebra.md)
-> - [Statistics & Probability](01-Foundations/Statistics-and-Probability.md)
-> - [Optimization](01-Foundations/Optimization.md)
-> - [Automatic Differentiation](01-Foundations/Automatic-Differentiation.md)
-> - [Data Visualization](01-Foundations/Data-Visualization.md)
+> - [1.1 Mathematics & Linear Algebra](01-Foundations/Mathematics-and-Linear-Algebra.md)
+> - [1.2 Statistics & Probability](01-Foundations/Statistics-and-Probability.md)
+> - [1.3 Optimization](01-Foundations/Optimization.md)
+> - [1.4 Automatic Differentiation](01-Foundations/Automatic-Differentiation.md)
+> - [1.5 Data Visualization](01-Foundations/Data-Visualization.md)
 
 
-## Mathematics & Linear Algebra
+## 1.1 Mathematics & Linear Algebra
 
-> 📖 *Curated Learning Guide:* [Mathematics & Linear Algebra — Study Guide, Courses & Repositories](01-Foundations/Mathematics-and-Linear-Algebra.md)
+> 📖 *Curated Learning Guide:* [1.1 Mathematics & Linear Algebra — Study Guide, Courses & Repositories](01-Foundations/Mathematics-and-Linear-Algebra.md)
 
 
+* [maths-for-intelligent-systems](https://github.com/mohd-faizy/maths-for-intelligent-systems) — Mathematical and statistical foundations for AI, ML, DL, Transformers, Reinforcement Learning, and Agentic Systems.
+* [Math4ML-LinearAlgebra](https://github.com/mohd-faizy/Math4ML-LinearAlgebra) — Linear Algebra, Multivariate Calculus & PCA in Python.
 * [NumPy](https://github.com/numpy/numpy) — Fundamental numerical computing in Python.
 * [SciPy](https://github.com/scipy/scipy) — Scientific computing and algorithms.
 * [SymPy](https://github.com/sympy/sympy) — Symbolic mathematics and computer algebra.
@@ -164,11 +166,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Numba](https://github.com/numba/numba) — JIT compiler for numerical Python.
 * [einops](https://github.com/arogozhnikov/einops) — Flexible and powerful tensor operations.
 
-## Statistics & Probability
+## 1.2 Statistics & Probability
 
-> 📖 *Curated Learning Guide:* [Statistics & Probability — Study Guide, Courses & Repositories](01-Foundations/Statistics-and-Probability.md)
+> 📖 *Curated Learning Guide:* [1.2 Statistics & Probability — Study Guide, Courses & Repositories](01-Foundations/Statistics-and-Probability.md)
 
 
+* [Stats-with-Data](https://github.com/mohd-faizy/Stats-with-Data) — Practical statistics, probability distributions, regression modeling, and hypothesis testing in Python.
 * [statsmodels](https://github.com/statsmodels/statsmodels) — Statistical modeling and econometrics.
 * [PyMC](https://github.com/pymc-devs/pymc) — Probabilistic programming and Bayesian modeling.
 * [ArviZ](https://github.com/arviz-devs/arviz) — Exploratory analysis of Bayesian models.
@@ -177,9 +180,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Stan](https://github.com/stan-dev/stan) — State-of-the-art Bayesian inference platform.
 * [Numpyro](https://github.com/pyro-ppl/numpyro) — Lightweight probabilistic programming with JAX.
 
-## Optimization
+## 1.3 Optimization
 
-> 📖 *Curated Learning Guide:* [Optimization — Study Guide, Courses & Repositories](01-Foundations/Optimization.md)
+> 📖 *Curated Learning Guide:* [1.3 Optimization — Study Guide, Courses & Repositories](01-Foundations/Optimization.md)
 
 
 * [CVXPY](https://github.com/cvxpy/cvxpy) — Convex optimization in Python.
@@ -191,20 +194,21 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Hyperopt](https://github.com/hyperopt/hyperopt) — Distributed hyperparameter optimization.
 * [Ray Tune](https://github.com/ray-project/ray) — Scalable hyperparameter tuning.
 
-## Automatic Differentiation
+## 1.4 Automatic Differentiation
 
-> 📖 *Curated Learning Guide:* [Automatic Differentiation — Study Guide, Courses & Repositories](01-Foundations/Automatic-Differentiation.md)
+> 📖 *Curated Learning Guide:* [1.4 Automatic Differentiation — Study Guide, Courses & Repositories](01-Foundations/Automatic-Differentiation.md)
 
 
 * [JAX](https://github.com/jax-ml/jax) — Composable transformations of numerical programs.
 * [Autograd](https://github.com/HIPS/autograd) — Automatic differentiation for Python and NumPy.
 * [torch.autograd](https://github.com/pytorch/pytorch) — PyTorch's automatic differentiation engine.
 
-## Data Visualization
+## 1.5 Data Visualization
 
-> 📖 *Curated Learning Guide:* [Data Visualization — Study Guide, Courses & Repositories](01-Foundations/Data-Visualization.md)
+> 📖 *Curated Learning Guide:* [1.5 Data Visualization — Study Guide, Courses & Repositories](01-Foundations/Data-Visualization.md)
 
 
+* [omni-eda](https://github.com/mohd-faizy/omni-eda) — Fully automated, production-grade Exploratory Data Analysis (EDA) for pandas DataFrames.
 * [Matplotlib](https://github.com/matplotlib/matplotlib) — Comprehensive 2D plotting library.
 * [Seaborn](https://github.com/mwaskom/seaborn) — Statistical data visualization.
 * [Plotly](https://github.com/plotly/plotly.py) — Interactive graphing library.
@@ -217,24 +221,26 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Machine Learning
+# 02. Machine Learning
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Machine Learning — Domain Overview & Roadmap**](02-Machine-Learning/README.md)
-> - [General Machine Learning](02-Machine-Learning/General-Machine-Learning.md)
-> - [AutoML](02-Machine-Learning/AutoML.md)
-> - [Time Series](02-Machine-Learning/Time-Series.md)
-> - [Recommender Systems](02-Machine-Learning/Recommender-Systems.md)
-> - [Anomaly Detection](02-Machine-Learning/Anomaly-Detection.md)
-> - [Clustering](02-Machine-Learning/Clustering.md)
-> - [Feature Engineering](02-Machine-Learning/Feature-Engineering.md)
+> - [2.1 General Machine Learning](02-Machine-Learning/General-Machine-Learning.md)
+> - [2.2 AutoML](02-Machine-Learning/AutoML.md)
+> - [2.3 Time Series](02-Machine-Learning/Time-Series.md)
+> - [2.4 Recommender Systems](02-Machine-Learning/Recommender-Systems.md)
+> - [2.5 Anomaly Detection](02-Machine-Learning/Anomaly-Detection.md)
+> - [2.6 Clustering](02-Machine-Learning/Clustering.md)
+> - [2.7 Feature Engineering](02-Machine-Learning/Feature-Engineering.md)
 
 
-## General Machine Learning
+## 2.1 General Machine Learning
 
-> 📖 *Curated Learning Guide:* [General Machine Learning — Study Guide, Courses & Repositories](02-Machine-Learning/General-Machine-Learning.md)
+> 📖 *Curated Learning Guide:* [2.1 General Machine Learning — Study Guide, Courses & Repositories](02-Machine-Learning/General-Machine-Learning.md)
 
 
+* [Machine_Learning_with_Python](https://github.com/mohd-faizy/Machine_Learning_with_Python) — Comprehensive tools and notebooks for supervised and unsupervised machine learning algorithms.
+* [Machine-Learning-Algorithms](https://github.com/mohd-faizy/Machine-Learning-Algorithms) — Jupyter notebook implementations of core ML algorithms from scratch.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) — General-purpose machine learning in Python.
 * [XGBoost](https://github.com/dmlc/xgboost) — Scalable gradient boosting.
 * [LightGBM](https://github.com/lightgbm-org/LightGBM) — Fast gradient boosting framework.
@@ -246,9 +252,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [MLlib](https://github.com/apache/spark) — Apache Spark's distributed ML library.
 * [Shogun](https://github.com/shogun-toolbox/shogun) — Unified machine learning framework.
 
-## AutoML
+## 2.2 AutoML
 
-> 📖 *Curated Learning Guide:* [AutoML — Study Guide, Courses & Repositories](02-Machine-Learning/AutoML.md)
+> 📖 *Curated Learning Guide:* [2.2 AutoML — Study Guide, Courses & Repositories](02-Machine-Learning/AutoML.md)
 
 
 * [AutoGluon](https://github.com/autogluon/autogluon) — Automated machine learning by AWS.
@@ -260,11 +266,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [PyCaret](https://github.com/pycaret/pycaret) — Low-code machine learning automation.
 * [BOHB](https://github.com/automl/HpBandSter) — Bayesian optimization and hyperband.
 
-## Time Series
+## 2.3 Time Series
 
-> 📖 *Curated Learning Guide:* [Time Series — Study Guide, Courses & Repositories](02-Machine-Learning/Time-Series.md)
+> 📖 *Curated Learning Guide:* [2.3 Time Series — Study Guide, Courses & Repositories](02-Machine-Learning/Time-Series.md)
 
 
+* [TF04_Sequences-Time-Series-and-Prediction](https://github.com/mohd-faizy/TF04_Sequences-Time-Series-and-Prediction) — Time series forecasting with RNNs and ConvNets.
 * [Darts](https://github.com/unit8co/darts) — Time-series forecasting library.
 * [sktime](https://github.com/sktime/sktime) — Unified time-series machine learning framework.
 * [GluonTS](https://github.com/awslabs/gluonts) — Probabilistic time-series modeling.
@@ -277,9 +284,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Merlion](https://github.com/salesforce/Merlion) — Time series intelligence by Salesforce.
 * [TimesFM](https://github.com/google-research/timesfm) — Time series foundation model by Google.
 
-## Recommender Systems
+## 2.4 Recommender Systems
 
-> 📖 *Curated Learning Guide:* [Recommender Systems — Study Guide, Courses & Repositories](02-Machine-Learning/Recommender-Systems.md)
+> 📖 *Curated Learning Guide:* [2.4 Recommender Systems — Study Guide, Courses & Repositories](02-Machine-Learning/Recommender-Systems.md)
 
 
 * [RecBole](https://github.com/RUCAIBox/RecBole) — Unified recommendation algorithm library.
@@ -290,9 +297,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Implicit](https://github.com/benfred/implicit) — Fast collaborative filtering for implicit datasets.
 * [Cornac](https://github.com/PreferredAI/cornac) — Multimodal recommendation framework.
 
-## Anomaly Detection
+## 2.5 Anomaly Detection
 
-> 📖 *Curated Learning Guide:* [Anomaly Detection — Study Guide, Courses & Repositories](02-Machine-Learning/Anomaly-Detection.md)
+> 📖 *Curated Learning Guide:* [2.5 Anomaly Detection — Study Guide, Courses & Repositories](02-Machine-Learning/Anomaly-Detection.md)
 
 
 * [PyOD](https://github.com/yzhao062/pyod) — Outlier detection in Python.
@@ -300,9 +307,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Anomalib](https://github.com/open-edge-platform/anomalib) — Deep learning anomaly detection.
 * [ADTK](https://github.com/arundo/adtk) — Anomaly detection in time series.
 
-## Clustering
+## 2.6 Clustering
 
-> 📖 *Curated Learning Guide:* [Clustering — Study Guide, Courses & Repositories](02-Machine-Learning/Clustering.md)
+> 📖 *Curated Learning Guide:* [2.6 Clustering — Study Guide, Courses & Repositories](02-Machine-Learning/Clustering.md)
 
 
 * [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan) — Hierarchical density-based clustering.
@@ -310,11 +317,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [scikit-learn Clustering](https://github.com/scikit-learn/scikit-learn) — K-Means, DBSCAN, and more.
 * [PaCMAP](https://github.com/YingfanWang/PaCMAP) — Pairwise controlled manifold approximation.
 
-## Feature Engineering
+## 2.7 Feature Engineering
 
-> 📖 *Curated Learning Guide:* [Feature Engineering — Study Guide, Courses & Repositories](02-Machine-Learning/Feature-Engineering.md)
+> 📖 *Curated Learning Guide:* [2.7 Feature Engineering — Study Guide, Courses & Repositories](02-Machine-Learning/Feature-Engineering.md)
 
 
+* [Preprocess_ML](https://github.com/mohd-faizy/Preprocess_ML) — Data preprocessing pipelines using Scikit-learn API.
 * [Featuretools](https://github.com/alteryx/featuretools) — Automated feature engineering.
 * [Feature-engine](https://github.com/feature-engine/feature_engine) — Feature engineering and selection.
 * [tsfresh](https://github.com/blue-yonder/tsfresh) — Time series feature extraction.
@@ -323,21 +331,23 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Deep Learning
+# 03. Deep Learning
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Deep Learning — Domain Overview & Roadmap**](03-Deep-Learning/README.md)
-> - [Frameworks](03-Deep-Learning/Frameworks.md)
-> - [Distributed Training](03-Deep-Learning/Distributed-Training.md)
-> - [Training Utilities](03-Deep-Learning/Training-Utilities.md)
-> - [Neural Architecture Search](03-Deep-Learning/Neural-Architecture-Search.md)
+> - [3.1 Frameworks](03-Deep-Learning/Frameworks.md)
+> - [3.2 Distributed Training](03-Deep-Learning/Distributed-Training.md)
+> - [3.3 Training Utilities](03-Deep-Learning/Training-Utilities.md)
+> - [3.4 Neural Architecture Search](03-Deep-Learning/Neural-Architecture-Search.md)
 
 
-## Frameworks
+## 3.1 Frameworks
 
-> 📖 *Curated Learning Guide:* [Frameworks — Study Guide, Courses & Repositories](03-Deep-Learning/Frameworks.md)
+> 📖 *Curated Learning Guide:* [3.1 Frameworks — Study Guide, Courses & Repositories](03-Deep-Learning/Frameworks.md)
 
 
+* [PyTorch-Essentials](https://github.com/mohd-faizy/PyTorch-Essentials) — Complete resources for mastering PyTorch from fundamentals to advanced dynamic graph architectures.
+* [the-incredible-pytorch](https://github.com/mohd-faizy/the-incredible-pytorch) — Curated collection of tutorials, papers, and community projects for PyTorch.
 * [PyTorch](https://github.com/pytorch/pytorch) — Dynamic computational graph deep learning framework.
 * [TensorFlow](https://github.com/tensorflow/tensorflow) — End-to-end machine learning platform.
 * [JAX](https://github.com/jax-ml/jax) — High-performance numerical computing with XLA.
@@ -348,9 +358,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [OneFlow](https://github.com/Oneflow-Inc/oneflow) — Deep learning framework optimized for distributed training.
 * [MindSpore](https://github.com/mindspore-ai/mindspore) — AI computing framework by Huawei.
 
-## Distributed Training
+## 3.2 Distributed Training
 
-> 📖 *Curated Learning Guide:* [Distributed Training — Study Guide, Courses & Repositories](03-Deep-Learning/Distributed-Training.md)
+> 📖 *Curated Learning Guide:* [3.2 Distributed Training — Study Guide, Courses & Repositories](03-Deep-Learning/Distributed-Training.md)
 
 
 * [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — Deep learning optimization library.
@@ -363,11 +373,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [torch.distributed](https://github.com/pytorch/pytorch) — PyTorch's native distributed training.
 * [Determined AI](https://github.com/determined-ai/determined) — Distributed deep learning training platform.
 
-## Training Utilities
+## 3.3 Training Utilities
 
-> 📖 *Curated Learning Guide:* [Training Utilities — Study Guide, Courses & Repositories](03-Deep-Learning/Training-Utilities.md)
+> 📖 *Curated Learning Guide:* [3.3 Training Utilities — Study Guide, Courses & Repositories](03-Deep-Learning/Training-Utilities.md)
 
 
+* [Probabilistic-Deep-Learning-with-TensorFlow](https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow) — Quantify uncertainty and noise in deep learning using TensorFlow Probability.
 * [Lightning](https://github.com/Lightning-AI/pytorch-lightning) — Structured PyTorch training framework.
 * [timm](https://github.com/huggingface/pytorch-image-models) — PyTorch image model library with hundreds of pretrained models.
 * [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) — Machine learning metrics for PyTorch.
@@ -379,9 +390,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [torchaudio](https://github.com/pytorch/audio) — Audio processing for PyTorch.
 * [torchtext](https://github.com/pytorch/text) — Text processing for PyTorch.
 
-## Neural Architecture Search
+## 3.4 Neural Architecture Search
 
-> 📖 *Curated Learning Guide:* [Neural Architecture Search — Study Guide, Courses & Repositories](03-Deep-Learning/Neural-Architecture-Search.md)
+> 📖 *Curated Learning Guide:* [3.4 Neural Architecture Search — Study Guide, Courses & Repositories](03-Deep-Learning/Neural-Architecture-Search.md)
 
 
 * [NNI](https://github.com/microsoft/nni) — Neural architecture search and model compression.
@@ -391,26 +402,27 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Computer Vision
+# 04. Computer Vision
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Computer Vision — Domain Overview & Roadmap**](04-Computer-Vision/README.md)
-> - [Core Vision](04-Computer-Vision/Core-Vision.md)
-> - [Object Detection](04-Computer-Vision/Object-Detection.md)
-> - [Segmentation](04-Computer-Vision/Segmentation.md)
-> - [OCR](04-Computer-Vision/OCR.md)
-> - [Pose Estimation](04-Computer-Vision/Pose-Estimation.md)
-> - [Face Analysis](04-Computer-Vision/Face-Analysis.md)
-> - [Video Understanding](04-Computer-Vision/Video-Understanding.md)
-> - [3D Vision](04-Computer-Vision/3D-Vision.md)
-> - [Image Restoration & Enhancement](04-Computer-Vision/Image-Restoration-and-Enhancement.md)
+> - [4.1 Core Vision](04-Computer-Vision/Core-Vision.md)
+> - [4.2 Object Detection](04-Computer-Vision/Object-Detection.md)
+> - [4.3 Segmentation](04-Computer-Vision/Segmentation.md)
+> - [4.4 OCR](04-Computer-Vision/OCR.md)
+> - [4.5 Pose Estimation](04-Computer-Vision/Pose-Estimation.md)
+> - [4.6 Face Analysis](04-Computer-Vision/Face-Analysis.md)
+> - [4.7 Video Understanding](04-Computer-Vision/Video-Understanding.md)
+> - [4.8 3D Vision](04-Computer-Vision/3D-Vision.md)
+> - [4.9 Image Restoration & Enhancement](04-Computer-Vision/Image-Restoration-and-Enhancement.md)
 
 
-## Core Vision
+## 4.1 Core Vision
 
-> 📖 *Curated Learning Guide:* [Core Vision — Study Guide, Courses & Repositories](04-Computer-Vision/Core-Vision.md)
+> 📖 *Curated Learning Guide:* [4.1 Core Vision — Study Guide, Courses & Repositories](04-Computer-Vision/Core-Vision.md)
 
 
+* [Computer-Vision-Zero-to-Hero](https://github.com/mohd-faizy/Computer-Vision-Zero-to-Hero) — Comprehensive collection of computer vision projects using OpenCV, PyTorch, and TensorFlow.
 * [OpenCV](https://github.com/opencv/opencv) — Computer vision library with 2500+ optimized algorithms.
 * [scikit-image](https://github.com/scikit-image/scikit-image) — Image processing in Python.
 * [Kornia](https://github.com/kornia/kornia) — Differentiable computer vision library for PyTorch.
@@ -419,9 +431,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Pillow](https://github.com/python-pillow/Pillow) — Friendly Python Imaging Library.
 * [torchvision](https://github.com/pytorch/vision) — Datasets, transforms, and models for vision.
 
-## Object Detection
+## 4.2 Object Detection
 
-> 📖 *Curated Learning Guide:* [Object Detection — Study Guide, Courses & Repositories](04-Computer-Vision/Object-Detection.md)
+> 📖 *Curated Learning Guide:* [4.2 Object Detection — Study Guide, Courses & Repositories](04-Computer-Vision/Object-Detection.md)
 
 
 * [Ultralytics](https://github.com/ultralytics/ultralytics) — YOLOv8/v11 and beyond.
@@ -435,11 +447,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [RT-DETR](https://github.com/lyuwenyu/RT-DETR) — Real-time detection transformer.
 * [Co-DETR](https://github.com/Sense-X/Co-DETR) — Collaborative hybrid transformer detection.
 
-## Segmentation
+## 4.3 Segmentation
 
-> 📖 *Curated Learning Guide:* [Segmentation — Study Guide, Courses & Repositories](04-Computer-Vision/Segmentation.md)
+> 📖 *Curated Learning Guide:* [4.3 Segmentation — Study Guide, Courses & Repositories](04-Computer-Vision/Segmentation.md)
 
 
+* [TensorFlow-Advanced](https://github.com/mohd-faizy/TensorFlow-Advanced) — Object detection, image segmentation, VAEs, and GANs in TensorFlow.
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) — General-purpose segmentation model.
 * [Segment Anything 2](https://github.com/facebookresearch/sam2) — SAM for images and videos.
 * [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) — Semantic segmentation toolbox.
@@ -447,9 +460,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [SegFormer](https://github.com/NVlabs/SegFormer) — Simple and efficient transformer segmentation.
 * [U-Net](https://github.com/milesial/Pytorch-UNet) — Popular biomedical segmentation architecture.
 
-## OCR
+## 4.4 OCR
 
-> 📖 *Curated Learning Guide:* [OCR — Study Guide, Courses & Repositories](04-Computer-Vision/OCR.md)
+> 📖 *Curated Learning Guide:* [4.4 OCR — Study Guide, Courses & Repositories](04-Computer-Vision/OCR.md)
 
 
 * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — Multilingual OCR toolkit.
@@ -459,9 +472,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Surya](https://github.com/datalab-to/surya) — Document OCR in 90+ languages.
 * [TrOCR](https://github.com/microsoft/unilm) — Transformer-based OCR.
 
-## Pose Estimation
+## 4.5 Pose Estimation
 
-> 📖 *Curated Learning Guide:* [Pose Estimation — Study Guide, Courses & Repositories](04-Computer-Vision/Pose-Estimation.md)
+> 📖 *Curated Learning Guide:* [4.5 Pose Estimation — Study Guide, Courses & Repositories](04-Computer-Vision/Pose-Estimation.md)
 
 
 * [MMPose](https://github.com/open-mmlab/mmpose) — Open-source pose estimation toolbox.
@@ -470,9 +483,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) — Real-time multi-person pose estimation.
 * [ViTPose](https://github.com/ViTAE-Transformer/ViTPose) — Vision transformer for pose estimation.
 
-## Face Analysis
+## 4.6 Face Analysis
 
-> 📖 *Curated Learning Guide:* [Face Analysis — Study Guide, Courses & Repositories](04-Computer-Vision/Face-Analysis.md)
+> 📖 *Curated Learning Guide:* [4.6 Face Analysis — Study Guide, Courses & Repositories](04-Computer-Vision/Face-Analysis.md)
 
 
 * [InsightFace](https://github.com/deepinsight/insightface) — 2D and 3D face analysis.
@@ -481,9 +494,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [dlib](https://github.com/davisking/dlib) — Modern C++ toolkit with ML and face detection.
 * [RetinaFace](https://github.com/serengil/retinaface) — Deep learning face detection.
 
-## Video Understanding
+## 4.7 Video Understanding
 
-> 📖 *Curated Learning Guide:* [Video Understanding — Study Guide, Courses & Repositories](04-Computer-Vision/Video-Understanding.md)
+> 📖 *Curated Learning Guide:* [4.7 Video Understanding — Study Guide, Courses & Repositories](04-Computer-Vision/Video-Understanding.md)
 
 
 * [MMAction2](https://github.com/open-mmlab/mmaction2) — Video understanding toolbox.
@@ -493,9 +506,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Norfair](https://github.com/tryolabs/norfair) — Lightweight object tracking.
 * [supervision](https://github.com/roboflow/supervision) — Computer vision tools for detection, tracking, and annotation.
 
-## 3D Vision
+## 4.8 3D Vision
 
-> 📖 *Curated Learning Guide:* [3D Vision — Study Guide, Courses & Repositories](04-Computer-Vision/3D-Vision.md)
+> 📖 *Curated Learning Guide:* [4.8 3D Vision — Study Guide, Courses & Repositories](04-Computer-Vision/3D-Vision.md)
 
 
 * [Open3D](https://github.com/isl-org/Open3D) — 3D data processing library.
@@ -506,9 +519,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Depth Anything](https://github.com/LiheYoung/Depth-Anything) — Foundation model for monocular depth estimation.
 * [ZoeDepth](https://github.com/isl-org/ZoeDepth) — Zero-shot depth estimation.
 
-## Image Restoration & Enhancement
+## 4.9 Image Restoration & Enhancement
 
-> 📖 *Curated Learning Guide:* [Image Restoration & Enhancement — Study Guide, Courses & Repositories](04-Computer-Vision/Image-Restoration-and-Enhancement.md)
+> 📖 *Curated Learning Guide:* [4.9 Image Restoration & Enhancement — Study Guide, Courses & Repositories](04-Computer-Vision/Image-Restoration-and-Enhancement.md)
 
 
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) — Real-world image/video super-resolution.
@@ -520,23 +533,24 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Natural Language Processing
+# 05. Natural Language Processing
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Natural Language Processing — Domain Overview & Roadmap**](05-Natural-Language-Processing/README.md)
-> - [NLP Frameworks](05-Natural-Language-Processing/NLP-Frameworks.md)
-> - [Tokenization](05-Natural-Language-Processing/Tokenization.md)
-> - [Information Extraction](05-Natural-Language-Processing/Information-Extraction.md)
-> - [Translation](05-Natural-Language-Processing/Translation.md)
-> - [Text Classification & Sentiment](05-Natural-Language-Processing/Text-Classification-and-Sentiment.md)
-> - [Text Summarization](05-Natural-Language-Processing/Text-Summarization.md)
+> - [5.1 NLP Frameworks](05-Natural-Language-Processing/NLP-Frameworks.md)
+> - [5.2 Tokenization](05-Natural-Language-Processing/Tokenization.md)
+> - [5.3 Information Extraction](05-Natural-Language-Processing/Information-Extraction.md)
+> - [5.4 Translation](05-Natural-Language-Processing/Translation.md)
+> - [5.5 Text Classification & Sentiment](05-Natural-Language-Processing/Text-Classification-and-Sentiment.md)
+> - [5.6 Text Summarization](05-Natural-Language-Processing/Text-Summarization.md)
 
 
-## NLP Frameworks
+## 5.1 NLP Frameworks
 
-> 📖 *Curated Learning Guide:* [NLP Frameworks — Study Guide, Courses & Repositories](05-Natural-Language-Processing/NLP-Frameworks.md)
+> 📖 *Curated Learning Guide:* [5.1 NLP Frameworks — Study Guide, Courses & Repositories](05-Natural-Language-Processing/NLP-Frameworks.md)
 
 
+* [The-NLP-Pandect](https://github.com/mohd-faizy/The-NLP-Pandect) — Comprehensive encyclopedic reference for all topics in Natural Language Processing.
 * [spaCy](https://github.com/explosion/spaCy) — Industrial-strength NLP library.
 * [NLTK](https://github.com/nltk/nltk) — The Natural Language Toolkit.
 * [Stanza](https://github.com/stanfordnlp/stanza) — Stanford NLP Python library.
@@ -546,19 +560,20 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [TextBlob](https://github.com/sloria/TextBlob) — Simplified text processing.
 * [polyglot](https://github.com/aboSamoor/polyglot) — Multilingual NLP.
 
-## Tokenization
+## 5.2 Tokenization
 
-> 📖 *Curated Learning Guide:* [Tokenization — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Tokenization.md)
+> 📖 *Curated Learning Guide:* [5.2 Tokenization — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Tokenization.md)
 
 
+* [TF03_Natural-Language-Processing-in-TensorFlow](https://github.com/mohd-faizy/TF03_Natural-Language-Processing-in-TensorFlow) — Text tokenization, embeddings, and recurrent sequence modeling in TensorFlow.
 * [Tokenizers](https://github.com/huggingface/tokenizers) — Fast tokenization implementations.
 * [SentencePiece](https://github.com/google/sentencepiece) — Unsupervised text tokenizer.
 * [tiktoken](https://github.com/openai/tiktoken) — Fast BPE tokenizer for OpenAI models.
 * [BlingFire](https://github.com/microsoft/BlingFire) — Lightning fast tokenization.
 
-## Information Extraction
+## 5.3 Information Extraction
 
-> 📖 *Curated Learning Guide:* [Information Extraction — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Information-Extraction.md)
+> 📖 *Curated Learning Guide:* [5.3 Information Extraction — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Information-Extraction.md)
 
 
 * [spaCy](https://github.com/explosion/spaCy) — NER, dependency parsing, and more.
@@ -567,9 +582,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [DeepPavlov](https://github.com/deeppavlov/DeepPavlov) — Conversational AI and NLU library.
 * [Duckling](https://github.com/facebook/duckling) — Parse text into structured data.
 
-## Translation
+## 5.4 Translation
 
-> 📖 *Curated Learning Guide:* [Translation — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Translation.md)
+> 📖 *Curated Learning Guide:* [5.4 Translation — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Translation.md)
 
 
 * [NLLB / fairseq](https://github.com/facebookresearch/fairseq) — Sequence-to-sequence modeling toolkit.
@@ -578,18 +593,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Argos Translate](https://github.com/argosopentech/argos-translate) — Open-source offline translation.
 * [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) — Free and open-source machine translation API.
 
-## Text Classification & Sentiment
+## 5.5 Text Classification & Sentiment
 
-> 📖 *Curated Learning Guide:* [Text Classification & Sentiment — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Text-Classification-and-Sentiment.md)
+> 📖 *Curated Learning Guide:* [5.5 Text Classification & Sentiment — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Text-Classification-and-Sentiment.md)
 
 
 * [TextAttack](https://github.com/QData/TextAttack) — Adversarial attacks and data augmentation for NLP.
 * [Setfit](https://github.com/huggingface/setfit) — Few-shot text classification.
 * [FastText](https://github.com/facebookresearch/fastText) — Efficient text classification and word representations.
 
-## Text Summarization
+## 5.6 Text Summarization
 
-> 📖 *Curated Learning Guide:* [Text Summarization — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Text-Summarization.md)
+> 📖 *Curated Learning Guide:* [5.6 Text Summarization — Study Guide, Courses & Repositories](05-Natural-Language-Processing/Text-Summarization.md)
 
 
 * [sumy](https://github.com/miso-belica/sumy) — Automatic text summarization.
@@ -597,20 +612,20 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Speech & Audio
+# 06. Speech & Audio
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Speech & Audio — Domain Overview & Roadmap**](06-Speech-and-Audio/README.md)
-> - [Speech Recognition (ASR)](06-Speech-and-Audio/Speech-Recognition-ASR.md)
-> - [Text-to-Speech (TTS)](06-Speech-and-Audio/Text-to-Speech-TTS.md)
-> - [Voice Cloning & Conversion](06-Speech-and-Audio/Voice-Cloning-and-Conversion.md)
-> - [Audio Processing & Analysis](06-Speech-and-Audio/Audio-Processing-and-Analysis.md)
-> - [Speaker Recognition & Diarization](06-Speech-and-Audio/Speaker-Recognition-and-Diarization.md)
+> - [6.1 Speech Recognition (ASR)](06-Speech-and-Audio/Speech-Recognition-ASR.md)
+> - [6.2 Text-to-Speech (TTS)](06-Speech-and-Audio/Text-to-Speech-TTS.md)
+> - [6.3 Voice Cloning & Conversion](06-Speech-and-Audio/Voice-Cloning-and-Conversion.md)
+> - [6.4 Audio Processing & Analysis](06-Speech-and-Audio/Audio-Processing-and-Analysis.md)
+> - [6.5 Speaker Recognition & Diarization](06-Speech-and-Audio/Speaker-Recognition-and-Diarization.md)
 
 
-## Speech Recognition (ASR)
+## 6.1 Speech Recognition (ASR)
 
-> 📖 *Curated Learning Guide:* [Speech Recognition (ASR) — Study Guide, Courses & Repositories](06-Speech-and-Audio/Speech-Recognition-ASR.md)
+> 📖 *Curated Learning Guide:* [6.1 Speech Recognition (ASR) — Study Guide, Courses & Repositories](06-Speech-and-Audio/Speech-Recognition-ASR.md)
 
 
 * [Whisper](https://github.com/openai/whisper) — Robust automatic speech recognition by OpenAI.
@@ -624,9 +639,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [wav2vec 2.0](https://github.com/facebookresearch/fairseq) — Self-supervised speech representations.
 * [Kaldi](https://github.com/kaldi-asr/kaldi) — Legendary speech recognition toolkit.
 
-## Text-to-Speech (TTS)
+## 6.2 Text-to-Speech (TTS)
 
-> 📖 *Curated Learning Guide:* [Text-to-Speech (TTS) — Study Guide, Courses & Repositories](06-Speech-and-Audio/Text-to-Speech-TTS.md)
+> 📖 *Curated Learning Guide:* [6.2 Text-to-Speech (TTS) — Study Guide, Courses & Repositories](06-Speech-and-Audio/Text-to-Speech-TTS.md)
 
 
 * [Coqui TTS](https://github.com/coqui-ai/TTS) — Deep learning text-to-speech toolkit.
@@ -639,9 +654,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [F5-TTS](https://github.com/SWivid/F5-TTS) — Fairytaler that Fakes Fluent and Faithful speech.
 * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) — Few-shot voice cloning and TTS.
 
-## Voice Cloning & Conversion
+## 6.3 Voice Cloning & Conversion
 
-> 📖 *Curated Learning Guide:* [Voice Cloning & Conversion — Study Guide, Courses & Repositories](06-Speech-and-Audio/Voice-Cloning-and-Conversion.md)
+> 📖 *Curated Learning Guide:* [6.3 Voice Cloning & Conversion — Study Guide, Courses & Repositories](06-Speech-and-Audio/Voice-Cloning-and-Conversion.md)
 
 
 * [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — Retrieval-based voice conversion.
@@ -649,9 +664,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [OpenVoice](https://github.com/myshell-ai/OpenVoice) — Instant voice cloning by MyShell.
 * [FreeVC](https://github.com/OlaWod/FreeVC) — Text-free one-shot voice conversion.
 
-## Audio Processing & Analysis
+## 6.4 Audio Processing & Analysis
 
-> 📖 *Curated Learning Guide:* [Audio Processing & Analysis — Study Guide, Courses & Repositories](06-Speech-and-Audio/Audio-Processing-and-Analysis.md)
+> 📖 *Curated Learning Guide:* [6.4 Audio Processing & Analysis — Study Guide, Courses & Repositories](06-Speech-and-Audio/Audio-Processing-and-Analysis.md)
 
 
 * [librosa](https://github.com/librosa/librosa) — Audio and music signal analysis.
@@ -663,9 +678,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [speechbrain](https://github.com/speechbrain/speechbrain) — All-in-one conversational AI toolkit.
 * [noisereduce](https://github.com/timsainb/noisereduce) — Noise reduction in Python.
 
-## Speaker Recognition & Diarization
+## 6.5 Speaker Recognition & Diarization
 
-> 📖 *Curated Learning Guide:* [Speaker Recognition & Diarization — Study Guide, Courses & Repositories](06-Speech-and-Audio/Speaker-Recognition-and-Diarization.md)
+> 📖 *Curated Learning Guide:* [6.5 Speaker Recognition & Diarization — Study Guide, Courses & Repositories](06-Speech-and-Audio/Speaker-Recognition-and-Diarization.md)
 
 
 * [pyannote-audio](https://github.com/pyannote/pyannote-audio) — Speaker diarization and verification.
@@ -675,22 +690,23 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Reinforcement Learning
+# 07. Reinforcement Learning
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Reinforcement Learning — Domain Overview & Roadmap**](07-Reinforcement-Learning/README.md)
-> - [RL Frameworks](07-Reinforcement-Learning/RL-Frameworks.md)
-> - [Environments](07-Reinforcement-Learning/Environments.md)
-> - [RLHF & Preference Learning](07-Reinforcement-Learning/RLHF-and-Preference-Learning.md)
-> - [Imitation Learning](07-Reinforcement-Learning/Imitation-Learning.md)
-> - [Multi-Agent RL](07-Reinforcement-Learning/Multi-Agent-RL.md)
+> - [7.1 RL Frameworks](07-Reinforcement-Learning/RL-Frameworks.md)
+> - [7.2 Environments](07-Reinforcement-Learning/Environments.md)
+> - [7.3 RLHF & Preference Learning](07-Reinforcement-Learning/RLHF-and-Preference-Learning.md)
+> - [7.4 Imitation Learning](07-Reinforcement-Learning/Imitation-Learning.md)
+> - [7.5 Multi-Agent RL](07-Reinforcement-Learning/Multi-Agent-RL.md)
 
 
-## RL Frameworks
+## 7.1 RL Frameworks
 
-> 📖 *Curated Learning Guide:* [RL Frameworks — Study Guide, Courses & Repositories](07-Reinforcement-Learning/RL-Frameworks.md)
+> 📖 *Curated Learning Guide:* [7.1 RL Frameworks — Study Guide, Courses & Repositories](07-Reinforcement-Learning/RL-Frameworks.md)
 
 
+* [Reinforcement_learning](https://github.com/mohd-faizy/Reinforcement_learning) — Fundamentals of reinforcement learning, MDPs, and agent architectures.
 * [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3) — Reliable RL algorithm implementations.
 * [CleanRL](https://github.com/vwxyzjn/cleanrl) — High-quality single-file RL implementations.
 * [Ray RLlib](https://github.com/ray-project/ray) — Scalable reinforcement learning library.
@@ -701,9 +717,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Acme](https://github.com/google-deepmind/acme) — Distributed RL by DeepMind.
 * [rlax](https://github.com/google-deepmind/rlax) — RL building blocks in JAX.
 
-## Environments
+## 7.2 Environments
 
-> 📖 *Curated Learning Guide:* [Environments — Study Guide, Courses & Repositories](07-Reinforcement-Learning/Environments.md)
+> 📖 *Curated Learning Guide:* [7.2 Environments — Study Guide, Courses & Repositories](07-Reinforcement-Learning/Environments.md)
 
 
 * [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) — Standard RL environment API.
@@ -715,9 +731,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Isaac Gym](https://github.com/isaac-sim/IsaacGymEnvs) — GPU-accelerated RL environments.
 * [Craftax](https://github.com/MichaelTMatthews/Craftax) — Fast JAX-based Minecraft-like RL environment.
 
-## RLHF & Preference Learning
+## 7.3 RLHF & Preference Learning
 
-> 📖 *Curated Learning Guide:* [RLHF & Preference Learning — Study Guide, Courses & Repositories](07-Reinforcement-Learning/RLHF-and-Preference-Learning.md)
+> 📖 *Curated Learning Guide:* [7.3 RLHF & Preference Learning — Study Guide, Courses & Repositories](07-Reinforcement-Learning/RLHF-and-Preference-Learning.md)
 
 
 * [TRL](https://github.com/huggingface/trl) — Transformer reinforcement learning for RLHF, DPO, and more.
@@ -726,18 +742,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [OAIF](https://github.com/tatsu-lab/alpaca_eval) — Online AI feedback evaluation.
 * [RewardBench](https://github.com/allenai/reward-bench) — Benchmark for reward models.
 
-## Imitation Learning
+## 7.4 Imitation Learning
 
-> 📖 *Curated Learning Guide:* [Imitation Learning — Study Guide, Courses & Repositories](07-Reinforcement-Learning/Imitation-Learning.md)
+> 📖 *Curated Learning Guide:* [7.4 Imitation Learning — Study Guide, Courses & Repositories](07-Reinforcement-Learning/Imitation-Learning.md)
 
 
 * [imitation](https://github.com/HumanCompatibleAI/imitation) — Clean implementations of imitation learning algorithms.
 * [robomimic](https://github.com/ARISE-Initiative/robomimic) — Robot learning from demonstration.
 * [DAgger](https://github.com/HumanCompatibleAI/imitation) — Dataset aggregation for imitation learning.
 
-## Multi-Agent RL
+## 7.5 Multi-Agent RL
 
-> 📖 *Curated Learning Guide:* [Multi-Agent RL — Study Guide, Courses & Repositories](07-Reinforcement-Learning/Multi-Agent-RL.md)
+> 📖 *Curated Learning Guide:* [7.5 Multi-Agent RL — Study Guide, Courses & Repositories](07-Reinforcement-Learning/Multi-Agent-RL.md)
 
 
 * [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) — Multi-agent RL API.
@@ -747,29 +763,29 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Generative AI
+# 08. Generative AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Generative AI — Domain Overview & Roadmap**](08-Generative-AI/README.md)
-> - [Generative Model Frameworks & Toolkits](08-Generative-AI/Generative-Model-Frameworks-and-Toolkits.md)
-> - [Diffusion & Flow Matching Foundation Models](08-Generative-AI/Diffusion-and-Flow-Matching-Foundation-Models.md)
-> - [Diffusion Transformers (DiT)](08-Generative-AI/Diffusion-Transformers-DiT.md)
-> - [Video Generation Models & Frameworks](08-Generative-AI/Video-Generation-Models-and-Frameworks.md)
-> - [Audio, Speech & Music Generation](08-Generative-AI/Audio-Speech-and-Music-Generation.md)
-> - [3D & Spatial Generative AI](08-Generative-AI/3D-and-Spatial-Generative-AI.md)
-> - [Full-Stack GenAI Application Platforms & Web UIs](08-Generative-AI/Full-Stack-GenAI-Application-Platforms-and-Web-UIs.md)
-> - [Generative UI & Frontend Builders](08-Generative-AI/Generative-UI-and-Frontend-Builders.md)
-> - [Synthetic Data Generation & Data Distillation](08-Generative-AI/Synthetic-Data-Generation-and-Data-Distillation.md)
-> - [Image Editing, Inpainting & Conditional Control](08-Generative-AI/Image-Editing-Inpainting-and-Conditional-Control.md)
-> - [Structured Generation & Constrained Decoding](08-Generative-AI/Structured-Generation-and-Constrained-Decoding.md)
-> - [Prompt Engineering & Context Optimization](08-Generative-AI/Prompt-Engineering-and-Context-Optimization.md)
-> - [GenAI Safety, Guardrails & Watermarking](08-Generative-AI/GenAI-Safety-Guardrails-and-Watermarking.md)
-> - [VAEs & GANs](08-Generative-AI/VAEs-and-GANs.md)
+> - [8.1 Generative Model Frameworks & Toolkits](08-Generative-AI/Generative-Model-Frameworks-and-Toolkits.md)
+> - [8.2 Diffusion & Flow Matching Foundation Models](08-Generative-AI/Diffusion-and-Flow-Matching-Foundation-Models.md)
+> - [8.3 Diffusion Transformers (DiT)](08-Generative-AI/Diffusion-Transformers-DiT.md)
+> - [8.4 Video Generation Models & Frameworks](08-Generative-AI/Video-Generation-Models-and-Frameworks.md)
+> - [8.5 Audio, Speech & Music Generation](08-Generative-AI/Audio-Speech-and-Music-Generation.md)
+> - [8.6 3D & Spatial Generative AI](08-Generative-AI/3D-and-Spatial-Generative-AI.md)
+> - [8.7 Full-Stack GenAI Application Platforms & Web UIs](08-Generative-AI/Full-Stack-GenAI-Application-Platforms-and-Web-UIs.md)
+> - [8.8 Generative UI & Frontend Builders](08-Generative-AI/Generative-UI-and-Frontend-Builders.md)
+> - [8.9 Synthetic Data Generation & Data Distillation](08-Generative-AI/Synthetic-Data-Generation-and-Data-Distillation.md)
+> - [8.10 Image Editing, Inpainting & Conditional Control](08-Generative-AI/Image-Editing-Inpainting-and-Conditional-Control.md)
+> - [8.11 Structured Generation & Constrained Decoding](08-Generative-AI/Structured-Generation-and-Constrained-Decoding.md)
+> - [8.12 Prompt Engineering & Context Optimization](08-Generative-AI/Prompt-Engineering-and-Context-Optimization.md)
+> - [8.13 GenAI Safety, Guardrails & Watermarking](08-Generative-AI/GenAI-Safety-Guardrails-and-Watermarking.md)
+> - [8.14 VAEs & GANs](08-Generative-AI/VAEs-and-GANs.md)
 
 
-## Generative Model Frameworks & Toolkits
+## 8.1 Generative Model Frameworks & Toolkits
 
-> 📖 *Curated Learning Guide:* [Generative Model Frameworks & Toolkits — Study Guide, Courses & Repositories](08-Generative-AI/Generative-Model-Frameworks-and-Toolkits.md)
+> 📖 *Curated Learning Guide:* [8.1 Generative Model Frameworks & Toolkits — Study Guide, Courses & Repositories](08-Generative-AI/Generative-Model-Frameworks-and-Toolkits.md)
 
 
 * [Hugging Face Diffusers](https://github.com/huggingface/diffusers) — State-of-the-art diffusion models for image, audio, and video synthesis.
@@ -781,9 +797,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [AudioCraft](https://github.com/facebookresearch/audiocraft) — Generative audio and music deep learning framework by Meta.
 * [Generative Models (Stability AI)](https://github.com/Stability-AI/generative-models) — Generative model reference implementations by Stability AI.
 
-## Diffusion & Flow Matching Foundation Models
+## 8.2 Diffusion & Flow Matching Foundation Models
 
-> 📖 *Curated Learning Guide:* [Diffusion & Flow Matching Foundation Models — Study Guide, Courses & Repositories](08-Generative-AI/Diffusion-and-Flow-Matching-Foundation-Models.md)
+> 📖 *Curated Learning Guide:* [8.2 Diffusion & Flow Matching Foundation Models — Study Guide, Courses & Repositories](08-Generative-AI/Diffusion-and-Flow-Matching-Foundation-Models.md)
 
 
 * [FLUX.1](https://github.com/black-forest-labs/flux) — 12B parameter rectified flow transformer by Black Forest Labs (Schnell & Dev).
@@ -798,9 +814,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Latent Consistency Models (LCM)](https://github.com/luosiallen/latent-consistency-model) — High-resolution image synthesis in 2-4 inference steps.
 * [Consistency Models](https://github.com/openai/consistency_models) — Fast generation without adversarial training or iterative sampling by OpenAI.
 
-## Diffusion Transformers (DiT)
+## 8.3 Diffusion Transformers (DiT)
 
-> 📖 *Curated Learning Guide:* [Diffusion Transformers (DiT) — Study Guide, Courses & Repositories](08-Generative-AI/Diffusion-Transformers-DiT.md)
+> 📖 *Curated Learning Guide:* [8.3 Diffusion Transformers (DiT) — Study Guide, Courses & Repositories](08-Generative-AI/Diffusion-Transformers-DiT.md)
 
 
 * [DiT](https://github.com/facebookresearch/DiT) — Scalable diffusion models with transformers by Meta AI.
@@ -808,9 +824,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) — Unified diffusion transformer family for multimodal generative tasks.
 * [HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) — Multi-resolution text-to-image diffusion transformer with fine-grained bilingual understanding.
 
-## Video Generation Models & Frameworks
+## 8.4 Video Generation Models & Frameworks
 
-> 📖 *Curated Learning Guide:* [Video Generation Models & Frameworks — Study Guide, Courses & Repositories](08-Generative-AI/Video-Generation-Models-and-Frameworks.md)
+> 📖 *Curated Learning Guide:* [8.4 Video Generation Models & Frameworks — Study Guide, Courses & Repositories](08-Generative-AI/Video-Generation-Models-and-Frameworks.md)
 
 
 * [Wan 2.1](https://github.com/Wan-Video/Wan2.1) — Comprehensive open video generation model family with 14B and 1.3B parameters.
@@ -825,9 +841,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) — Open platform for high-quality video generation and editing.
 * [Latte](https://github.com/Vchitect/Latte) — Latent diffusion transformer for video generation.
 
-## Audio, Speech & Music Generation
+## 8.5 Audio, Speech & Music Generation
 
-> 📖 *Curated Learning Guide:* [Audio, Speech & Music Generation — Study Guide, Courses & Repositories](08-Generative-AI/Audio-Speech-and-Music-Generation.md)
+> 📖 *Curated Learning Guide:* [8.5 Audio, Speech & Music Generation — Study Guide, Courses & Repositories](08-Generative-AI/Audio-Speech-and-Music-Generation.md)
 
 
 * [AudioCraft / MusicGen](https://github.com/facebookresearch/audiocraft) — Controllable text-to-music generation by Meta.
@@ -842,9 +858,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Retrieval-based Voice Conversion (RVC)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — Low-latency voice conversion and singing voice synthesis.
 * [WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) — Open text-to-speech system built by inverting Whisper.
 
-## 3D & Spatial Generative AI
+## 8.6 3D & Spatial Generative AI
 
-> 📖 *Curated Learning Guide:* [3D & Spatial Generative AI — Study Guide, Courses & Repositories](08-Generative-AI/3D-and-Spatial-Generative-AI.md)
+> 📖 *Curated Learning Guide:* [8.6 3D & Spatial Generative AI — Study Guide, Courses & Repositories](08-Generative-AI/3D-and-Spatial-Generative-AI.md)
 
 
 * [TRELLIS](https://github.com/microsoft/TRELLIS) — Structured 3D asset generation from images by Microsoft.
@@ -857,9 +873,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Point-E](https://github.com/openai/point-e) — Point cloud generation conditioned on text or images by OpenAI.
 * [Wonder3D](https://github.com/xxlong0/Wonder3D) — Single image to cross-domain consistent 3D representations.
 
-## Full-Stack GenAI Application Platforms & Web UIs
+## 8.7 Full-Stack GenAI Application Platforms & Web UIs
 
-> 📖 *Curated Learning Guide:* [Full-Stack GenAI Application Platforms & Web UIs — Study Guide, Courses & Repositories](08-Generative-AI/Full-Stack-GenAI-Application-Platforms-and-Web-UIs.md)
+> 📖 *Curated Learning Guide:* [8.7 Full-Stack GenAI Application Platforms & Web UIs — Study Guide, Courses & Repositories](08-Generative-AI/Full-Stack-GenAI-Application-Platforms-and-Web-UIs.md)
 
 
 * [Dify](https://github.com/langgenius/dify) — Production-grade LLM application development and visual workflow platform.
@@ -873,9 +889,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Chatbox](https://github.com/chatboxai/chatbox) — Desktop client for multiple cutting-edge AI models and providers.
 * [text-generation-webui](https://github.com/oobabooga/text-generation-webui) — Gradio web interface for running local LLMs and multimodal models.
 
-## Generative UI & Frontend Builders
+## 8.8 Generative UI & Frontend Builders
 
-> 📖 *Curated Learning Guide:* [Generative UI & Frontend Builders — Study Guide, Courses & Repositories](08-Generative-AI/Generative-UI-and-Frontend-Builders.md)
+> 📖 *Curated Learning Guide:* [8.8 Generative UI & Frontend Builders — Study Guide, Courses & Repositories](08-Generative-AI/Generative-UI-and-Frontend-Builders.md)
 
 
 * [Screenshot-to-Code](https://github.com/abi/screenshot-to-code) — Convert screenshots, mockups, and designs into clean frontend code.
@@ -884,9 +900,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) — Natural language prompt to complete software repository generation.
 * [LlamaCoder](https://github.com/Nutlope/llamacoder) — Open-source Claude-powered web app generation in React and Tailwind.
 
-## Synthetic Data Generation & Data Distillation
+## 8.9 Synthetic Data Generation & Data Distillation
 
-> 📖 *Curated Learning Guide:* [Synthetic Data Generation & Data Distillation — Study Guide, Courses & Repositories](08-Generative-AI/Synthetic-Data-Generation-and-Data-Distillation.md)
+> 📖 *Curated Learning Guide:* [8.9 Synthetic Data Generation & Data Distillation — Study Guide, Courses & Repositories](08-Generative-AI/Synthetic-Data-Generation-and-Data-Distillation.md)
 
 
 * [NVIDIA NeMo Curator](https://github.com/NVIDIA-NeMo/Curator) — Scalable synthetic data generation, filtering, and curation for LLMs.
@@ -898,9 +914,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) — Privacy-preserving synthetic tabular and text data generation.
 * [SDV](https://github.com/sdv-dev/SDV) — Synthetic Data Vault for relational, tabular, and time-series data.
 
-## Image Editing, Inpainting & Conditional Control
+## 8.10 Image Editing, Inpainting & Conditional Control
 
-> 📖 *Curated Learning Guide:* [Image Editing, Inpainting & Conditional Control — Study Guide, Courses & Repositories](08-Generative-AI/Image-Editing-Inpainting-and-Conditional-Control.md)
+> 📖 *Curated Learning Guide:* [8.10 Image Editing, Inpainting & Conditional Control — Study Guide, Courses & Repositories](08-Generative-AI/Image-Editing-Inpainting-and-Conditional-Control.md)
 
 
 * [ControlNet](https://github.com/lllyasviel/ControlNet) — Structural conditioning for diffusion models (edges, poses, depth).
@@ -912,9 +928,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [DragGAN](https://github.com/XingangPan/DragGAN) — Interactive point-based manipulation on generative image manifolds.
 * [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) — Consistent character animation from reference images.
 
-## Structured Generation & Constrained Decoding
+## 8.11 Structured Generation & Constrained Decoding
 
-> 📖 *Curated Learning Guide:* [Structured Generation & Constrained Decoding — Study Guide, Courses & Repositories](08-Generative-AI/Structured-Generation-and-Constrained-Decoding.md)
+> 📖 *Curated Learning Guide:* [8.11 Structured Generation & Constrained Decoding — Study Guide, Courses & Repositories](08-Generative-AI/Structured-Generation-and-Constrained-Decoding.md)
 
 
 * [Outlines](https://github.com/dottxt-ai/outlines) — Fast and reliable structured text generation via finite-state machines.
@@ -925,9 +941,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [XGrammar](https://github.com/mlc-ai/xgrammar) — High-performance context-free grammar-guided decoding engine.
 * [BAML](https://github.com/BoundaryML/baml) — Domain-specific language for structured prompt engineering and LLM extraction.
 
-## Prompt Engineering & Context Optimization
+## 8.12 Prompt Engineering & Context Optimization
 
-> 📖 *Curated Learning Guide:* [Prompt Engineering & Context Optimization — Study Guide, Courses & Repositories](08-Generative-AI/Prompt-Engineering-and-Context-Optimization.md)
+> 📖 *Curated Learning Guide:* [8.12 Prompt Engineering & Context Optimization — Study Guide, Courses & Repositories](08-Generative-AI/Prompt-Engineering-and-Context-Optimization.md)
 
 
 * [DSPy](https://github.com/stanfordnlp/dspy) — Framework for algorithmically compiling declarative language model modules.
@@ -936,9 +952,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Pezzo](https://github.com/pezzolabs/pezzo) — Cloud-native prompt management and observability platform.
 * [Awesome ChatGPT Prompts](https://github.com/f/prompts.chat) — Widely referenced collection of system prompts and behavioral instructions.
 
-## GenAI Safety, Guardrails & Watermarking
+## 8.13 GenAI Safety, Guardrails & Watermarking
 
-> 📖 *Curated Learning Guide:* [GenAI Safety, Guardrails & Watermarking — Study Guide, Courses & Repositories](08-Generative-AI/GenAI-Safety-Guardrails-and-Watermarking.md)
+> 📖 *Curated Learning Guide:* [8.13 GenAI Safety, Guardrails & Watermarking — Study Guide, Courses & Repositories](08-Generative-AI/GenAI-Safety-Guardrails-and-Watermarking.md)
 
 
 * [Llama Guard](https://github.com/meta-llama/PurpleLlama) — Safeguard model for human-AI conversational input and output moderation.
@@ -948,11 +964,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [SynthID Text](https://github.com/google-deepmind/synthid-text) — Watermarking and detection technology for AI-generated text by Google DeepMind.
 * [Prompt-Guard](https://github.com/meta-llama/llama-cookbook) — Classifier model for detecting prompt injections and jailbreaks.
 
-## VAEs & GANs
+## 8.14 VAEs & GANs
 
-> 📖 *Curated Learning Guide:* [VAEs & GANs — Study Guide, Courses & Repositories](08-Generative-AI/VAEs-and-GANs.md)
+> 📖 *Curated Learning Guide:* [8.14 VAEs & GANs — Study Guide, Courses & Repositories](08-Generative-AI/VAEs-and-GANs.md)
 
 
+* [TensorFlow-Advanced](https://github.com/mohd-faizy/TensorFlow-Advanced) — Generative deep learning, VAEs, Style Transfer, and GANs in TensorFlow.
 * [StyleGAN3](https://github.com/NVlabs/stylegan3) — Alias-free generative adversarial networks by NVIDIA.
 * [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl) — Scaling StyleGAN to large and diverse dataset synthesis.
 * [GigaGAN](https://github.com/mingukkang/GigaGAN) — Scaling up generative adversarial networks for fast text-to-image synthesis.
@@ -960,18 +977,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Foundation Models
+# 09. Foundation Models
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Foundation Models — Domain Overview & Roadmap**](09-Foundation-Models/README.md)
-> - [Model Frameworks](09-Foundation-Models/Model-Frameworks.md)
-> - [Model Hubs & Registries](09-Foundation-Models/Model-Hubs-and-Registries.md)
-> - [Pre-training](09-Foundation-Models/Pre-training.md)
+> - [9.1 Model Frameworks](09-Foundation-Models/Model-Frameworks.md)
+> - [9.2 Model Hubs & Registries](09-Foundation-Models/Model-Hubs-and-Registries.md)
+> - [9.3 Pre-training](09-Foundation-Models/Pre-training.md)
 
 
-## Model Frameworks
+## 9.1 Model Frameworks
 
-> 📖 *Curated Learning Guide:* [Model Frameworks — Study Guide, Courses & Repositories](09-Foundation-Models/Model-Frameworks.md)
+> 📖 *Curated Learning Guide:* [9.1 Model Frameworks — Study Guide, Courses & Repositories](09-Foundation-Models/Model-Frameworks.md)
 
 
 * [Transformers](https://github.com/huggingface/transformers) — 100K+ pretrained transformer models.
@@ -980,9 +997,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Safetensors](https://github.com/safetensors/safetensors) — Simple and safe tensor serialization.
 * [tokenizers](https://github.com/huggingface/tokenizers) — Fast tokenizer implementations.
 
-## Model Hubs & Registries
+## 9.2 Model Hubs & Registries
 
-> 📖 *Curated Learning Guide:* [Model Hubs & Registries — Study Guide, Courses & Repositories](09-Foundation-Models/Model-Hubs-and-Registries.md)
+> 📖 *Curated Learning Guide:* [9.2 Model Hubs & Registries — Study Guide, Courses & Repositories](09-Foundation-Models/Model-Hubs-and-Registries.md)
 
 
 * [Hugging Face Hub](https://github.com/huggingface/huggingface_hub) — Model, dataset, and Space hub.
@@ -992,9 +1009,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [PyTorch Hub](https://github.com/pytorch/hub) — Pretrained model discovery.
 * [Ollama Library](https://github.com/ollama/ollama) — Local model library.
 
-## Pre-training
+## 9.3 Pre-training
 
-> 📖 *Curated Learning Guide:* [Pre-training — Study Guide, Courses & Repositories](09-Foundation-Models/Pre-training.md)
+> 📖 *Curated Learning Guide:* [9.3 Pre-training — Study Guide, Courses & Repositories](09-Foundation-Models/Pre-training.md)
 
 
 * [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) — Large-scale language model training.
@@ -1004,20 +1021,20 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Large Language Models
+# 10. Large Language Models
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Large Language Models — Domain Overview & Roadmap**](10-Large-Language-Models/README.md)
-> - [LLM Frameworks](10-Large-Language-Models/LLM-Frameworks.md)
-> - [Open LLM Implementations](10-Large-Language-Models/Open-LLM-Implementations.md)
-> - [Notable Open Models (Reference Repos)](10-Large-Language-Models/Notable-Open-Models-Reference-Repos.md)
-> - [Large-Scale Training](10-Large-Language-Models/Large-Scale-Training.md)
-> - [LLM Context & Long Context](10-Large-Language-Models/LLM-Context-and-Long-Context.md)
+> - [10.1 LLM Frameworks](10-Large-Language-Models/LLM-Frameworks.md)
+> - [10.2 Open LLM Implementations](10-Large-Language-Models/Open-LLM-Implementations.md)
+> - [10.3 Notable Open Models (Reference Repos)](10-Large-Language-Models/Notable-Open-Models-Reference-Repos.md)
+> - [10.4 Large-Scale Training](10-Large-Language-Models/Large-Scale-Training.md)
+> - [10.5 LLM Context & Long Context](10-Large-Language-Models/LLM-Context-and-Long-Context.md)
 
 
-## LLM Frameworks
+## 10.1 LLM Frameworks
 
-> 📖 *Curated Learning Guide:* [LLM Frameworks — Study Guide, Courses & Repositories](10-Large-Language-Models/LLM-Frameworks.md)
+> 📖 *Curated Learning Guide:* [10.1 LLM Frameworks — Study Guide, Courses & Repositories](10-Large-Language-Models/LLM-Frameworks.md)
 
 
 * [Transformers](https://github.com/huggingface/transformers) — Transformer model ecosystem.
@@ -1028,11 +1045,12 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [FastChat](https://github.com/lm-sys/FastChat) — Training, serving, and evaluating chatbots.
 * [unsloth](https://github.com/unslothai/unsloth) — 2x faster LLM fine-tuning with 80% less memory.
 
-## Open LLM Implementations
+## 10.2 Open LLM Implementations
 
-> 📖 *Curated Learning Guide:* [Open LLM Implementations — Study Guide, Courses & Repositories](10-Large-Language-Models/Open-LLM-Implementations.md)
+> 📖 *Curated Learning Guide:* [10.2 Open LLM Implementations — Study Guide, Courses & Repositories](10-Large-Language-Models/Open-LLM-Implementations.md)
 
 
+* [NanoTorch-LLM](https://github.com/mohd-faizy/NanoTorch-LLM) — Minimalist, educational Language Model built from scratch using PyTorch.
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) — Efficient local LLM inference in C/C++.
 * [MLC LLM](https://github.com/mlc-ai/mlc-llm) — Universal LLM deployment on any device.
 * [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) — NVIDIA-optimized LLM inference.
@@ -1041,9 +1059,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [candle](https://github.com/huggingface/candle) — Minimalist ML framework in Rust.
 * [mistral.rs](https://github.com/EricLBuehler/mistral.rs) — Fast LLM inference in Rust.
 
-## Notable Open Models (Reference Repos)
+## 10.3 Notable Open Models (Reference Repos)
 
-> 📖 *Curated Learning Guide:* [Notable Open Models (Reference Repos) — Study Guide, Courses & Repositories](10-Large-Language-Models/Notable-Open-Models-Reference-Repos.md)
+> 📖 *Curated Learning Guide:* [10.3 Notable Open Models (Reference Repos) — Study Guide, Courses & Repositories](10-Large-Language-Models/Notable-Open-Models-Reference-Repos.md)
 
 
 * [Llama](https://github.com/meta-llama/llama) — Meta's Llama family of models.
@@ -1060,9 +1078,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [StableLM](https://github.com/Stability-AI/StableLM) — Stability AI's language models.
 * [Command R](https://github.com/cohere-ai) — Cohere's enterprise-grade LLMs.
 
-## Large-Scale Training
+## 10.4 Large-Scale Training
 
-> 📖 *Curated Learning Guide:* [Large-Scale Training — Study Guide, Courses & Repositories](10-Large-Language-Models/Large-Scale-Training.md)
+> 📖 *Curated Learning Guide:* [10.4 Large-Scale Training — Study Guide, Courses & Repositories](10-Large-Language-Models/Large-Scale-Training.md)
 
 
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) — Large-scale transformer training at NVIDIA.
@@ -1071,9 +1089,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Nanotron](https://github.com/huggingface/nanotron) — Efficient distributed training of LLMs.
 * [torchtitan](https://github.com/pytorch/torchtitan) — Native PyTorch large-scale LLM training.
 
-## LLM Context & Long Context
+## 10.5 LLM Context & Long Context
 
-> 📖 *Curated Learning Guide:* [LLM Context & Long Context — Study Guide, Courses & Repositories](10-Large-Language-Models/LLM-Context-and-Long-Context.md)
+> 📖 *Curated Learning Guide:* [10.5 LLM Context & Long Context — Study Guide, Courses & Repositories](10-Large-Language-Models/LLM-Context-and-Long-Context.md)
 
 
 * [LongRoPE](https://github.com/microsoft/LongRoPE) — Extending LLM context window.
@@ -1082,18 +1100,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Embeddings
+# 11. Embeddings
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Embeddings — Domain Overview & Roadmap**](11-Embeddings/README.md)
-> - [Text Embeddings](11-Embeddings/Text-Embeddings.md)
-> - [Multimodal Embeddings](11-Embeddings/Multimodal-Embeddings.md)
-> - [Embedding Utilities](11-Embeddings/Embedding-Utilities.md)
+> - [11.1 Text Embeddings](11-Embeddings/Text-Embeddings.md)
+> - [11.2 Multimodal Embeddings](11-Embeddings/Multimodal-Embeddings.md)
+> - [11.3 Embedding Utilities](11-Embeddings/Embedding-Utilities.md)
 
 
-## Text Embeddings
+## 11.1 Text Embeddings
 
-> 📖 *Curated Learning Guide:* [Text Embeddings — Study Guide, Courses & Repositories](11-Embeddings/Text-Embeddings.md)
+> 📖 *Curated Learning Guide:* [11.1 Text Embeddings — Study Guide, Courses & Repositories](11-Embeddings/Text-Embeddings.md)
 
 
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) — State-of-the-art text embeddings.
@@ -1104,9 +1122,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Nomic Embed](https://github.com/nomic-ai/nomic) — Open-source text embedding models.
 * [Cohere Embed](https://github.com/cohere-ai) — Enterprise-grade embeddings.
 
-## Multimodal Embeddings
+## 11.2 Multimodal Embeddings
 
-> 📖 *Curated Learning Guide:* [Multimodal Embeddings — Study Guide, Courses & Repositories](11-Embeddings/Multimodal-Embeddings.md)
+> 📖 *Curated Learning Guide:* [11.2 Multimodal Embeddings — Study Guide, Courses & Repositories](11-Embeddings/Multimodal-Embeddings.md)
 
 
 * [CLIP](https://github.com/openai/CLIP) — Contrastive image-text representations by OpenAI.
@@ -1116,9 +1134,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [EVA-CLIP](https://github.com/baaivision/EVA) — Improved CLIP training by BAAI.
 * [MetaCLIP](https://github.com/facebookresearch/MetaCLIP) — Meta's demystified CLIP data curation.
 
-## Embedding Utilities
+## 11.3 Embedding Utilities
 
-> 📖 *Curated Learning Guide:* [Embedding Utilities — Study Guide, Courses & Repositories](11-Embeddings/Embedding-Utilities.md)
+> 📖 *Curated Learning Guide:* [11.3 Embedding Utilities — Study Guide, Courses & Repositories](11-Embeddings/Embedding-Utilities.md)
 
 
 * [Embedchain](https://github.com/embedchain/embedchain) — Framework to create AI apps over any dataset.
@@ -1127,22 +1145,24 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Retrieval-Augmented Generation
+# 12. Retrieval-Augmented Generation
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Retrieval-Augmented Generation — Domain Overview & Roadmap**](12-RAG/README.md)
-> - [RAG Frameworks](12-RAG/RAG-Frameworks.md)
-> - [Advanced RAG Techniques](12-RAG/Advanced-RAG-Techniques.md)
-> - [Graph RAG](12-RAG/Graph-RAG.md)
-> - [RAG Evaluation](12-RAG/RAG-Evaluation.md)
-> - [Document Parsing for RAG](12-RAG/Document-Parsing-for-RAG.md)
+> - [12.1 RAG Frameworks](12-RAG/RAG-Frameworks.md)
+> - [12.2 Advanced RAG Techniques](12-RAG/Advanced-RAG-Techniques.md)
+> - [12.3 Graph RAG](12-RAG/Graph-RAG.md)
+> - [12.4 RAG Evaluation](12-RAG/RAG-Evaluation.md)
+> - [12.5 Document Parsing for RAG](12-RAG/Document-Parsing-for-RAG.md)
 
 
-## RAG Frameworks
+## 12.1 RAG Frameworks
 
-> 📖 *Curated Learning Guide:* [RAG Frameworks — Study Guide, Courses & Repositories](12-RAG/RAG-Frameworks.md)
+> 📖 *Curated Learning Guide:* [12.1 RAG Frameworks — Study Guide, Courses & Repositories](12-RAG/RAG-Frameworks.md)
 
 
+* [RAG-Design-Patterns](https://github.com/mohd-faizy/RAG-Design-Patterns) — Production-ready implementations of 20 RAG architecture patterns using Python & LangChain.
+* [RAG-DeepSeek](https://github.com/mohd-faizy/RAG-DeepSeek) — Privacy-first local RAG pipeline using DeepSeek-R1 (1.5B), FAISS, Ollama, and Streamlit.
 * [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for LLM applications.
 * [Haystack](https://github.com/deepset-ai/haystack) — AI application framework for RAG.
 * [RAGFlow](https://github.com/infiniflow/ragflow) — Deep document understanding RAG engine.
@@ -1151,20 +1171,21 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Canopy](https://github.com/pinecone-io/canopy) — RAG framework powered by Pinecone.
 * [R2R](https://github.com/SciPhi-AI/R2R) — Production-ready RAG engine.
 
-## Advanced RAG Techniques
+## 12.2 Advanced RAG Techniques
 
-> 📖 *Curated Learning Guide:* [Advanced RAG Techniques — Study Guide, Courses & Repositories](12-RAG/Advanced-RAG-Techniques.md)
+> 📖 *Curated Learning Guide:* [12.2 Advanced RAG Techniques — Study Guide, Courses & Repositories](12-RAG/Advanced-RAG-Techniques.md)
 
 
+* [RAG-Design-Patterns](https://github.com/mohd-faizy/RAG-Design-Patterns) — Implementations of HyDE, Parent Document Retrieval, Multi-Query expansion, and Reranking.
 * [RAGFlow](https://github.com/infiniflow/ragflow) — Document-centric RAG with deep parsing.
 * [LlamaIndex](https://github.com/run-llama/llama_index) — Advanced retrieval strategies (sub-question, recursive, etc.).
 * [Haystack](https://github.com/deepset-ai/haystack) — Production-oriented RAG pipelines.
 * [RAPTOR](https://github.com/parthsarthi03/raptor) — Recursive abstractive processing for tree-organized retrieval.
 * [LlamaCloud](https://github.com/run-llama/llama_cloud_services) — Managed parsing and indexing.
 
-## Graph RAG
+## 12.3 Graph RAG
 
-> 📖 *Curated Learning Guide:* [Graph RAG — Study Guide, Courses & Repositories](12-RAG/Graph-RAG.md)
+> 📖 *Curated Learning Guide:* [12.3 Graph RAG — Study Guide, Courses & Repositories](12-RAG/Graph-RAG.md)
 
 
 * [GraphRAG](https://github.com/microsoft/graphrag) — Graph-based retrieval-augmented generation by Microsoft.
@@ -1172,9 +1193,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [nano-GraphRAG](https://github.com/gusye1234/nano-graphrag) — Smaller, faster, cleaner GraphRAG.
 * [Graphiti](https://github.com/getzep/graphiti) — Temporal knowledge graphs for agentic RAG.
 
-## RAG Evaluation
+## 12.4 RAG Evaluation
 
-> 📖 *Curated Learning Guide:* [RAG Evaluation — Study Guide, Courses & Repositories](12-RAG/RAG-Evaluation.md)
+> 📖 *Curated Learning Guide:* [12.4 RAG Evaluation — Study Guide, Courses & Repositories](12-RAG/RAG-Evaluation.md)
 
 
 * [Ragas](https://github.com/explodinggradients/ragas) — Evaluation framework for RAG pipelines.
@@ -1182,9 +1203,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [TruLens](https://github.com/truera/trulens) — Evaluation and tracking for LLM applications.
 * [Arize Phoenix](https://github.com/Arize-ai/phoenix) — ML observability with RAG evaluation.
 
-## Document Parsing for RAG
+## 12.5 Document Parsing for RAG
 
-> 📖 *Curated Learning Guide:* [Document Parsing for RAG — Study Guide, Courses & Repositories](12-RAG/Document-Parsing-for-RAG.md)
+> 📖 *Curated Learning Guide:* [12.5 Document Parsing for RAG — Study Guide, Courses & Repositories](12-RAG/Document-Parsing-for-RAG.md)
 
 
 * [Docling](https://github.com/docling-project/docling) — Document conversion and understanding.
@@ -1195,17 +1216,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Vector Databases
+# 13. Vector Databases
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Vector Databases — Domain Overview & Roadmap**](13-Vector-Databases/README.md)
-> - [Dedicated Vector Databases](13-Vector-Databases/Dedicated-Vector-Databases.md)
-> - [Similarity Search Libraries](13-Vector-Databases/Similarity-Search-Libraries.md)
+> - [13.1 Dedicated Vector Databases](13-Vector-Databases/Dedicated-Vector-Databases.md)
+> - [13.2 Similarity Search Libraries](13-Vector-Databases/Similarity-Search-Libraries.md)
 
 
-## Dedicated Vector Databases
+## 13.1 Dedicated Vector Databases
 
-> 📖 *Curated Learning Guide:* [Dedicated Vector Databases — Study Guide, Courses & Repositories](13-Vector-Databases/Dedicated-Vector-Databases.md)
+> 📖 *Curated Learning Guide:* [13.1 Dedicated Vector Databases — Study Guide, Courses & Repositories](13-Vector-Databases/Dedicated-Vector-Databases.md)
 
 
 * [Qdrant](https://github.com/qdrant/qdrant) — High-performance vector search engine in Rust.
@@ -1219,9 +1240,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Marqo](https://github.com/marqo-ai/marqo) — Tensor search engine.
 * [Vald](https://github.com/vdaas/vald) — Distributed vector search engine.
 
-## Similarity Search Libraries
+## 13.2 Similarity Search Libraries
 
-> 📖 *Curated Learning Guide:* [Similarity Search Libraries — Study Guide, Courses & Repositories](13-Vector-Databases/Similarity-Search-Libraries.md)
+> 📖 *Curated Learning Guide:* [13.2 Similarity Search Libraries — Study Guide, Courses & Repositories](13-Vector-Databases/Similarity-Search-Libraries.md)
 
 
 * [FAISS](https://github.com/facebookresearch/faiss) — Efficient similarity search by Meta.
@@ -1234,18 +1255,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Search & Retrieval
+# 14. Search & Retrieval
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Search & Retrieval — Domain Overview & Roadmap**](14-Search-and-Retrieval/README.md)
-> - [Search Engines](14-Search-and-Retrieval/Search-Engines.md)
-> - [Web Crawling & Scraping](14-Search-and-Retrieval/Web-Crawling-and-Scraping.md)
-> - [Semantic Search](14-Search-and-Retrieval/Semantic-Search.md)
+> - [14.1 Search Engines](14-Search-and-Retrieval/Search-Engines.md)
+> - [14.2 Web Crawling & Scraping](14-Search-and-Retrieval/Web-Crawling-and-Scraping.md)
+> - [14.3 Semantic Search](14-Search-and-Retrieval/Semantic-Search.md)
 
 
-## Search Engines
+## 14.1 Search Engines
 
-> 📖 *Curated Learning Guide:* [Search Engines — Study Guide, Courses & Repositories](14-Search-and-Retrieval/Search-Engines.md)
+> 📖 *Curated Learning Guide:* [14.1 Search Engines — Study Guide, Courses & Repositories](14-Search-and-Retrieval/Search-Engines.md)
 
 
 * [OpenSearch](https://github.com/opensearch-project/OpenSearch) — Community-driven search and analytics.
@@ -1257,9 +1278,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Quickwit](https://github.com/quickwit-oss/quickwit) — Sub-second search on cloud storage.
 * [Manticore Search](https://github.com/manticoresoftware/manticoresearch) — Easy to use open-source search database.
 
-## Web Crawling & Scraping
+## 14.2 Web Crawling & Scraping
 
-> 📖 *Curated Learning Guide:* [Web Crawling & Scraping — Study Guide, Courses & Repositories](14-Search-and-Retrieval/Web-Crawling-and-Scraping.md)
+> 📖 *Curated Learning Guide:* [14.2 Web Crawling & Scraping — Study Guide, Courses & Repositories](14-Search-and-Retrieval/Web-Crawling-and-Scraping.md)
 
 
 * [Scrapy](https://github.com/scrapy/scrapy) — Fast web crawling framework.
@@ -1271,9 +1292,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [trafilatura](https://github.com/adbar/trafilatura) — Web content extraction.
 * [Jina Reader](https://github.com/jina-ai/reader) — Convert URLs to LLM-friendly text.
 
-## Semantic Search
+## 14.3 Semantic Search
 
-> 📖 *Curated Learning Guide:* [Semantic Search — Study Guide, Courses & Repositories](14-Search-and-Retrieval/Semantic-Search.md)
+> 📖 *Curated Learning Guide:* [14.3 Semantic Search — Study Guide, Courses & Repositories](14-Search-and-Retrieval/Semantic-Search.md)
 
 
 * [txtai](https://github.com/neuml/txtai) — All-in-one semantic search and RAG platform.
@@ -1283,18 +1304,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Knowledge Graphs
+# 15. Knowledge Graphs
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Knowledge Graphs — Domain Overview & Roadmap**](15-Knowledge-Graphs/README.md)
-> - [Graph Databases](15-Knowledge-Graphs/Graph-Databases.md)
-> - [Graph Machine Learning](15-Knowledge-Graphs/Graph-Machine-Learning.md)
-> - [Knowledge Graph Construction](15-Knowledge-Graphs/Knowledge-Graph-Construction.md)
+> - [15.1 Graph Databases](15-Knowledge-Graphs/Graph-Databases.md)
+> - [15.2 Graph Machine Learning](15-Knowledge-Graphs/Graph-Machine-Learning.md)
+> - [15.3 Knowledge Graph Construction](15-Knowledge-Graphs/Knowledge-Graph-Construction.md)
 
 
-## Graph Databases
+## 15.1 Graph Databases
 
-> 📖 *Curated Learning Guide:* [Graph Databases — Study Guide, Courses & Repositories](15-Knowledge-Graphs/Graph-Databases.md)
+> 📖 *Curated Learning Guide:* [15.1 Graph Databases — Study Guide, Courses & Repositories](15-Knowledge-Graphs/Graph-Databases.md)
 
 
 * [Neo4j](https://github.com/neo4j/neo4j) — Leading graph database.
@@ -1306,9 +1327,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Memgraph](https://github.com/memgraph/memgraph) — In-memory graph database.
 * [TypeDB](https://github.com/vaticle/typedb) — Strongly-typed database with a reasoning engine.
 
-## Graph Machine Learning
+## 15.2 Graph Machine Learning
 
-> 📖 *Curated Learning Guide:* [Graph Machine Learning — Study Guide, Courses & Repositories](15-Knowledge-Graphs/Graph-Machine-Learning.md)
+> 📖 *Curated Learning Guide:* [15.2 Graph Machine Learning — Study Guide, Courses & Repositories](15-Knowledge-Graphs/Graph-Machine-Learning.md)
 
 
 * [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) — Graph neural network library for PyTorch.
@@ -1319,9 +1340,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [jraph](https://github.com/google-deepmind/jraph) — Graph neural network library in JAX.
 * [OGB](https://github.com/snap-stanford/ogb) — Open graph benchmark.
 
-## Knowledge Graph Construction
+## 15.3 Knowledge Graph Construction
 
-> 📖 *Curated Learning Guide:* [Knowledge Graph Construction — Study Guide, Courses & Repositories](15-Knowledge-Graphs/Knowledge-Graph-Construction.md)
+> 📖 *Curated Learning Guide:* [15.3 Knowledge Graph Construction — Study Guide, Courses & Repositories](15-Knowledge-Graphs/Knowledge-Graph-Construction.md)
 
 
 * [spaCy](https://github.com/explosion/spaCy) — Entity and relation extraction.
@@ -1331,26 +1352,26 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Agentic AI & AI Agents
+# 16. Agentic AI & AI Agents
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Agentic AI & AI Agents — Domain Overview & Roadmap**](16-Agentic-AI-and-AI-Agents/README.md)
-> - [Agent Orchestration Frameworks & SDKs](16-Agentic-AI-and-AI-Agents/Agent-Orchestration-Frameworks-and-SDKs.md)
-> - [Agentic Reasoning & Cognitive Architectures](16-Agentic-AI-and-AI-Agents/Agentic-Reasoning-and-Cognitive-Architectures.md)
-> - [Autonomous & Self-Directed Agents](16-Agentic-AI-and-AI-Agents/Autonomous-and-Self-Directed-Agents.md)
-> - [Deep Research & Autonomous Search Agents](16-Agentic-AI-and-AI-Agents/Deep-Research-and-Autonomous-Search-Agents.md)
-> - [Real-Time Voice & Multimodal Agents](16-Agentic-AI-and-AI-Agents/Real-Time-Voice-and-Multimodal-Agents.md)
-> - [Agent Sandboxes & Secure Execution Environments](16-Agentic-AI-and-AI-Agents/Agent-Sandboxes-and-Secure-Execution-Environments.md)
-> - [Agent Evaluation, Benchmarks & Leaderboards](16-Agentic-AI-and-AI-Agents/Agent-Evaluation-Benchmarks-and-Leaderboards.md)
-> - [Agent Observability, Tracing & Monitoring](16-Agentic-AI-and-AI-Agents/Agent-Observability-Tracing-and-Monitoring.md)
-> - [Task-Specific & Domain Agents](16-Agentic-AI-and-AI-Agents/Task-Specific-and-Domain-Agents.md)
+> - [16.1 Agent Orchestration Frameworks & SDKs](16-Agentic-AI-and-AI-Agents/Agent-Orchestration-Frameworks-and-SDKs.md)
+> - [16.2 Agentic Reasoning & Cognitive Architectures](16-Agentic-AI-and-AI-Agents/Agentic-Reasoning-and-Cognitive-Architectures.md)
+> - [16.3 Autonomous & Self-Directed Agents](16-Agentic-AI-and-AI-Agents/Autonomous-and-Self-Directed-Agents.md)
+> - [16.4 Deep Research & Autonomous Search Agents](16-Agentic-AI-and-AI-Agents/Deep-Research-and-Autonomous-Search-Agents.md)
+> - [16.5 Real-Time Voice & Multimodal Agents](16-Agentic-AI-and-AI-Agents/Real-Time-Voice-and-Multimodal-Agents.md)
+> - [16.6 Agent Sandboxes & Secure Execution Environments](16-Agentic-AI-and-AI-Agents/Agent-Sandboxes-and-Secure-Execution-Environments.md)
+> - [16.7 Agent Evaluation, Benchmarks & Leaderboards](16-Agentic-AI-and-AI-Agents/Agent-Evaluation-Benchmarks-and-Leaderboards.md)
+> - [16.8 Agent Observability, Tracing & Monitoring](16-Agentic-AI-and-AI-Agents/Agent-Observability-Tracing-and-Monitoring.md)
+> - [16.9 Task-Specific & Domain Agents](16-Agentic-AI-and-AI-Agents/Task-Specific-and-Domain-Agents.md)
 
 
 <a id="agentic-ai--ai-agents"></a><a id="ai-agents"></a><a id="agentic-ai"></a>
 
-## Agent Orchestration Frameworks & SDKs
+## 16.1 Agent Orchestration Frameworks & SDKs
 
-> 📖 *Curated Learning Guide:* [Agent Orchestration Frameworks & SDKs — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agent-Orchestration-Frameworks-and-SDKs.md)
+> 📖 *Curated Learning Guide:* [16.1 Agent Orchestration Frameworks & SDKs — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agent-Orchestration-Frameworks-and-SDKs.md)
 
 
 * [LangGraph](https://github.com/langchain-ai/langgraph) — Build resilient, stateful, multi-actor agent applications with graph workflows.
@@ -1369,9 +1390,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Agency](https://github.com/neurocult/agency) — Performant Go library for building autonomous multi-agent systems.
 * [txtai](https://github.com/neuml/txtai) — All-in-one AI platform for embeddings, semantic search, RAG, and agentic workflows.
 
-## Agentic Reasoning & Cognitive Architectures
+## 16.2 Agentic Reasoning & Cognitive Architectures
 
-> 📖 *Curated Learning Guide:* [Agentic Reasoning & Cognitive Architectures — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agentic-Reasoning-and-Cognitive-Architectures.md)
+> 📖 *Curated Learning Guide:* [16.2 Agentic Reasoning & Cognitive Architectures — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agentic-Reasoning-and-Cognitive-Architectures.md)
 
 
 * [DeepSeek R1](https://github.com/deepseek-ai/DeepSeek-R1) — Open-weights reasoning model with large-scale reinforcement learning and cold-start reasoning.
@@ -1386,9 +1407,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Self-Discover](https://github.com/catid/self-discover) — Groundbreaking reasoning architecture that discovers task-specific reasoning structures.
 * [Bespoke-Minicheck](https://github.com/Liyan06/MiniCheck) — High-speed factual verification and reasoning consistency checker.
 
-## Autonomous & Self-Directed Agents
+## 16.3 Autonomous & Self-Directed Agents
 
-> 📖 *Curated Learning Guide:* [Autonomous & Self-Directed Agents — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Autonomous-and-Self-Directed-Agents.md)
+> 📖 *Curated Learning Guide:* [16.3 Autonomous & Self-Directed Agents — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Autonomous-and-Self-Directed-Agents.md)
 
 
 * [OpenHands](https://github.com/OpenHands/OpenHands) — Leading open-source platform for autonomous software development and computer use.
@@ -1402,9 +1423,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Khoj](https://github.com/khoj-ai/khoj) — Autonomous personal AI agent and second brain for desktop and web.
 * [HuggingGPT / JARVIS](https://github.com/microsoft/JARVIS) — Autonomous task planning agent connecting LLMs with the Hugging Face ecosystem.
 
-## Deep Research & Autonomous Search Agents
+## 16.4 Deep Research & Autonomous Search Agents
 
-> 📖 *Curated Learning Guide:* [Deep Research & Autonomous Search Agents — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Deep-Research-and-Autonomous-Search-Agents.md)
+> 📖 *Curated Learning Guide:* [16.4 Deep Research & Autonomous Search Agents — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Deep-Research-and-Autonomous-Search-Agents.md)
 
 
 * [Open-DeepResearch](https://github.com/huggingface/smolagents) — Open-source reproduction of deep research agents using web search, synthesis, and report generation.
@@ -1415,9 +1436,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [DeepSearch](https://github.com/DS4SD/deepsearch-toolkit) — Autonomous multi-hop web exploration and document synthesis engine.
 * [Tavily Python](https://github.com/tavily-ai/tavily-python) — Search engine API custom-built for AI agents and LLM research pipelines.
 
-## Real-Time Voice & Multimodal Agents
+## 16.5 Real-Time Voice & Multimodal Agents
 
-> 📖 *Curated Learning Guide:* [Real-Time Voice & Multimodal Agents — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Real-Time-Voice-and-Multimodal-Agents.md)
+> 📖 *Curated Learning Guide:* [16.5 Real-Time Voice & Multimodal Agents — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Real-Time-Voice-and-Multimodal-Agents.md)
 
 
 * [LiveKit Agents](https://github.com/livekit/agents) — Framework for building real-time, low-latency multimodal voice and video agents.
@@ -1428,9 +1449,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Ultravox](https://github.com/fixie-ai/ultravox) — Real-time multimodal speech language model designed for direct voice conversations.
 * [Mini-Omni](https://github.com/gpt-omni/mini-omni) — Voice-to-voice multimodal model with simultaneous speech processing.
 
-## Agent Sandboxes & Secure Execution Environments
+## 16.6 Agent Sandboxes & Secure Execution Environments
 
-> 📖 *Curated Learning Guide:* [Agent Sandboxes & Secure Execution Environments — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agent-Sandboxes-and-Secure-Execution-Environments.md)
+> 📖 *Curated Learning Guide:* [16.6 Agent Sandboxes & Secure Execution Environments — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agent-Sandboxes-and-Secure-Execution-Environments.md)
 
 
 * [E2B](https://github.com/e2b-dev/e2b) — Secure cloud and local sandboxed environments for AI-generated code execution.
@@ -1440,9 +1461,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [CodeSandbox SDK](https://github.com/codesandbox/codesandbox-client) — Programmatic cloud sandboxes for running agent-generated applications.
 * [Docker Agent Sandboxes](https://github.com/docker/genai-stack) — Containerized sandboxed environments for safe tool execution.
 
-## Agent Evaluation, Benchmarks & Leaderboards
+## 16.7 Agent Evaluation, Benchmarks & Leaderboards
 
-> 📖 *Curated Learning Guide:* [Agent Evaluation, Benchmarks & Leaderboards — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agent-Evaluation-Benchmarks-and-Leaderboards.md)
+> 📖 *Curated Learning Guide:* [16.7 Agent Evaluation, Benchmarks & Leaderboards — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agent-Evaluation-Benchmarks-and-Leaderboards.md)
 
 
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) — Landmark benchmark evaluating agents on resolving real-world GitHub issues.
@@ -1456,9 +1477,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [AndroidWorld](https://github.com/google-research/android_world) — Dynamic environment and benchmark for evaluating autonomous agents on Android OS.
 * [Mint](https://github.com/xingyaoww/mint-bench) — Multi-turn interactive benchmark evaluating tool use, feedback, and reasoning.
 
-## Agent Observability, Tracing & Monitoring
+## 16.8 Agent Observability, Tracing & Monitoring
 
-> 📖 *Curated Learning Guide:* [Agent Observability, Tracing & Monitoring — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agent-Observability-Tracing-and-Monitoring.md)
+> 📖 *Curated Learning Guide:* [16.8 Agent Observability, Tracing & Monitoring — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Agent-Observability-Tracing-and-Monitoring.md)
 
 
 * [Langfuse](https://github.com/langfuse/langfuse) — Open-source LLM engineering platform for observability, tracing, metrics, and prompt evaluations.
@@ -1468,9 +1489,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Traceloop / OpenLLMetry](https://github.com/traceloop/openllmetry) — Open-source telemetry and monitoring for LLM and agent applications.
 * [Helicone](https://github.com/Helicone/helicone) — Lightweight observability, proxy caching, rate limiting, and cost tracking platform.
 
-## Task-Specific & Domain Agents
+## 16.9 Task-Specific & Domain Agents
 
-> 📖 *Curated Learning Guide:* [Task-Specific & Domain Agents — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Task-Specific-and-Domain-Agents.md)
+> 📖 *Curated Learning Guide:* [16.9 Task-Specific & Domain Agents — Study Guide, Courses & Repositories](16-Agentic-AI-and-AI-Agents/Task-Specific-and-Domain-Agents.md)
 
 
 * [The AI Scientist](https://github.com/SakanaAI/AI-Scientist) — Fully automated framework for end-to-end scientific research, experimentation, and paper writing.
@@ -1481,17 +1502,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Multi-Agent Systems
+# 17. Multi-Agent Systems
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Multi-Agent Systems — Domain Overview & Roadmap**](17-Multi-Agent-Systems/README.md)
-> - [Multi-Agent Frameworks](17-Multi-Agent-Systems/Multi-Agent-Frameworks.md)
-> - [Multi-Agent Patterns & Protocols](17-Multi-Agent-Systems/Multi-Agent-Patterns-and-Protocols.md)
+> - [17.1 Multi-Agent Frameworks](17-Multi-Agent-Systems/Multi-Agent-Frameworks.md)
+> - [17.2 Multi-Agent Patterns & Protocols](17-Multi-Agent-Systems/Multi-Agent-Patterns-and-Protocols.md)
 
 
-## Multi-Agent Frameworks
+## 17.1 Multi-Agent Frameworks
 
-> 📖 *Curated Learning Guide:* [Multi-Agent Frameworks — Study Guide, Courses & Repositories](17-Multi-Agent-Systems/Multi-Agent-Frameworks.md)
+> 📖 *Curated Learning Guide:* [17.1 Multi-Agent Frameworks — Study Guide, Courses & Repositories](17-Multi-Agent-Systems/Multi-Agent-Frameworks.md)
 
 
 * [AutoGen](https://github.com/microsoft/autogen) — Next-gen multi-agent conversation and event-driven architecture by Microsoft.
@@ -1505,9 +1526,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [AgentVerse](https://github.com/OpenBMB/AgentVerse) — Versatile platform for multi-agent simulation and collaborative task solving.
 * [DyLAN](https://github.com/SALT-NLP/DyLAN) — Dynamic LLM agent network architecture for multi-agent reasoning.
 
-## Multi-Agent Patterns & Protocols
+## 17.2 Multi-Agent Patterns & Protocols
 
-> 📖 *Curated Learning Guide:* [Multi-Agent Patterns & Protocols — Study Guide, Courses & Repositories](17-Multi-Agent-Systems/Multi-Agent-Patterns-and-Protocols.md)
+> 📖 *Curated Learning Guide:* [17.2 Multi-Agent Patterns & Protocols — Study Guide, Courses & Repositories](17-Multi-Agent-Systems/Multi-Agent-Patterns-and-Protocols.md)
 
 
 * [Swarm Handoff Pattern](https://github.com/openai/swarm) — Dynamic delegation pattern where agents transfer conversation control via functions.
@@ -1519,18 +1540,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Agent Memory
+# 18. Agent Memory
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Agent Memory — Domain Overview & Roadmap**](18-Agent-Memory/README.md)
-> - [Memory Frameworks & Systems](18-Agent-Memory/Memory-Frameworks-and-Systems.md)
-> - [Temporal & Graph Memory](18-Agent-Memory/Temporal-and-Graph-Memory.md)
-> - [Context Engineering & Dialogue State](18-Agent-Memory/Context-Engineering-and-Dialogue-State.md)
+> - [18.1 Memory Frameworks & Systems](18-Agent-Memory/Memory-Frameworks-and-Systems.md)
+> - [18.2 Temporal & Graph Memory](18-Agent-Memory/Temporal-and-Graph-Memory.md)
+> - [18.3 Context Engineering & Dialogue State](18-Agent-Memory/Context-Engineering-and-Dialogue-State.md)
 
 
-## Memory Frameworks & Systems
+## 18.1 Memory Frameworks & Systems
 
-> 📖 *Curated Learning Guide:* [Memory Frameworks & Systems — Study Guide, Courses & Repositories](18-Agent-Memory/Memory-Frameworks-and-Systems.md)
+> 📖 *Curated Learning Guide:* [18.1 Memory Frameworks & Systems — Study Guide, Courses & Repositories](18-Agent-Memory/Memory-Frameworks-and-Systems.md)
 
 
 * [Mem0](https://github.com/mem0ai/mem0) — Self-improving memory layer for personalized AI assistants and agents.
@@ -1541,18 +1562,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Memary](https://github.com/kingjulio8238/Memary) — Long-term memory engine for autonomous agents using knowledge graphs.
 * [Motorhead](https://github.com/getmetal/motorhead) — Memory and information retrieval engine for conversational AI.
 
-## Temporal & Graph Memory
+## 18.2 Temporal & Graph Memory
 
-> 📖 *Curated Learning Guide:* [Temporal & Graph Memory — Study Guide, Courses & Repositories](18-Agent-Memory/Temporal-and-Graph-Memory.md)
+> 📖 *Curated Learning Guide:* [18.2 Temporal & Graph Memory — Study Guide, Courses & Repositories](18-Agent-Memory/Temporal-and-Graph-Memory.md)
 
 
 * [Graphiti](https://github.com/getzep/graphiti) — Temporal knowledge graph engine for dynamic, time-aware agent memory.
 * [HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) — Neurobiologically inspired long-term memory framework powered by knowledge graphs.
 * [GraphRAG](https://github.com/microsoft/graphrag) — Graph-based retrieval-augmented generation engine for structured memory recall.
 
-## Context Engineering & Dialogue State
+## 18.3 Context Engineering & Dialogue State
 
-> 📖 *Curated Learning Guide:* [Context Engineering & Dialogue State — Study Guide, Courses & Repositories](18-Agent-Memory/Context-Engineering-and-Dialogue-State.md)
+> 📖 *Curated Learning Guide:* [18.3 Context Engineering & Dialogue State — Study Guide, Courses & Repositories](18-Agent-Memory/Context-Engineering-and-Dialogue-State.md)
 
 
 * [LangGraph Checkpointing](https://github.com/langchain-ai/langgraph) — Persistent state checkpointers for fault-tolerant human-in-the-loop workflows.
@@ -1561,18 +1582,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Agent Tools
+# 19. Agent Tools
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Agent Tools — Domain Overview & Roadmap**](19-Agent-Tools/README.md)
-> - [Tool Calling & Integration](19-Agent-Tools/Tool-Calling-and-Integration.md)
-> - [Workflow Automation](19-Agent-Tools/Workflow-Automation.md)
-> - [Code Execution Sandboxes](19-Agent-Tools/Code-Execution-Sandboxes.md)
+> - [19.1 Tool Calling & Integration](19-Agent-Tools/Tool-Calling-and-Integration.md)
+> - [19.2 Workflow Automation](19-Agent-Tools/Workflow-Automation.md)
+> - [19.3 Code Execution Sandboxes](19-Agent-Tools/Code-Execution-Sandboxes.md)
 
 
-## Tool Calling & Integration
+## 19.1 Tool Calling & Integration
 
-> 📖 *Curated Learning Guide:* [Tool Calling & Integration — Study Guide, Courses & Repositories](19-Agent-Tools/Tool-Calling-and-Integration.md)
+> 📖 *Curated Learning Guide:* [19.1 Tool Calling & Integration — Study Guide, Courses & Repositories](19-Agent-Tools/Tool-Calling-and-Integration.md)
 
 
 * [LangChain](https://github.com/langchain-ai/langchain) — Tools, chains, and LLM orchestration.
@@ -1581,9 +1602,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Composio](https://github.com/ComposioHQ/composio) — Integration platform for AI agents with 250+ tools.
 * [Toolformer](https://github.com/lucidrains/toolformer-pytorch) — Language models that use tools.
 
-## Workflow Automation
+## 19.2 Workflow Automation
 
-> 📖 *Curated Learning Guide:* [Workflow Automation — Study Guide, Courses & Repositories](19-Agent-Tools/Workflow-Automation.md)
+> 📖 *Curated Learning Guide:* [19.2 Workflow Automation — Study Guide, Courses & Repositories](19-Agent-Tools/Workflow-Automation.md)
 
 
 * [n8n](https://github.com/n8n-io/n8n) — Fair-source workflow automation platform.
@@ -1593,9 +1614,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Prefect](https://github.com/PrefectHQ/prefect) — Modern workflow orchestration.
 * [Windmill](https://github.com/windmill-labs/windmill) — Developer platform for scripts, flows, and apps.
 
-## Code Execution Sandboxes
+## 19.3 Code Execution Sandboxes
 
-> 📖 *Curated Learning Guide:* [Code Execution Sandboxes — Study Guide, Courses & Repositories](19-Agent-Tools/Code-Execution-Sandboxes.md)
+> 📖 *Curated Learning Guide:* [19.3 Code Execution Sandboxes — Study Guide, Courses & Repositories](19-Agent-Tools/Code-Execution-Sandboxes.md)
 
 
 * [E2B](https://github.com/e2b-dev/e2b) — Cloud runtime for AI-generated code execution.
@@ -1604,18 +1625,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Coding
+# 20. AI Coding
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Coding — Domain Overview & Roadmap**](20-AI-Coding/README.md)
-> - [Coding Agents](20-AI-Coding/Coding-Agents.md)
-> - [Code Models](20-AI-Coding/Code-Models.md)
-> - [Code Review & Analysis](20-AI-Coding/Code-Review-and-Analysis.md)
+> - [20.1 Coding Agents](20-AI-Coding/Coding-Agents.md)
+> - [20.2 Code Models](20-AI-Coding/Code-Models.md)
+> - [20.3 Code Review & Analysis](20-AI-Coding/Code-Review-and-Analysis.md)
 
 
-## Coding Agents
+## 20.1 Coding Agents
 
-> 📖 *Curated Learning Guide:* [Coding Agents — Study Guide, Courses & Repositories](20-AI-Coding/Coding-Agents.md)
+> 📖 *Curated Learning Guide:* [20.1 Coding Agents — Study Guide, Courses & Repositories](20-AI-Coding/Coding-Agents.md)
 
 
 * [OpenHands](https://github.com/OpenHands/OpenHands) — Leading open-source AI software development platform and agent.
@@ -1633,9 +1654,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Plandex](https://github.com/plandex-ai/plandex) — Terminal-based AI coding engine for complex multi-stage tasks.
 * [Devon](https://github.com/entropy-research/Devon) — Open-source software engineering agent alternative to Devin.
 
-## Code Models
+## 20.2 Code Models
 
-> 📖 *Curated Learning Guide:* [Code Models — Study Guide, Courses & Repositories](20-AI-Coding/Code-Models.md)
+> 📖 *Curated Learning Guide:* [20.2 Code Models — Study Guide, Courses & Repositories](20-AI-Coding/Code-Models.md)
 
 
 * [StarCoder](https://github.com/bigcode-project/starcoder) — Open-source code language models.
@@ -1647,9 +1668,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Codestral](https://github.com/mistralai/mistral-inference) — Mistral's code-optimized models.
 * [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) — Code-specialized Qwen models.
 
-## Code Review & Analysis
+## 20.3 Code Review & Analysis
 
-> 📖 *Curated Learning Guide:* [Code Review & Analysis — Study Guide, Courses & Repositories](20-AI-Coding/Code-Review-and-Analysis.md)
+> 📖 *Curated Learning Guide:* [20.3 Code Review & Analysis — Study Guide, Courses & Repositories](20-AI-Coding/Code-Review-and-Analysis.md)
 
 
 * [PR-Agent](https://github.com/Codium-ai/pr-agent) — AI-powered pull request analysis.
@@ -1660,17 +1681,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Browser Agents
+# 21. Browser Agents
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Browser Agents — Domain Overview & Roadmap**](21-Browser-Agents/README.md)
-> - [Browser Automation Frameworks](21-Browser-Agents/Browser-Automation-Frameworks.md)
-> - [AI Browser Agents](21-Browser-Agents/AI-Browser-Agents.md)
+> - [21.1 Browser Automation Frameworks](21-Browser-Agents/Browser-Automation-Frameworks.md)
+> - [21.2 AI Browser Agents](21-Browser-Agents/AI-Browser-Agents.md)
 
 
-## Browser Automation Frameworks
+## 21.1 Browser Automation Frameworks
 
-> 📖 *Curated Learning Guide:* [Browser Automation Frameworks — Study Guide, Courses & Repositories](21-Browser-Agents/Browser-Automation-Frameworks.md)
+> 📖 *Curated Learning Guide:* [21.1 Browser Automation Frameworks — Study Guide, Courses & Repositories](21-Browser-Agents/Browser-Automation-Frameworks.md)
 
 
 * [Playwright](https://github.com/microsoft/playwright) — Reliable end-to-end cross-browser automation by Microsoft.
@@ -1679,9 +1700,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Cypress](https://github.com/cypress-io/cypress) — Next generation frontend testing tool built for modern web.
 * [Steel](https://github.com/steel-dev/steel-browser) — Open-source headless browser API designed specifically for AI agents.
 
-## AI Browser Agents
+## 21.2 AI Browser Agents
 
-> 📖 *Curated Learning Guide:* [AI Browser Agents — Study Guide, Courses & Repositories](21-Browser-Agents/AI-Browser-Agents.md)
+> 📖 *Curated Learning Guide:* [21.2 AI Browser Agents — Study Guide, Courses & Repositories](21-Browser-Agents/AI-Browser-Agents.md)
 
 
 * [browser-use](https://github.com/browser-use/browser-use) — Make websites accessible to AI agents with vision and click actions.
@@ -1695,17 +1716,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Computer Use
+# 22. Computer Use
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Computer Use — Domain Overview & Roadmap**](22-Computer-Use/README.md)
-> - [Desktop & OS Agents](22-Computer-Use/Desktop-and-OS-Agents.md)
-> - [Benchmarks & Environments](22-Computer-Use/Benchmarks-and-Environments.md)
+> - [22.1 Desktop & OS Agents](22-Computer-Use/Desktop-and-OS-Agents.md)
+> - [22.2 Benchmarks & Environments](22-Computer-Use/Benchmarks-and-Environments.md)
 
 
-## Desktop & OS Agents
+## 22.1 Desktop & OS Agents
 
-> 📖 *Curated Learning Guide:* [Desktop & OS Agents — Study Guide, Courses & Repositories](22-Computer-Use/Desktop-and-OS-Agents.md)
+> 📖 *Curated Learning Guide:* [22.1 Desktop & OS Agents — Study Guide, Courses & Repositories](22-Computer-Use/Desktop-and-OS-Agents.md)
 
 
 * [Anthropic Computer Use Demo](https://github.com/anthropics/anthropic-quickstarts) — Reference implementation for Claude 3.5 Sonnet computer use.
@@ -1718,9 +1739,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [SeeAct](https://github.com/OSU-NLP-Group/SeeAct) — Autonomous agent for graphical user interface interaction on the live web.
 * [Cradle](https://github.com/BAAI-Agents/Cradle) — Framework empowering foundation agents to master desktop software and games.
 
-## Benchmarks & Environments
+## 22.2 Benchmarks & Environments
 
-> 📖 *Curated Learning Guide:* [Benchmarks & Environments — Study Guide, Courses & Repositories](22-Computer-Use/Benchmarks-and-Environments.md)
+> 📖 *Curated Learning Guide:* [22.2 Benchmarks & Environments — Study Guide, Courses & Repositories](22-Computer-Use/Benchmarks-and-Environments.md)
 
 
 * [OSWorld](https://github.com/xlang-ai/OSWorld) — Multimodal benchmark for computer-use agents across real OS applications.
@@ -1731,20 +1752,20 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# MCP & Agent Protocols
+# 23. MCP & Agent Protocols
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **MCP & Agent Protocols — Domain Overview & Roadmap**](23-MCP-and-Agent-Protocols/README.md)
-> - [Model Context Protocol SDKs](23-MCP-and-Agent-Protocols/Model-Context-Protocol-SDKs.md)
-> - [MCP Servers & Ecosystem](23-MCP-and-Agent-Protocols/MCP-Servers-and-Ecosystem.md)
-> - [MCP Clients & Host Integrations](23-MCP-and-Agent-Protocols/MCP-Clients-and-Host-Integrations.md)
-> - [Agent Communication Protocols](23-MCP-and-Agent-Protocols/Agent-Communication-Protocols.md)
-> - [Tool & Function Calling Standards](23-MCP-and-Agent-Protocols/Tool-and-Function-Calling-Standards.md)
+> - [23.1 Model Context Protocol SDKs](23-MCP-and-Agent-Protocols/Model-Context-Protocol-SDKs.md)
+> - [23.2 MCP Servers & Ecosystem](23-MCP-and-Agent-Protocols/MCP-Servers-and-Ecosystem.md)
+> - [23.3 MCP Clients & Host Integrations](23-MCP-and-Agent-Protocols/MCP-Clients-and-Host-Integrations.md)
+> - [23.4 Agent Communication Protocols](23-MCP-and-Agent-Protocols/Agent-Communication-Protocols.md)
+> - [23.5 Tool & Function Calling Standards](23-MCP-and-Agent-Protocols/Tool-and-Function-Calling-Standards.md)
 
 
-## Model Context Protocol SDKs
+## 23.1 Model Context Protocol SDKs
 
-> 📖 *Curated Learning Guide:* [Model Context Protocol SDKs — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/Model-Context-Protocol-SDKs.md)
+> 📖 *Curated Learning Guide:* [23.1 Model Context Protocol SDKs — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/Model-Context-Protocol-SDKs.md)
 
 
 * [MCP Specification](https://github.com/modelcontextprotocol/specification) — Open protocol specification for model-to-context connectivity.
@@ -1754,9 +1775,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Kotlin SDK](https://github.com/modelcontextprotocol/kotlin-sdk) — Official Model Context Protocol Kotlin SDK.
 * [C# SDK](https://github.com/modelcontextprotocol/csharp-sdk) — Official Model Context Protocol C# SDK.
 
-## MCP Servers & Ecosystem
+## 23.2 MCP Servers & Ecosystem
 
-> 📖 *Curated Learning Guide:* [MCP Servers & Ecosystem — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/MCP-Servers-and-Ecosystem.md)
+> 📖 *Curated Learning Guide:* [23.2 MCP Servers & Ecosystem — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/MCP-Servers-and-Ecosystem.md)
 
 
 * [Official MCP Servers](https://github.com/modelcontextprotocol/servers) — Reference implementations including Filesystem, Git, GitHub, Postgres, Brave Search, Fetch, and SQLite.
@@ -1766,9 +1787,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Slack MCP Server](https://github.com/modelcontextprotocol/servers) — Connect AI models and agents directly to Slack workspaces.
 * [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers) — Secure read/write database inspection server for MCP clients.
 
-## MCP Clients & Host Integrations
+## 23.3 MCP Clients & Host Integrations
 
-> 📖 *Curated Learning Guide:* [MCP Clients & Host Integrations — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/MCP-Clients-and-Host-Integrations.md)
+> 📖 *Curated Learning Guide:* [23.3 MCP Clients & Host Integrations — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/MCP-Clients-and-Host-Integrations.md)
 
 
 * [Claude Desktop](https://github.com/anthropics/anthropic-quickstarts) — Flagship desktop application with native Model Context Protocol support.
@@ -1777,9 +1798,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LibreChat](https://github.com/danny-avila/LibreChat) — Open-source ChatGPT alternative with integrated MCP support.
 * [Zed](https://github.com/zed-industries/zed) — High-performance multiplayer code editor with MCP context provider integration.
 
-## Agent Communication Protocols
+## 23.4 Agent Communication Protocols
 
-> 📖 *Curated Learning Guide:* [Agent Communication Protocols — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/Agent-Communication-Protocols.md)
+> 📖 *Curated Learning Guide:* [23.4 Agent Communication Protocols — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/Agent-Communication-Protocols.md)
 
 
 * [A2A (Agent-to-Agent)](https://github.com/google/A2A) — Open standard protocol by Google for seamless communication between autonomous AI agents.
@@ -1787,9 +1808,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [ACP (Agent Communication Protocol)](https://github.com/i-am-bee/acp) — Decentralized agent communication standard by AGNTCY.
 * [OpenAPI](https://github.com/OAI/OpenAPI-Specification) — Universal standard for defining machine-readable RESTful APIs for tool use.
 
-## Tool & Function Calling Standards
+## 23.5 Tool & Function Calling Standards
 
-> 📖 *Curated Learning Guide:* [Tool & Function Calling Standards — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/Tool-and-Function-Calling-Standards.md)
+> 📖 *Curated Learning Guide:* [23.5 Tool & Function Calling Standards — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/Tool-and-Function-Calling-Standards.md)
 
 
 * [OpenAI Function Calling](https://github.com/openai/openai-python) — Industry-standard JSON schema format for tool use in LLMs.
@@ -1798,18 +1819,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Multimodal AI
+# 24. Multimodal AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Multimodal AI — Domain Overview & Roadmap**](24-Multimodal-AI/README.md)
-> - [Vision-Language Models](24-Multimodal-AI/Vision-Language-Models.md)
-> - [Multimodal Frameworks](24-Multimodal-AI/Multimodal-Frameworks.md)
-> - [Document Understanding (Multimodal)](24-Multimodal-AI/Document-Understanding-Multimodal.md)
+> - [24.1 Vision-Language Models](24-Multimodal-AI/Vision-Language-Models.md)
+> - [24.2 Multimodal Frameworks](24-Multimodal-AI/Multimodal-Frameworks.md)
+> - [24.3 Document Understanding (Multimodal)](24-Multimodal-AI/Document-Understanding-Multimodal.md)
 
 
-## Vision-Language Models
+## 24.1 Vision-Language Models
 
-> 📖 *Curated Learning Guide:* [Vision-Language Models — Study Guide, Courses & Repositories](24-Multimodal-AI/Vision-Language-Models.md)
+> 📖 *Curated Learning Guide:* [24.1 Vision-Language Models — Study Guide, Courses & Repositories](24-Multimodal-AI/Vision-Language-Models.md)
 
 
 * [LLaVA](https://github.com/haotian-liu/LLaVA) — Large language and vision assistant.
@@ -1823,9 +1844,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Cambrian](https://github.com/cambrian-mllm/cambrian) — Vision-centric multimodal LLM.
 * [Molmo](https://github.com/allenai/Molmo) — Multimodal open language model by AI2.
 
-## Multimodal Frameworks
+## 24.2 Multimodal Frameworks
 
-> 📖 *Curated Learning Guide:* [Multimodal Frameworks — Study Guide, Courses & Repositories](24-Multimodal-AI/Multimodal-Frameworks.md)
+> 📖 *Curated Learning Guide:* [24.2 Multimodal Frameworks — Study Guide, Courses & Repositories](24-Multimodal-AI/Multimodal-Frameworks.md)
 
 
 * [Transformers](https://github.com/huggingface/transformers) — Unified multimodal model support.
@@ -1833,9 +1854,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [NeMo Multimodal](https://github.com/NVIDIA/NeMo) — NVIDIA's multimodal training framework.
 * [X-LLM](https://github.com/phellonchen/X-LLM) — Bootstrapping any-to-any language models.
 
-## Document Understanding (Multimodal)
+## 24.3 Document Understanding (Multimodal)
 
-> 📖 *Curated Learning Guide:* [Document Understanding (Multimodal) — Study Guide, Courses & Repositories](24-Multimodal-AI/Document-Understanding-Multimodal.md)
+> 📖 *Curated Learning Guide:* [24.3 Document Understanding (Multimodal) — Study Guide, Courses & Repositories](24-Multimodal-AI/Document-Understanding-Multimodal.md)
 
 
 * [Nougat](https://github.com/facebookresearch/nougat) — Neural OCR for academic documents.
@@ -1845,19 +1866,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Image Generation
+# 25. Image Generation
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Image Generation — Domain Overview & Roadmap**](25-Image-Generation/README.md)
-> - [Diffusion & Image Models](25-Image-Generation/Diffusion-and-Image-Models.md)
-> - [Interfaces & Workflows](25-Image-Generation/Interfaces-and-Workflows.md)
-> - [ControlNet & Guided Generation](25-Image-Generation/ControlNet-and-Guided-Generation.md)
-> - [Image-to-Image](25-Image-Generation/Image-to-Image.md)
+> - [25.1 Diffusion & Image Models](25-Image-Generation/Diffusion-and-Image-Models.md)
+> - [25.2 Interfaces & Workflows](25-Image-Generation/Interfaces-and-Workflows.md)
+> - [25.3 ControlNet & Guided Generation](25-Image-Generation/ControlNet-and-Guided-Generation.md)
+> - [25.4 Image-to-Image](25-Image-Generation/Image-to-Image.md)
 
 
-## Diffusion & Image Models
+## 25.1 Diffusion & Image Models
 
-> 📖 *Curated Learning Guide:* [Diffusion & Image Models — Study Guide, Courses & Repositories](25-Image-Generation/Diffusion-and-Image-Models.md)
+> 📖 *Curated Learning Guide:* [25.1 Diffusion & Image Models — Study Guide, Courses & Repositories](25-Image-Generation/Diffusion-and-Image-Models.md)
 
 
 * [Diffusers](https://github.com/huggingface/diffusers) — Comprehensive diffusion model library.
@@ -1868,9 +1889,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [PixArt](https://github.com/PixArt-alpha/PixArt-alpha) — Fast training of diffusion transformers.
 * [Playground v2.5](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic) — Enhanced image generation model.
 
-## Interfaces & Workflows
+## 25.2 Interfaces & Workflows
 
-> 📖 *Curated Learning Guide:* [Interfaces & Workflows — Study Guide, Courses & Repositories](25-Image-Generation/Interfaces-and-Workflows.md)
+> 📖 *Curated Learning Guide:* [25.2 Interfaces & Workflows — Study Guide, Courses & Repositories](25-Image-Generation/Interfaces-and-Workflows.md)
 
 
 * [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based generative AI workflows.
@@ -1880,9 +1901,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) — Optimized SD WebUI fork.
 * [SD.Next](https://github.com/vladmandic/automatic) — Advanced Stable Diffusion implementation.
 
-## ControlNet & Guided Generation
+## 25.3 ControlNet & Guided Generation
 
-> 📖 *Curated Learning Guide:* [ControlNet & Guided Generation — Study Guide, Courses & Repositories](25-Image-Generation/ControlNet-and-Guided-Generation.md)
+> 📖 *Curated Learning Guide:* [25.3 ControlNet & Guided Generation — Study Guide, Courses & Repositories](25-Image-Generation/ControlNet-and-Guided-Generation.md)
 
 
 * [ControlNet](https://github.com/lllyasviel/ControlNet) — Adding conditional control to diffusion models.
@@ -1890,9 +1911,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [T2I-Adapter](https://github.com/TencentARC/T2I-Adapter) — Composable structure control for image generation.
 * [InstantID](https://github.com/instantX-research/InstantID) — Zero-shot identity-preserving generation.
 
-## Image-to-Image
+## 25.4 Image-to-Image
 
-> 📖 *Curated Learning Guide:* [Image-to-Image — Study Guide, Courses & Repositories](25-Image-Generation/Image-to-Image.md)
+> 📖 *Curated Learning Guide:* [25.4 Image-to-Image — Study Guide, Courses & Repositories](25-Image-Generation/Image-to-Image.md)
 
 
 * [img2img](https://github.com/CompVis/stable-diffusion) — Image-to-image translation with diffusion.
@@ -1901,17 +1922,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Video Generation
+# 26. Video Generation
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Video Generation — Domain Overview & Roadmap**](26-Video-Generation/README.md)
-> - [Video Generation Models](26-Video-Generation/Video-Generation-Models.md)
-> - [Video Editing & Processing](26-Video-Generation/Video-Editing-and-Processing.md)
+> - [26.1 Video Generation Models](26-Video-Generation/Video-Generation-Models.md)
+> - [26.2 Video Editing & Processing](26-Video-Generation/Video-Editing-and-Processing.md)
 
 
-## Video Generation Models
+## 26.1 Video Generation Models
 
-> 📖 *Curated Learning Guide:* [Video Generation Models — Study Guide, Courses & Repositories](26-Video-Generation/Video-Generation-Models.md)
+> 📖 *Curated Learning Guide:* [26.1 Video Generation Models — Study Guide, Courses & Repositories](26-Video-Generation/Video-Generation-Models.md)
 
 
 * [Diffusers (Video)](https://github.com/huggingface/diffusers) — Video generation pipelines.
@@ -1926,9 +1947,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LTX-Video](https://github.com/Lightricks/LTX-Video) — Real-time video generation.
 * [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) — Video generation by Tencent.
 
-## Video Editing & Processing
+## 26.2 Video Editing & Processing
 
-> 📖 *Curated Learning Guide:* [Video Editing & Processing — Study Guide, Courses & Repositories](26-Video-Generation/Video-Editing-and-Processing.md)
+> 📖 *Curated Learning Guide:* [26.2 Video Editing & Processing — Study Guide, Courses & Repositories](26-Video-Generation/Video-Editing-and-Processing.md)
 
 
 * [Runway ML](https://github.com/runwayml) — AI-powered creative tools.
@@ -1938,18 +1959,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Audio & Music Generation
+# 27. Audio & Music Generation
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Audio & Music Generation — Domain Overview & Roadmap**](27-Audio-and-Music-Generation/README.md)
-> - [Music Generation](27-Audio-and-Music-Generation/Music-Generation.md)
-> - [Speech & Voice Generation](27-Audio-and-Music-Generation/Speech-and-Voice-Generation.md)
-> - [Sound Effects & Audio Generation](27-Audio-and-Music-Generation/Sound-Effects-and-Audio-Generation.md)
+> - [27.1 Music Generation](27-Audio-and-Music-Generation/Music-Generation.md)
+> - [27.2 Speech & Voice Generation](27-Audio-and-Music-Generation/Speech-and-Voice-Generation.md)
+> - [27.3 Sound Effects & Audio Generation](27-Audio-and-Music-Generation/Sound-Effects-and-Audio-Generation.md)
 
 
-## Music Generation
+## 27.1 Music Generation
 
-> 📖 *Curated Learning Guide:* [Music Generation — Study Guide, Courses & Repositories](27-Audio-and-Music-Generation/Music-Generation.md)
+> 📖 *Curated Learning Guide:* [27.1 Music Generation — Study Guide, Courses & Repositories](27-Audio-and-Music-Generation/Music-Generation.md)
 
 
 * [AudioCraft / MusicGen](https://github.com/facebookresearch/audiocraft) — Text-to-music by Meta.
@@ -1959,9 +1980,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [RAVE](https://github.com/acids-ircam/RAVE) — Real-time audio variational autoencoder.
 * [Magenta](https://github.com/magenta/magenta) — Music and art generation with ML by Google.
 
-## Speech & Voice Generation
+## 27.2 Speech & Voice Generation
 
-> 📖 *Curated Learning Guide:* [Speech & Voice Generation — Study Guide, Courses & Repositories](27-Audio-and-Music-Generation/Speech-and-Voice-Generation.md)
+> 📖 *Curated Learning Guide:* [27.2 Speech & Voice Generation — Study Guide, Courses & Repositories](27-Audio-and-Music-Generation/Speech-and-Voice-Generation.md)
 
 
 * [Bark](https://github.com/suno-ai/bark) — Transformer-based text-to-audio model by Suno.
@@ -1970,9 +1991,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) — Open inverse Whisper for TTS.
 * [Parler-TTS](https://github.com/huggingface/parler-tts) — High-quality TTS with natural language descriptions.
 
-## Sound Effects & Audio Generation
+## 27.3 Sound Effects & Audio Generation
 
-> 📖 *Curated Learning Guide:* [Sound Effects & Audio Generation — Study Guide, Courses & Repositories](27-Audio-and-Music-Generation/Sound-Effects-and-Audio-Generation.md)
+> 📖 *Curated Learning Guide:* [27.3 Sound Effects & Audio Generation — Study Guide, Courses & Repositories](27-Audio-and-Music-Generation/Sound-Effects-and-Audio-Generation.md)
 
 
 * [AudioCraft](https://github.com/facebookresearch/audiocraft) — Music, sound effects, and compression.
@@ -1981,18 +2002,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# 3D AI
+# 28. 3D AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **3D AI — Domain Overview & Roadmap**](28-3D-AI/README.md)
-> - [3D Generation](28-3D-AI/3D-Generation.md)
-> - [Neural Rendering](28-3D-AI/Neural-Rendering.md)
-> - [3D Processing](28-3D-AI/3D-Processing.md)
+> - [28.1 3D Generation](28-3D-AI/3D-Generation.md)
+> - [28.2 Neural Rendering](28-3D-AI/Neural-Rendering.md)
+> - [28.3 3D Processing](28-3D-AI/3D-Processing.md)
 
 
-## 3D Generation
+## 28.1 3D Generation
 
-> 📖 *Curated Learning Guide:* [3D Generation — Study Guide, Courses & Repositories](28-3D-AI/3D-Generation.md)
+> 📖 *Curated Learning Guide:* [28.1 3D Generation — Study Guide, Courses & Repositories](28-3D-AI/3D-Generation.md)
 
 
 * [Shap-E](https://github.com/openai/shap-e) — Generate 3D objects from text or images.
@@ -2005,9 +2026,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Zero123++](https://github.com/SUDO-AI-3D/zero123plus) — Image-conditioned 3D generation.
 * [Meshy](https://github.com/meshy-dev) — AI 3D model generation.
 
-## Neural Rendering
+## 28.2 Neural Rendering
 
-> 📖 *Curated Learning Guide:* [Neural Rendering — Study Guide, Courses & Repositories](28-3D-AI/Neural-Rendering.md)
+> 📖 *Curated Learning Guide:* [28.2 Neural Rendering — Study Guide, Courses & Repositories](28-3D-AI/Neural-Rendering.md)
 
 
 * [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) — NeRF development framework.
@@ -2018,9 +2039,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [TensoRF](https://github.com/apchenstu/TensoRF) — Tensorial radiance fields.
 * [Zip-NeRF](https://github.com/SuLvXiangXin/zipnerf-pytorch) — Anti-aliased grid-based NeRF.
 
-## 3D Processing
+## 28.3 3D Processing
 
-> 📖 *Curated Learning Guide:* [3D Processing — Study Guide, Courses & Repositories](28-3D-AI/3D-Processing.md)
+> 📖 *Curated Learning Guide:* [28.3 3D Processing — Study Guide, Courses & Repositories](28-3D-AI/3D-Processing.md)
 
 
 * [trimesh](https://github.com/mikedh/trimesh) — 3D mesh loading and processing.
@@ -2029,17 +2050,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# World Models
+# 29. World Models
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **World Models — Domain Overview & Roadmap**](29-World-Models/README.md)
-> - [World Model Architectures](29-World-Models/World-Model-Architectures.md)
-> - [Physics Simulation](29-World-Models/Physics-Simulation.md)
+> - [29.1 World Model Architectures](29-World-Models/World-Model-Architectures.md)
+> - [29.2 Physics Simulation](29-World-Models/Physics-Simulation.md)
 
 
-## World Model Architectures
+## 29.1 World Model Architectures
 
-> 📖 *Curated Learning Guide:* [World Model Architectures — Study Guide, Courses & Repositories](29-World-Models/World-Model-Architectures.md)
+> 📖 *Curated Learning Guide:* [29.1 World Model Architectures — Study Guide, Courses & Repositories](29-World-Models/World-Model-Architectures.md)
 
 
 * [Dreamer v3](https://github.com/danijar/dreamerv3) — World-model-based reinforcement learning.
@@ -2049,9 +2070,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [IRIS](https://github.com/eloialonso/iris) — Imagination with auto-regression over an inner speech.
 * [GameNGen](https://gamengen.github.io) — Neural game engine.
 
-## Physics Simulation
+## 29.2 Physics Simulation
 
-> 📖 *Curated Learning Guide:* [Physics Simulation — Study Guide, Courses & Repositories](29-World-Models/Physics-Simulation.md)
+> 📖 *Curated Learning Guide:* [29.2 Physics Simulation — Study Guide, Courses & Repositories](29-World-Models/Physics-Simulation.md)
 
 
 * [MuJoCo](https://github.com/google-deepmind/mujoco) — Multi-joint dynamics with contact.
@@ -2062,19 +2083,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Robotics
+# 30. Robotics
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Robotics — Domain Overview & Roadmap**](30-Robotics/README.md)
-> - [Robotics Frameworks](30-Robotics/Robotics-Frameworks.md)
-> - [Robot Learning](30-Robotics/Robot-Learning.md)
-> - [Simulation Environments](30-Robotics/Simulation-Environments.md)
-> - [Manipulation & Grasping](30-Robotics/Manipulation-and-Grasping.md)
+> - [30.1 Robotics Frameworks](30-Robotics/Robotics-Frameworks.md)
+> - [30.2 Robot Learning](30-Robotics/Robot-Learning.md)
+> - [30.3 Simulation Environments](30-Robotics/Simulation-Environments.md)
+> - [30.4 Manipulation & Grasping](30-Robotics/Manipulation-and-Grasping.md)
 
 
-## Robotics Frameworks
+## 30.1 Robotics Frameworks
 
-> 📖 *Curated Learning Guide:* [Robotics Frameworks — Study Guide, Courses & Repositories](30-Robotics/Robotics-Frameworks.md)
+> 📖 *Curated Learning Guide:* [30.1 Robotics Frameworks — Study Guide, Courses & Repositories](30-Robotics/Robotics-Frameworks.md)
 
 
 * [ROS 2](https://github.com/ros2/ros2) — Robot Operating System 2.
@@ -2084,9 +2105,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [micro-ROS](https://github.com/micro-ROS/micro_ros_setup) — ROS 2 for microcontrollers.
 * [Autoware](https://github.com/autowarefoundation/autoware) — Open-source autonomous driving platform.
 
-## Robot Learning
+## 30.2 Robot Learning
 
-> 📖 *Curated Learning Guide:* [Robot Learning — Study Guide, Courses & Repositories](30-Robotics/Robot-Learning.md)
+> 📖 *Curated Learning Guide:* [30.2 Robot Learning — Study Guide, Courses & Repositories](30-Robotics/Robot-Learning.md)
 
 
 * [LeRobot](https://github.com/huggingface/lerobot) — State-of-the-art machine learning for robotics.
@@ -2099,9 +2120,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [ALOHA](https://github.com/tonyzhaozh/aloha) — Low-cost bimanual teleoperation system.
 * [Mobile ALOHA](https://github.com/MarkFzp/mobile-aloha) — Mobile manipulation from human demonstrations.
 
-## Simulation Environments
+## 30.3 Simulation Environments
 
-> 📖 *Curated Learning Guide:* [Simulation Environments — Study Guide, Courses & Repositories](30-Robotics/Simulation-Environments.md)
+> 📖 *Curated Learning Guide:* [30.3 Simulation Environments — Study Guide, Courses & Repositories](30-Robotics/Simulation-Environments.md)
 
 
 * [MuJoCo](https://github.com/google-deepmind/mujoco) — Physics engine for robotics research.
@@ -2112,9 +2133,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Robosuite](https://github.com/ARISE-Initiative/robosuite) — Robot learning simulation benchmark.
 * [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) — Generative simulation platform.
 
-## Manipulation & Grasping
+## 30.4 Manipulation & Grasping
 
-> 📖 *Curated Learning Guide:* [Manipulation & Grasping — Study Guide, Courses & Repositories](30-Robotics/Manipulation-and-Grasping.md)
+> 📖 *Curated Learning Guide:* [30.4 Manipulation & Grasping — Study Guide, Courses & Repositories](30-Robotics/Manipulation-and-Grasping.md)
 
 
 * [GraspNet](https://github.com/graspnet/graspnet-baseline) — Large-scale grasp detection benchmark.
@@ -2123,18 +2144,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Autonomous Vehicles
+# 31. Autonomous Vehicles
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Autonomous Vehicles — Domain Overview & Roadmap**](31-Autonomous-Vehicles/README.md)
-> - [Self-Driving Platforms](31-Autonomous-Vehicles/Self-Driving-Platforms.md)
-> - [Perception for Driving](31-Autonomous-Vehicles/Perception-for-Driving.md)
-> - [Planning & Control](31-Autonomous-Vehicles/Planning-and-Control.md)
+> - [31.1 Self-Driving Platforms](31-Autonomous-Vehicles/Self-Driving-Platforms.md)
+> - [31.2 Perception for Driving](31-Autonomous-Vehicles/Perception-for-Driving.md)
+> - [31.3 Planning & Control](31-Autonomous-Vehicles/Planning-and-Control.md)
 
 
-## Self-Driving Platforms
+## 31.1 Self-Driving Platforms
 
-> 📖 *Curated Learning Guide:* [Self-Driving Platforms — Study Guide, Courses & Repositories](31-Autonomous-Vehicles/Self-Driving-Platforms.md)
+> 📖 *Curated Learning Guide:* [31.1 Self-Driving Platforms — Study Guide, Courses & Repositories](31-Autonomous-Vehicles/Self-Driving-Platforms.md)
 
 
 * [Autoware](https://github.com/autowarefoundation/autoware) — Full self-driving software stack.
@@ -2142,9 +2163,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [openpilot](https://github.com/commaai/openpilot) — Open-source driver assistance system.
 * [CARLA](https://github.com/carla-simulator/carla) — Open-source autonomous driving simulator.
 
-## Perception for Driving
+## 31.2 Perception for Driving
 
-> 📖 *Curated Learning Guide:* [Perception for Driving — Study Guide, Courses & Repositories](31-Autonomous-Vehicles/Perception-for-Driving.md)
+> 📖 *Curated Learning Guide:* [31.2 Perception for Driving — Study Guide, Courses & Repositories](31-Autonomous-Vehicles/Perception-for-Driving.md)
 
 
 * [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) — 3D object detection toolbox.
@@ -2152,9 +2173,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [BEVFormer](https://github.com/fundamentalvision/BEVFormer) — Bird's-eye view transformer for perception.
 * [UniAD](https://github.com/OpenDriveLab/UniAD) — Unified autonomous driving.
 
-## Planning & Control
+## 31.3 Planning & Control
 
-> 📖 *Curated Learning Guide:* [Planning & Control — Study Guide, Courses & Repositories](31-Autonomous-Vehicles/Planning-and-Control.md)
+> 📖 *Curated Learning Guide:* [31.3 Planning & Control — Study Guide, Courses & Repositories](31-Autonomous-Vehicles/Planning-and-Control.md)
 
 
 * [nuPlan](https://github.com/motional/nuplan-devkit) — Closed-loop ML-based planning benchmark.
@@ -2162,20 +2183,20 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Evaluation
+# 32. AI Evaluation
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Evaluation — Domain Overview & Roadmap**](32-AI-Evaluation/README.md)
-> - [LLM Evaluation](32-AI-Evaluation/LLM-Evaluation.md)
-> - [RAG Evaluation](32-AI-Evaluation/RAG-Evaluation.md)
-> - [Agent Evaluation](32-AI-Evaluation/Agent-Evaluation.md)
-> - [Vision Evaluation](32-AI-Evaluation/Vision-Evaluation.md)
-> - [Safety Evaluation](32-AI-Evaluation/Safety-Evaluation.md)
+> - [32.1 LLM Evaluation](32-AI-Evaluation/LLM-Evaluation.md)
+> - [32.2 RAG Evaluation](32-AI-Evaluation/RAG-Evaluation.md)
+> - [32.3 Agent Evaluation](32-AI-Evaluation/Agent-Evaluation.md)
+> - [32.4 Vision Evaluation](32-AI-Evaluation/Vision-Evaluation.md)
+> - [32.5 Safety Evaluation](32-AI-Evaluation/Safety-Evaluation.md)
 
 
-## LLM Evaluation
+## 32.1 LLM Evaluation
 
-> 📖 *Curated Learning Guide:* [LLM Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/LLM-Evaluation.md)
+> 📖 *Curated Learning Guide:* [32.1 LLM Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/LLM-Evaluation.md)
 
 
 * [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — Comprehensive LLM evaluation framework.
@@ -2190,9 +2211,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [HumanEval](https://github.com/openai/human-eval) — Code generation evaluation.
 * [EvalPlus](https://github.com/evalplus/evalplus) — Rigorous evaluation of code LLMs.
 
-## RAG Evaluation
+## 32.2 RAG Evaluation
 
-> 📖 *Curated Learning Guide:* [RAG Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/RAG-Evaluation.md)
+> 📖 *Curated Learning Guide:* [32.2 RAG Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/RAG-Evaluation.md)
 
 
 * [Ragas](https://github.com/explodinggradients/ragas) — Evaluation framework for RAG.
@@ -2200,9 +2221,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [TruLens](https://github.com/truera/trulens) — Evaluation and tracking for LLM apps.
 * [ARES](https://github.com/stanford-futuredata/ARES) — Automated RAG evaluation system.
 
-## Agent Evaluation
+## 32.3 Agent Evaluation
 
-> 📖 *Curated Learning Guide:* [Agent Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/Agent-Evaluation.md)
+> 📖 *Curated Learning Guide:* [32.3 Agent Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/Agent-Evaluation.md)
 
 
 * [AgentBench](https://github.com/THUDM/AgentBench) — Comprehensive benchmark for LLM agents.
@@ -2212,18 +2233,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [WebArena](https://github.com/web-arena-x/webarena) — Realistic web environment for agents.
 * [MLE-bench](https://github.com/openai/mle-bench) — Machine learning engineering benchmark.
 
-## Vision Evaluation
+## 32.4 Vision Evaluation
 
-> 📖 *Curated Learning Guide:* [Vision Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/Vision-Evaluation.md)
+> 📖 *Curated Learning Guide:* [32.4 Vision Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/Vision-Evaluation.md)
 
 
 * [LVIS](https://github.com/lvis-dataset/lvis-api) — Large vocabulary instance segmentation.
 * [COCO](https://github.com/cocodataset/cocoapi) — Common objects in context evaluation tools.
 * [MMBench](https://github.com/open-compass/MMBench) — Multimodal model benchmark.
 
-## Safety Evaluation
+## 32.5 Safety Evaluation
 
-> 📖 *Curated Learning Guide:* [Safety Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/Safety-Evaluation.md)
+> 📖 *Curated Learning Guide:* [32.5 Safety Evaluation — Study Guide, Courses & Repositories](32-AI-Evaluation/Safety-Evaluation.md)
 
 
 * [HarmBench](https://github.com/centerforaisafety/HarmBench) — Standardized evaluation of LLM safety.
@@ -2232,19 +2253,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Safety
+# 33. AI Safety
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Safety — Domain Overview & Roadmap**](33-AI-Safety/README.md)
-> - [Alignment](33-AI-Safety/Alignment.md)
-> - [Red Teaming & Jailbreaking](33-AI-Safety/Red-Teaming-and-Jailbreaking.md)
-> - [Content Safety & Moderation](33-AI-Safety/Content-Safety-and-Moderation.md)
-> - [Guardrails](33-AI-Safety/Guardrails.md)
+> - [33.1 Alignment](33-AI-Safety/Alignment.md)
+> - [33.2 Red Teaming & Jailbreaking](33-AI-Safety/Red-Teaming-and-Jailbreaking.md)
+> - [33.3 Content Safety & Moderation](33-AI-Safety/Content-Safety-and-Moderation.md)
+> - [33.4 Guardrails](33-AI-Safety/Guardrails.md)
 
 
-## Alignment
+## 33.1 Alignment
 
-> 📖 *Curated Learning Guide:* [Alignment — Study Guide, Courses & Repositories](33-AI-Safety/Alignment.md)
+> 📖 *Curated Learning Guide:* [33.1 Alignment — Study Guide, Courses & Repositories](33-AI-Safety/Alignment.md)
 
 
 * [TRL](https://github.com/huggingface/trl) — Transformer RL for RLHF, DPO, PPO, and more.
@@ -2253,9 +2274,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Safe-RLHF](https://github.com/PKU-Alignment/safe-rlhf) — Safe reinforcement learning from human feedback.
 * [AlpacaFarm](https://github.com/tatsu-lab/alpaca_farm) — Simulation framework for RLHF methods.
 
-## Red Teaming & Jailbreaking
+## 33.2 Red Teaming & Jailbreaking
 
-> 📖 *Curated Learning Guide:* [Red Teaming & Jailbreaking — Study Guide, Courses & Repositories](33-AI-Safety/Red-Teaming-and-Jailbreaking.md)
+> 📖 *Curated Learning Guide:* [33.2 Red Teaming & Jailbreaking — Study Guide, Courses & Repositories](33-AI-Safety/Red-Teaming-and-Jailbreaking.md)
 
 
 * [Garak](https://github.com/NVIDIA/garak) — LLM vulnerability scanner.
@@ -2265,9 +2286,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) — Benchmark for jailbreak attacks.
 * [HarmBench](https://github.com/centerforaisafety/HarmBench) — Standardized evaluation of automated red teaming.
 
-## Content Safety & Moderation
+## 33.3 Content Safety & Moderation
 
-> 📖 *Curated Learning Guide:* [Content Safety & Moderation — Study Guide, Courses & Repositories](33-AI-Safety/Content-Safety-and-Moderation.md)
+> 📖 *Curated Learning Guide:* [33.3 Content Safety & Moderation — Study Guide, Courses & Repositories](33-AI-Safety/Content-Safety-and-Moderation.md)
 
 
 * [LlamaGuard](https://github.com/meta-llama/PurpleLlama) — Content safety classification model.
@@ -2275,9 +2296,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Detoxify](https://github.com/unitaryai/detoxify) — Toxic comment classification.
 * [Perspective API](https://github.com/conversationai/perspectiveapi) — Toxicity detection API.
 
-## Guardrails
+## 33.4 Guardrails
 
-> 📖 *Curated Learning Guide:* [Guardrails — Study Guide, Courses & Repositories](33-AI-Safety/Guardrails.md)
+> 📖 *Curated Learning Guide:* [33.4 Guardrails — Study Guide, Courses & Repositories](33-AI-Safety/Guardrails.md)
 
 
 * [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) — Programmable guardrails for LLM apps.
@@ -2287,18 +2308,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Security
+# 34. AI Security
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Security — Domain Overview & Roadmap**](34-AI-Security/README.md)
-> - [LLM Security](34-AI-Security/LLM-Security.md)
-> - [Adversarial Machine Learning](34-AI-Security/Adversarial-Machine-Learning.md)
-> - [Prompt Injection Detection](34-AI-Security/Prompt-Injection-Detection.md)
+> - [34.1 LLM Security](34-AI-Security/LLM-Security.md)
+> - [34.2 Adversarial Machine Learning](34-AI-Security/Adversarial-Machine-Learning.md)
+> - [34.3 Prompt Injection Detection](34-AI-Security/Prompt-Injection-Detection.md)
 
 
-## LLM Security
+## 34.1 LLM Security
 
-> 📖 *Curated Learning Guide:* [LLM Security — Study Guide, Courses & Repositories](34-AI-Security/LLM-Security.md)
+> 📖 *Curated Learning Guide:* [34.1 LLM Security — Study Guide, Courses & Repositories](34-AI-Security/LLM-Security.md)
 
 
 * [Garak](https://github.com/NVIDIA/garak) — LLM vulnerability scanner.
@@ -2307,9 +2328,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Vigil](https://github.com/deadbits/vigil-llm) — LLM security scanner.
 * [LangKit](https://github.com/whylabs/langkit) — LLM security monitoring.
 
-## Adversarial Machine Learning
+## 34.2 Adversarial Machine Learning
 
-> 📖 *Curated Learning Guide:* [Adversarial Machine Learning — Study Guide, Courses & Repositories](34-AI-Security/Adversarial-Machine-Learning.md)
+> 📖 *Curated Learning Guide:* [34.2 Adversarial Machine Learning — Study Guide, Courses & Repositories](34-AI-Security/Adversarial-Machine-Learning.md)
 
 
 * [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) — Comprehensive adversarial ML library.
@@ -2318,9 +2339,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [TextAttack](https://github.com/QData/TextAttack) — NLP adversarial attacks and augmentation.
 * [Advertorch](https://github.com/BorealisAI/advertorch) — PyTorch adversarial attacks and defenses.
 
-## Prompt Injection Detection
+## 34.3 Prompt Injection Detection
 
-> 📖 *Curated Learning Guide:* [Prompt Injection Detection — Study Guide, Courses & Repositories](34-AI-Security/Prompt-Injection-Detection.md)
+> 📖 *Curated Learning Guide:* [34.3 Prompt Injection Detection — Study Guide, Courses & Repositories](34-AI-Security/Prompt-Injection-Detection.md)
 
 
 * [Rebuff](https://github.com/protectai/rebuff) — Self-hardening prompt injection detector.
@@ -2329,18 +2350,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Interpretability
+# 35. Interpretability
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Interpretability — Domain Overview & Roadmap**](35-Interpretability/README.md)
-> - [Mechanistic Interpretability](35-Interpretability/Mechanistic-Interpretability.md)
-> - [Explainable AI (XAI)](35-Interpretability/Explainable-AI-XAI.md)
-> - [Attention Visualization](35-Interpretability/Attention-Visualization.md)
+> - [35.1 Mechanistic Interpretability](35-Interpretability/Mechanistic-Interpretability.md)
+> - [35.2 Explainable AI (XAI)](35-Interpretability/Explainable-AI-XAI.md)
+> - [35.3 Attention Visualization](35-Interpretability/Attention-Visualization.md)
 
 
-## Mechanistic Interpretability
+## 35.1 Mechanistic Interpretability
 
-> 📖 *Curated Learning Guide:* [Mechanistic Interpretability — Study Guide, Courses & Repositories](35-Interpretability/Mechanistic-Interpretability.md)
+> 📖 *Curated Learning Guide:* [35.1 Mechanistic Interpretability — Study Guide, Courses & Repositories](35-Interpretability/Mechanistic-Interpretability.md)
 
 
 * [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) — Library for mechanistic interpretability.
@@ -2350,9 +2371,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [nnsight](https://github.com/ndif-team/nnsight) — Remote neural network access and interpretation.
 * [Baukit](https://github.com/davidbau/baukit) — Tools for understanding neural networks.
 
-## Explainable AI (XAI)
+## 35.2 Explainable AI (XAI)
 
-> 📖 *Curated Learning Guide:* [Explainable AI (XAI) — Study Guide, Courses & Repositories](35-Interpretability/Explainable-AI-XAI.md)
+> 📖 *Curated Learning Guide:* [35.2 Explainable AI (XAI) — Study Guide, Courses & Repositories](35-Interpretability/Explainable-AI-XAI.md)
 
 
 * [Captum](https://github.com/pytorch/captum) — Model interpretability for PyTorch.
@@ -2365,9 +2386,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Ecco](https://github.com/jalammar/ecco) — Explore and explain language models.
 * [LIT](https://github.com/PAIR-code/lit) — Language Interpretability Tool by Google.
 
-## Attention Visualization
+## 35.3 Attention Visualization
 
-> 📖 *Curated Learning Guide:* [Attention Visualization — Study Guide, Courses & Repositories](35-Interpretability/Attention-Visualization.md)
+> 📖 *Curated Learning Guide:* [35.3 Attention Visualization — Study Guide, Courses & Repositories](35-Interpretability/Attention-Visualization.md)
 
 
 * [BertViz](https://github.com/jessevig/bertviz) — Visualize attention in transformer models.
@@ -2376,18 +2397,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Model Inference
+# 36. Model Inference
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Model Inference — Domain Overview & Roadmap**](36-Model-Inference/README.md)
-> - [LLM Inference Engines](36-Model-Inference/LLM-Inference-Engines.md)
-> - [Model Serving Platforms](36-Model-Inference/Model-Serving-Platforms.md)
-> - [Model Optimization](36-Model-Inference/Model-Optimization.md)
+> - [36.1 LLM Inference Engines](36-Model-Inference/LLM-Inference-Engines.md)
+> - [36.2 Model Serving Platforms](36-Model-Inference/Model-Serving-Platforms.md)
+> - [36.3 Model Optimization](36-Model-Inference/Model-Optimization.md)
 
 
-## LLM Inference Engines
+## 36.1 LLM Inference Engines
 
-> 📖 *Curated Learning Guide:* [LLM Inference Engines — Study Guide, Courses & Repositories](36-Model-Inference/LLM-Inference-Engines.md)
+> 📖 *Curated Learning Guide:* [36.1 LLM Inference Engines — Study Guide, Courses & Repositories](36-Model-Inference/LLM-Inference-Engines.md)
 
 
 * [vLLM](https://github.com/vllm-project/vllm) — High-throughput and memory-efficient LLM serving.
@@ -2402,9 +2423,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [candle](https://github.com/huggingface/candle) — ML framework in Rust for fast inference.
 * [mistral.rs](https://github.com/EricLBuehler/mistral.rs) — Blazing-fast LLM inference in Rust.
 
-## Model Serving Platforms
+## 36.2 Model Serving Platforms
 
-> 📖 *Curated Learning Guide:* [Model Serving Platforms — Study Guide, Courses & Repositories](36-Model-Inference/Model-Serving-Platforms.md)
+> 📖 *Curated Learning Guide:* [36.2 Model Serving Platforms — Study Guide, Courses & Repositories](36-Model-Inference/Model-Serving-Platforms.md)
 
 
 * [Triton Inference Server](https://github.com/triton-inference-server/server) — Production inference by NVIDIA.
@@ -2416,9 +2437,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Ray Serve](https://github.com/ray-project/ray) — Scalable model serving with Ray.
 * [LitServe](https://github.com/Lightning-AI/LitServe) — Lightning-fast serving engine.
 
-## Model Optimization
+## 36.3 Model Optimization
 
-> 📖 *Curated Learning Guide:* [Model Optimization — Study Guide, Courses & Repositories](36-Model-Inference/Model-Optimization.md)
+> 📖 *Curated Learning Guide:* [36.3 Model Optimization — Study Guide, Courses & Repositories](36-Model-Inference/Model-Optimization.md)
 
 
 * [ONNX Runtime](https://github.com/microsoft/onnxruntime) — Cross-platform inference optimization.
@@ -2430,17 +2451,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Quantization
+# 37. Quantization
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Quantization — Domain Overview & Roadmap**](37-Quantization/README.md)
-> - [Quantization Frameworks](37-Quantization/Quantization-Frameworks.md)
-> - [Efficient Formats](37-Quantization/Efficient-Formats.md)
+> - [37.1 Quantization Frameworks](37-Quantization/Quantization-Frameworks.md)
+> - [37.2 Efficient Formats](37-Quantization/Efficient-Formats.md)
 
 
-## Quantization Frameworks
+## 37.1 Quantization Frameworks
 
-> 📖 *Curated Learning Guide:* [Quantization Frameworks — Study Guide, Courses & Repositories](37-Quantization/Quantization-Frameworks.md)
+> 📖 *Curated Learning Guide:* [37.1 Quantization Frameworks — Study Guide, Courses & Repositories](37-Quantization/Quantization-Frameworks.md)
 
 
 * [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) — GPTQ quantization implementation.
@@ -2455,9 +2476,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [SmoothQuant](https://github.com/mit-han-lab/smoothquant) — Accurate and efficient post-training quantization.
 * [SpQR](https://github.com/Vahe1994/SpQR) — Sparse-quantized representation for LLMs.
 
-## Efficient Formats
+## 37.2 Efficient Formats
 
-> 📖 *Curated Learning Guide:* [Efficient Formats — Study Guide, Courses & Repositories](37-Quantization/Efficient-Formats.md)
+> 📖 *Curated Learning Guide:* [37.2 Efficient Formats — Study Guide, Courses & Repositories](37-Quantization/Efficient-Formats.md)
 
 
 * [GGML](https://github.com/ggerganov/ggml) — Tensor library optimized for transformer inference.
@@ -2466,19 +2487,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Model Training
+# 38. Model Training
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Model Training — Domain Overview & Roadmap**](38-Model-Training/README.md)
-> - [Large-Scale Training](38-Model-Training/Large-Scale-Training.md)
-> - [Training Infrastructure](38-Model-Training/Training-Infrastructure.md)
-> - [Data Parallel & Pipeline Parallel](38-Model-Training/Data-Parallel-and-Pipeline-Parallel.md)
-> - [Training Optimization](38-Model-Training/Training-Optimization.md)
+> - [38.1 Large-Scale Training](38-Model-Training/Large-Scale-Training.md)
+> - [38.2 Training Infrastructure](38-Model-Training/Training-Infrastructure.md)
+> - [38.3 Data Parallel & Pipeline Parallel](38-Model-Training/Data-Parallel-and-Pipeline-Parallel.md)
+> - [38.4 Training Optimization](38-Model-Training/Training-Optimization.md)
 
 
-## Large-Scale Training
+## 38.1 Large-Scale Training
 
-> 📖 *Curated Learning Guide:* [Large-Scale Training — Study Guide, Courses & Repositories](38-Model-Training/Large-Scale-Training.md)
+> 📖 *Curated Learning Guide:* [38.1 Large-Scale Training — Study Guide, Courses & Repositories](38-Model-Training/Large-Scale-Training.md)
 
 
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) — Efficient large-scale transformer training.
@@ -2488,9 +2509,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Nanotron](https://github.com/huggingface/nanotron) — Efficient LLM training by Hugging Face.
 * [torchtitan](https://github.com/pytorch/torchtitan) — A native PyTorch library for large-scale training.
 
-## Training Infrastructure
+## 38.2 Training Infrastructure
 
-> 📖 *Curated Learning Guide:* [Training Infrastructure — Study Guide, Courses & Repositories](38-Model-Training/Training-Infrastructure.md)
+> 📖 *Curated Learning Guide:* [38.2 Training Infrastructure — Study Guide, Courses & Repositories](38-Model-Training/Training-Infrastructure.md)
 
 
 * [Accelerate](https://github.com/huggingface/accelerate) — Simple distributed training abstraction.
@@ -2500,18 +2521,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [MaxText](https://github.com/google/maxtext) — Simple, performant LLM training in JAX.
 * [EasyLM](https://github.com/young-geng/EasyLM) — JAX/Flax based LLM training.
 
-## Data Parallel & Pipeline Parallel
+## 38.3 Data Parallel & Pipeline Parallel
 
-> 📖 *Curated Learning Guide:* [Data Parallel & Pipeline Parallel — Study Guide, Courses & Repositories](38-Model-Training/Data-Parallel-and-Pipeline-Parallel.md)
+> 📖 *Curated Learning Guide:* [38.3 Data Parallel & Pipeline Parallel — Study Guide, Courses & Repositories](38-Model-Training/Data-Parallel-and-Pipeline-Parallel.md)
 
 
 * [FSDP](https://github.com/pytorch/pytorch) — Fully Sharded Data Parallel in PyTorch.
 * [FairScale](https://github.com/facebookresearch/fairscale) — PyTorch extensions for large-scale training.
 * [Mesh TensorFlow](https://github.com/tensorflow/mesh) — Model parallelism on TensorFlow.
 
-## Training Optimization
+## 38.4 Training Optimization
 
-> 📖 *Curated Learning Guide:* [Training Optimization — Study Guide, Courses & Repositories](38-Model-Training/Training-Optimization.md)
+> 📖 *Curated Learning Guide:* [38.4 Training Optimization — Study Guide, Courses & Repositories](38-Model-Training/Training-Optimization.md)
 
 
 * [FlashAttention](https://github.com/Dao-AILab/flash-attention) — Fast and memory-efficient exact attention.
@@ -2521,18 +2542,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Fine-Tuning
+# 39. Fine-Tuning
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Fine-Tuning — Domain Overview & Roadmap**](39-Fine-Tuning/README.md)
-> - [Parameter-Efficient Fine-Tuning (PEFT)](39-Fine-Tuning/Parameter-Efficient-Fine-Tuning-PEFT.md)
-> - [LoRA & Adapters](39-Fine-Tuning/LoRA-and-Adapters.md)
-> - [Dataset Preparation for Fine-Tuning](39-Fine-Tuning/Dataset-Preparation-for-Fine-Tuning.md)
+> - [39.1 Parameter-Efficient Fine-Tuning (PEFT)](39-Fine-Tuning/Parameter-Efficient-Fine-Tuning-PEFT.md)
+> - [39.2 LoRA & Adapters](39-Fine-Tuning/LoRA-and-Adapters.md)
+> - [39.3 Dataset Preparation for Fine-Tuning](39-Fine-Tuning/Dataset-Preparation-for-Fine-Tuning.md)
 
 
-## Parameter-Efficient Fine-Tuning (PEFT)
+## 39.1 Parameter-Efficient Fine-Tuning (PEFT)
 
-> 📖 *Curated Learning Guide:* [Parameter-Efficient Fine-Tuning (PEFT) — Study Guide, Courses & Repositories](39-Fine-Tuning/Parameter-Efficient-Fine-Tuning-PEFT.md)
+> 📖 *Curated Learning Guide:* [39.1 Parameter-Efficient Fine-Tuning (PEFT) — Study Guide, Courses & Repositories](39-Fine-Tuning/Parameter-Efficient-Fine-Tuning-PEFT.md)
 
 
 * [PEFT](https://github.com/huggingface/peft) — LoRA, QLoRA, AdaLoRA, and more.
@@ -2544,9 +2565,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LMFlow](https://github.com/OptimalScale/LMFlow) — Extensible LLM fine-tuning framework.
 * [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) — High-performance RLHF training.
 
-## LoRA & Adapters
+## 39.2 LoRA & Adapters
 
-> 📖 *Curated Learning Guide:* [LoRA & Adapters — Study Guide, Courses & Repositories](39-Fine-Tuning/LoRA-and-Adapters.md)
+> 📖 *Curated Learning Guide:* [39.2 LoRA & Adapters — Study Guide, Courses & Repositories](39-Fine-Tuning/LoRA-and-Adapters.md)
 
 
 * [PEFT](https://github.com/huggingface/peft) — LoRA, QLoRA, and adapter methods.
@@ -2554,9 +2575,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LoRAX](https://github.com/predibase/lorax) — Serve thousands of fine-tuned LLMs on a single GPU.
 * [S-LoRA](https://github.com/S-LoRA/S-LoRA) — Serving many LoRA adapters efficiently.
 
-## Dataset Preparation for Fine-Tuning
+## 39.3 Dataset Preparation for Fine-Tuning
 
-> 📖 *Curated Learning Guide:* [Dataset Preparation for Fine-Tuning — Study Guide, Courses & Repositories](39-Fine-Tuning/Dataset-Preparation-for-Fine-Tuning.md)
+> 📖 *Curated Learning Guide:* [39.3 Dataset Preparation for Fine-Tuning — Study Guide, Courses & Repositories](39-Fine-Tuning/Dataset-Preparation-for-Fine-Tuning.md)
 
 
 * [Argilla](https://github.com/argilla-io/argilla) — Data labeling and curation for fine-tuning.
@@ -2566,18 +2587,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Local AI
+# 40. Local AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Local AI — Domain Overview & Roadmap**](40-Local-AI/README.md)
-> - [Local LLM Runtime](40-Local-AI/Local-LLM-Runtime.md)
-> - [Local AI Interfaces](40-Local-AI/Local-AI-Interfaces.md)
-> - [Local Knowledge & RAG](40-Local-AI/Local-Knowledge-and-RAG.md)
+> - [40.1 Local LLM Runtime](40-Local-AI/Local-LLM-Runtime.md)
+> - [40.2 Local AI Interfaces](40-Local-AI/Local-AI-Interfaces.md)
+> - [40.3 Local Knowledge & RAG](40-Local-AI/Local-Knowledge-and-RAG.md)
 
 
-## Local LLM Runtime
+## 40.1 Local LLM Runtime
 
-> 📖 *Curated Learning Guide:* [Local LLM Runtime — Study Guide, Courses & Repositories](40-Local-AI/Local-LLM-Runtime.md)
+> 📖 *Curated Learning Guide:* [40.1 Local LLM Runtime — Study Guide, Courses & Repositories](40-Local-AI/Local-LLM-Runtime.md)
 
 
 * [Ollama](https://github.com/ollama/ollama) — Get up and running with LLMs locally.
@@ -2588,9 +2609,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [GPT4All](https://github.com/nomic-ai/gpt4all) — Run open-source LLMs anywhere.
 * [PrivateGPT](https://github.com/zylon-ai/private-gpt) — Interact with documents privately.
 
-## Local AI Interfaces
+## 40.2 Local AI Interfaces
 
-> 📖 *Curated Learning Guide:* [Local AI Interfaces — Study Guide, Courses & Repositories](40-Local-AI/Local-AI-Interfaces.md)
+> 📖 *Curated Learning Guide:* [40.2 Local AI Interfaces — Study Guide, Courses & Repositories](40-Local-AI/Local-AI-Interfaces.md)
 
 
 * [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted ChatGPT-like interface.
@@ -2603,9 +2624,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) — Gradio web UI for LLMs.
 * [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — All-in-one AI desktop app.
 
-## Local Knowledge & RAG
+## 40.3 Local Knowledge & RAG
 
-> 📖 *Curated Learning Guide:* [Local Knowledge & RAG — Study Guide, Courses & Repositories](40-Local-AI/Local-Knowledge-and-RAG.md)
+> 📖 *Curated Learning Guide:* [40.3 Local Knowledge & RAG — Study Guide, Courses & Repositories](40-Local-AI/Local-Knowledge-and-RAG.md)
 
 
 * [PrivateGPT](https://github.com/zylon-ai/private-gpt) — Private document interaction.
@@ -2615,18 +2636,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Edge AI
+# 41. Edge AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Edge AI — Domain Overview & Roadmap**](41-Edge-AI/README.md)
-> - [Mobile & Edge Deployment](41-Edge-AI/Mobile-and-Edge-Deployment.md)
-> - [Apple Silicon & macOS](41-Edge-AI/Apple-Silicon-and-macOS.md)
-> - [Embedded AI](41-Edge-AI/Embedded-AI.md)
+> - [41.1 Mobile & Edge Deployment](41-Edge-AI/Mobile-and-Edge-Deployment.md)
+> - [41.2 Apple Silicon & macOS](41-Edge-AI/Apple-Silicon-and-macOS.md)
+> - [41.3 Embedded AI](41-Edge-AI/Embedded-AI.md)
 
 
-## Mobile & Edge Deployment
+## 41.1 Mobile & Edge Deployment
 
-> 📖 *Curated Learning Guide:* [Mobile & Edge Deployment — Study Guide, Courses & Repositories](41-Edge-AI/Mobile-and-Edge-Deployment.md)
+> 📖 *Curated Learning Guide:* [41.1 Mobile & Edge Deployment — Study Guide, Courses & Repositories](41-Edge-AI/Mobile-and-Edge-Deployment.md)
 
 
 * [ExecuTorch](https://github.com/pytorch/executorch) — PyTorch inference on edge devices.
@@ -2638,9 +2659,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Paddle Lite](https://github.com/PaddlePaddle/Paddle-Lite) — Mobile and edge inference.
 * [AI Edge Torch](https://github.com/google-ai-edge/ai-edge-torch) — PyTorch models on edge via Google.
 
-## Apple Silicon & macOS
+## 41.2 Apple Silicon & macOS
 
-> 📖 *Curated Learning Guide:* [Apple Silicon & macOS — Study Guide, Courses & Repositories](41-Edge-AI/Apple-Silicon-and-macOS.md)
+> 📖 *Curated Learning Guide:* [41.2 Apple Silicon & macOS — Study Guide, Courses & Repositories](41-Edge-AI/Apple-Silicon-and-macOS.md)
 
 
 * [MLX](https://github.com/ml-explore/mlx) — Array framework optimized for Apple silicon.
@@ -2649,9 +2670,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [swift-transformers](https://github.com/huggingface/swift-transformers) — Transformers for Swift.
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) — Metal-optimized inference on macOS.
 
-## Embedded AI
+## 41.3 Embedded AI
 
-> 📖 *Curated Learning Guide:* [Embedded AI — Study Guide, Courses & Repositories](41-Edge-AI/Embedded-AI.md)
+> 📖 *Curated Learning Guide:* [41.3 Embedded AI — Study Guide, Courses & Repositories](41-Edge-AI/Embedded-AI.md)
 
 
 * [TensorFlow Lite Micro](https://github.com/tensorflow/tflite-micro) — ML for microcontrollers.
@@ -2661,19 +2682,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Infrastructure
+# 42. AI Infrastructure
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Infrastructure — Domain Overview & Roadmap**](42-AI-Infrastructure/README.md)
-> - [Distributed Computing](42-AI-Infrastructure/Distributed-Computing.md)
-> - [Kubernetes & Container AI](42-AI-Infrastructure/Kubernetes-and-Container-AI.md)
-> - [GPU Management & Scheduling](42-AI-Infrastructure/GPU-Management-and-Scheduling.md)
-> - [Cloud AI SDKs](42-AI-Infrastructure/Cloud-AI-SDKs.md)
+> - [42.1 Distributed Computing](42-AI-Infrastructure/Distributed-Computing.md)
+> - [42.2 Kubernetes & Container AI](42-AI-Infrastructure/Kubernetes-and-Container-AI.md)
+> - [42.3 GPU Management & Scheduling](42-AI-Infrastructure/GPU-Management-and-Scheduling.md)
+> - [42.4 Cloud AI SDKs](42-AI-Infrastructure/Cloud-AI-SDKs.md)
 
 
-## Distributed Computing
+## 42.1 Distributed Computing
 
-> 📖 *Curated Learning Guide:* [Distributed Computing — Study Guide, Courses & Repositories](42-AI-Infrastructure/Distributed-Computing.md)
+> 📖 *Curated Learning Guide:* [42.1 Distributed Computing — Study Guide, Courses & Repositories](42-AI-Infrastructure/Distributed-Computing.md)
 
 
 * [Ray](https://github.com/ray-project/ray) — Universal framework for distributed computing.
@@ -2682,9 +2703,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Modin](https://github.com/modin-project/modin) — Speed up Pandas with distributed computing.
 * [Fugue](https://github.com/fugue-project/fugue) — Unified distributed computing interface.
 
-## Kubernetes & Container AI
+## 42.2 Kubernetes & Container AI
 
-> 📖 *Curated Learning Guide:* [Kubernetes & Container AI — Study Guide, Courses & Repositories](42-AI-Infrastructure/Kubernetes-and-Container-AI.md)
+> 📖 *Curated Learning Guide:* [42.2 Kubernetes & Container AI — Study Guide, Courses & Repositories](42-AI-Infrastructure/Kubernetes-and-Container-AI.md)
 
 
 * [KServe](https://github.com/kserve/kserve) — Kubernetes-native model serving.
@@ -2694,9 +2715,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Flyte](https://github.com/flyteorg/flyte) — Scalable and reproducible ML workflow orchestration.
 * [Kueue](https://github.com/kubernetes-sigs/kueue) — Kubernetes-native job queuing.
 
-## GPU Management & Scheduling
+## 42.3 GPU Management & Scheduling
 
-> 📖 *Curated Learning Guide:* [GPU Management & Scheduling — Study Guide, Courses & Repositories](42-AI-Infrastructure/GPU-Management-and-Scheduling.md)
+> 📖 *Curated Learning Guide:* [42.3 GPU Management & Scheduling — Study Guide, Courses & Repositories](42-AI-Infrastructure/GPU-Management-and-Scheduling.md)
 
 
 * [Run:ai](https://github.com/run-ai) — GPU orchestration platform.
@@ -2704,9 +2725,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) — GPU management for Kubernetes.
 * [gpustat](https://github.com/wookayin/gpustat) — Simple GPU status monitoring.
 
-## Cloud AI SDKs
+## 42.4 Cloud AI SDKs
 
-> 📖 *Curated Learning Guide:* [Cloud AI SDKs — Study Guide, Courses & Repositories](42-AI-Infrastructure/Cloud-AI-SDKs.md)
+> 📖 *Curated Learning Guide:* [42.4 Cloud AI SDKs — Study Guide, Courses & Repositories](42-AI-Infrastructure/Cloud-AI-SDKs.md)
 
 
 * [boto3](https://github.com/boto/boto3) — AWS SDK for Python.
@@ -2715,20 +2736,20 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# MLOps
+# 43. MLOps
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **MLOps — Domain Overview & Roadmap**](43-MLOps/README.md)
-> - [Experiment Tracking](43-MLOps/Experiment-Tracking.md)
-> - [Model Deployment & CI/CD](43-MLOps/Model-Deployment-and-CI-CD.md)
-> - [Data Versioning & Lineage](43-MLOps/Data-Versioning-and-Lineage.md)
-> - [Model Registry](43-MLOps/Model-Registry.md)
-> - [Feature Store](43-MLOps/Feature-Store.md)
+> - [43.1 Experiment Tracking](43-MLOps/Experiment-Tracking.md)
+> - [43.2 Model Deployment & CI/CD](43-MLOps/Model-Deployment-and-CI-CD.md)
+> - [43.3 Data Versioning & Lineage](43-MLOps/Data-Versioning-and-Lineage.md)
+> - [43.4 Model Registry](43-MLOps/Model-Registry.md)
+> - [43.5 Feature Store](43-MLOps/Feature-Store.md)
 
 
-## Experiment Tracking
+## 43.1 Experiment Tracking
 
-> 📖 *Curated Learning Guide:* [Experiment Tracking — Study Guide, Courses & Repositories](43-MLOps/Experiment-Tracking.md)
+> 📖 *Curated Learning Guide:* [43.1 Experiment Tracking — Study Guide, Courses & Repositories](43-MLOps/Experiment-Tracking.md)
 
 
 * [MLflow](https://github.com/mlflow/mlflow) — Open-source ML lifecycle management platform.
@@ -2739,9 +2760,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Sacred](https://github.com/IDSIA/sacred) — Experiment configuration and tracking.
 * [Aim](https://github.com/aimhubio/aim) — Open-source AI metadata tracker.
 
-## Model Deployment & CI/CD
+## 43.2 Model Deployment & CI/CD
 
-> 📖 *Curated Learning Guide:* [Model Deployment & CI/CD — Study Guide, Courses & Repositories](43-MLOps/Model-Deployment-and-CI-CD.md)
+> 📖 *Curated Learning Guide:* [43.2 Model Deployment & CI/CD — Study Guide, Courses & Repositories](43-MLOps/Model-Deployment-and-CI-CD.md)
 
 
 * [BentoML](https://github.com/bentoml/BentoML) — Unified model serving framework.
@@ -2752,9 +2773,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Truss](https://github.com/basetenlabs/truss) — Package and serve ML models.
 * [CML](https://github.com/iterative/cml) — Continuous ML with GitHub Actions.
 
-## Data Versioning & Lineage
+## 43.3 Data Versioning & Lineage
 
-> 📖 *Curated Learning Guide:* [Data Versioning & Lineage — Study Guide, Courses & Repositories](43-MLOps/Data-Versioning-and-Lineage.md)
+> 📖 *Curated Learning Guide:* [43.3 Data Versioning & Lineage — Study Guide, Courses & Repositories](43-MLOps/Data-Versioning-and-Lineage.md)
 
 
 * [DVC](https://github.com/iterative/dvc) — Data version control for ML projects.
@@ -2763,18 +2784,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Delta Lake](https://github.com/delta-io/delta) — ACID transactions for data lakes.
 * [Quilt](https://github.com/quiltdata/quilt) — Data versioning and collaboration.
 
-## Model Registry
+## 43.4 Model Registry
 
-> 📖 *Curated Learning Guide:* [Model Registry — Study Guide, Courses & Repositories](43-MLOps/Model-Registry.md)
+> 📖 *Curated Learning Guide:* [43.4 Model Registry — Study Guide, Courses & Repositories](43-MLOps/Model-Registry.md)
 
 
 * [MLflow Model Registry](https://github.com/mlflow/mlflow) — Model versioning and staging.
 * [Hugging Face Hub](https://github.com/huggingface/huggingface_hub) — Model hosting and versioning.
 * [ModelDB](https://github.com/VertaAI/modeldb) — Open-source model versioning system.
 
-## Feature Store
+## 43.5 Feature Store
 
-> 📖 *Curated Learning Guide:* [Feature Store — Study Guide, Courses & Repositories](43-MLOps/Feature-Store.md)
+> 📖 *Curated Learning Guide:* [43.5 Feature Store — Study Guide, Courses & Repositories](43-MLOps/Feature-Store.md)
 
 
 * [Feast](https://github.com/feast-dev/feast) — Open-source feature store.
@@ -2783,18 +2804,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# LLMOps
+# 44. LLMOps
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **LLMOps — Domain Overview & Roadmap**](44-LLMOps/README.md)
-> - [Observability & Tracing](44-LLMOps/Observability-and-Tracing.md)
-> - [Evaluation & Testing](44-LLMOps/Evaluation-and-Testing.md)
-> - [Cost & Token Management](44-LLMOps/Cost-and-Token-Management.md)
+> - [44.1 Observability & Tracing](44-LLMOps/Observability-and-Tracing.md)
+> - [44.2 Evaluation & Testing](44-LLMOps/Evaluation-and-Testing.md)
+> - [44.3 Cost & Token Management](44-LLMOps/Cost-and-Token-Management.md)
 
 
-## Observability & Tracing
+## 44.1 Observability & Tracing
 
-> 📖 *Curated Learning Guide:* [Observability & Tracing — Study Guide, Courses & Repositories](44-LLMOps/Observability-and-Tracing.md)
+> 📖 *Curated Learning Guide:* [44.1 Observability & Tracing — Study Guide, Courses & Repositories](44-LLMOps/Observability-and-Tracing.md)
 
 
 * [Langfuse](https://github.com/langfuse/langfuse) — Open-source LLM engineering platform.
@@ -2804,9 +2825,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [OpenLIT](https://github.com/openlit/openlit) — OpenTelemetry-native observability for GenAI.
 * [Helicone](https://github.com/Helicone/helicone) — Open-source LLM observability platform.
 
-## Evaluation & Testing
+## 44.2 Evaluation & Testing
 
-> 📖 *Curated Learning Guide:* [Evaluation & Testing — Study Guide, Courses & Repositories](44-LLMOps/Evaluation-and-Testing.md)
+> 📖 *Curated Learning Guide:* [44.2 Evaluation & Testing — Study Guide, Courses & Repositories](44-LLMOps/Evaluation-and-Testing.md)
 
 
 * [LangSmith](https://github.com/langchain-ai/langsmith-sdk) — LLM application development platform.
@@ -2816,9 +2837,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Giskard](https://github.com/Giskard-AI/giskard) — Testing framework for ML and LLM models.
 * [Continuous Eval](https://github.com/relari-ai/continuous-eval) — Evaluation pipeline for RAG.
 
-## Cost & Token Management
+## 44.3 Cost & Token Management
 
-> 📖 *Curated Learning Guide:* [Cost & Token Management — Study Guide, Courses & Repositories](44-LLMOps/Cost-and-Token-Management.md)
+> 📖 *Curated Learning Guide:* [44.3 Cost & Token Management — Study Guide, Courses & Repositories](44-LLMOps/Cost-and-Token-Management.md)
 
 
 * [LiteLLM](https://github.com/BerriAI/litellm) — Call 100+ LLM APIs in OpenAI format.
@@ -2828,19 +2849,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Data Engineering for AI
+# 45. Data Engineering for AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Data Engineering for AI — Domain Overview & Roadmap**](45-Data-Engineering-for-AI/README.md)
-> - [Data Processing](45-Data-Engineering-for-AI/Data-Processing.md)
-> - [Data Pipelines & Orchestration](45-Data-Engineering-for-AI/Data-Pipelines-and-Orchestration.md)
-> - [Data Validation](45-Data-Engineering-for-AI/Data-Validation.md)
-> - [Data Transformation](45-Data-Engineering-for-AI/Data-Transformation.md)
+> - [45.1 Data Processing](45-Data-Engineering-for-AI/Data-Processing.md)
+> - [45.2 Data Pipelines & Orchestration](45-Data-Engineering-for-AI/Data-Pipelines-and-Orchestration.md)
+> - [45.3 Data Validation](45-Data-Engineering-for-AI/Data-Validation.md)
+> - [45.4 Data Transformation](45-Data-Engineering-for-AI/Data-Transformation.md)
 
 
-## Data Processing
+## 45.1 Data Processing
 
-> 📖 *Curated Learning Guide:* [Data Processing — Study Guide, Courses & Repositories](45-Data-Engineering-for-AI/Data-Processing.md)
+> 📖 *Curated Learning Guide:* [45.1 Data Processing — Study Guide, Courses & Repositories](45-Data-Engineering-for-AI/Data-Processing.md)
 
 
 * [Pandas](https://github.com/pandas-dev/pandas) — Powerful data analysis library.
@@ -2851,9 +2872,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Modin](https://github.com/modin-project/modin) — Speed up Pandas with parallelism.
 * [Daft](https://github.com/Eventual-Inc/Daft) — Distributed DataFrame for ML workloads.
 
-## Data Pipelines & Orchestration
+## 45.2 Data Pipelines & Orchestration
 
-> 📖 *Curated Learning Guide:* [Data Pipelines & Orchestration — Study Guide, Courses & Repositories](45-Data-Engineering-for-AI/Data-Pipelines-and-Orchestration.md)
+> 📖 *Curated Learning Guide:* [45.2 Data Pipelines & Orchestration — Study Guide, Courses & Repositories](45-Data-Engineering-for-AI/Data-Pipelines-and-Orchestration.md)
 
 
 * [Airflow](https://github.com/apache/airflow) — Workflow orchestration platform.
@@ -2864,9 +2885,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Hamilton](https://github.com/DAGWorks-Inc/hamilton) — Micro-orchestration framework for dataflows.
 * [Kedro](https://github.com/kedro-org/kedro) — Framework for reproducible, maintainable ML code.
 
-## Data Validation
+## 45.3 Data Validation
 
-> 📖 *Curated Learning Guide:* [Data Validation — Study Guide, Courses & Repositories](45-Data-Engineering-for-AI/Data-Validation.md)
+> 📖 *Curated Learning Guide:* [45.3 Data Validation — Study Guide, Courses & Repositories](45-Data-Engineering-for-AI/Data-Validation.md)
 
 
 * [Great Expectations](https://github.com/great-expectations/great_expectations) — Data validation and documentation.
@@ -2874,9 +2895,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Cerberus](https://github.com/pyeve/cerberus) — Lightweight data validation.
 * [Pydantic](https://github.com/pydantic/pydantic) — Data validation using Python type annotations.
 
-## Data Transformation
+## 45.4 Data Transformation
 
-> 📖 *Curated Learning Guide:* [Data Transformation — Study Guide, Courses & Repositories](45-Data-Engineering-for-AI/Data-Transformation.md)
+> 📖 *Curated Learning Guide:* [45.4 Data Transformation — Study Guide, Courses & Repositories](45-Data-Engineering-for-AI/Data-Transformation.md)
 
 
 * [dbt](https://github.com/dbt-labs/dbt-core) — Data transformation tool.
@@ -2885,19 +2906,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Datasets & Annotation
+# 46. Datasets & Annotation
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Datasets & Annotation — Domain Overview & Roadmap**](46-Datasets-and-Annotation/README.md)
-> - [Dataset Libraries](46-Datasets-and-Annotation/Dataset-Libraries.md)
-> - [Annotation & Labeling](46-Datasets-and-Annotation/Annotation-and-Labeling.md)
-> - [Dataset Quality & Curation](46-Datasets-and-Annotation/Dataset-Quality-and-Curation.md)
-> - [Benchmark Datasets](46-Datasets-and-Annotation/Benchmark-Datasets.md)
+> - [46.1 Dataset Libraries](46-Datasets-and-Annotation/Dataset-Libraries.md)
+> - [46.2 Annotation & Labeling](46-Datasets-and-Annotation/Annotation-and-Labeling.md)
+> - [46.3 Dataset Quality & Curation](46-Datasets-and-Annotation/Dataset-Quality-and-Curation.md)
+> - [46.4 Benchmark Datasets](46-Datasets-and-Annotation/Benchmark-Datasets.md)
 
 
-## Dataset Libraries
+## 46.1 Dataset Libraries
 
-> 📖 *Curated Learning Guide:* [Dataset Libraries — Study Guide, Courses & Repositories](46-Datasets-and-Annotation/Dataset-Libraries.md)
+> 📖 *Curated Learning Guide:* [46.1 Dataset Libraries — Study Guide, Courses & Repositories](46-Datasets-and-Annotation/Dataset-Libraries.md)
 
 
 * [Hugging Face Datasets](https://github.com/huggingface/datasets) — Access and share ML datasets.
@@ -2906,9 +2927,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [FiftyOne](https://github.com/voxel51/fiftyone) — Dataset curation and model analysis.
 * [Activeloop Hub](https://github.com/activeloopai/deeplake) — Dataset format for AI.
 
-## Annotation & Labeling
+## 46.2 Annotation & Labeling
 
-> 📖 *Curated Learning Guide:* [Annotation & Labeling — Study Guide, Courses & Repositories](46-Datasets-and-Annotation/Annotation-and-Labeling.md)
+> 📖 *Curated Learning Guide:* [46.2 Annotation & Labeling — Study Guide, Courses & Repositories](46-Datasets-and-Annotation/Annotation-and-Labeling.md)
 
 
 * [Label Studio](https://github.com/HumanSignal/label-studio) — Multi-type data labeling platform.
@@ -2920,9 +2941,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Labelbox](https://github.com/Labelbox) — Training data management platform.
 * [BRAT](https://github.com/nlplab/brat) — Rapid annotation tool for NLP.
 
-## Dataset Quality & Curation
+## 46.3 Dataset Quality & Curation
 
-> 📖 *Curated Learning Guide:* [Dataset Quality & Curation — Study Guide, Courses & Repositories](46-Datasets-and-Annotation/Dataset-Quality-and-Curation.md)
+> 📖 *Curated Learning Guide:* [46.3 Dataset Quality & Curation — Study Guide, Courses & Repositories](46-Datasets-and-Annotation/Dataset-Quality-and-Curation.md)
 
 
 * [Cleanlab](https://github.com/cleanlab/cleanlab) — Find and fix data issues automatically.
@@ -2931,9 +2952,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [NeMo Curator](https://github.com/NVIDIA-NeMo/Curator) — Scalable data curation for LLMs.
 * [Lilac](https://github.com/lilacai/lilac) — AI-powered dataset curation.
 
-## Benchmark Datasets
+## 46.4 Benchmark Datasets
 
-> 📖 *Curated Learning Guide:* [Benchmark Datasets — Study Guide, Courses & Repositories](46-Datasets-and-Annotation/Benchmark-Datasets.md)
+> 📖 *Curated Learning Guide:* [46.4 Benchmark Datasets — Study Guide, Courses & Repositories](46-Datasets-and-Annotation/Benchmark-Datasets.md)
 
 
 * [MMLU](https://github.com/hendrycks/test) — Massive multitask language understanding.
@@ -2944,18 +2965,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Knowledge & Research
+# 47. AI Knowledge & Research
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Knowledge & Research — Domain Overview & Roadmap**](47-AI-Knowledge-and-Research/README.md)
-> - [Research Tools](47-AI-Knowledge-and-Research/Research-Tools.md)
-> - [Research Assistants](47-AI-Knowledge-and-Research/Research-Assistants.md)
-> - [Literature Review](47-AI-Knowledge-and-Research/Literature-Review.md)
+> - [47.1 Research Tools](47-AI-Knowledge-and-Research/Research-Tools.md)
+> - [47.2 Research Assistants](47-AI-Knowledge-and-Research/Research-Assistants.md)
+> - [47.3 Literature Review](47-AI-Knowledge-and-Research/Literature-Review.md)
 
 
-## Research Tools
+## 47.1 Research Tools
 
-> 📖 *Curated Learning Guide:* [Research Tools — Study Guide, Courses & Repositories](47-AI-Knowledge-and-Research/Research-Tools.md)
+> 📖 *Curated Learning Guide:* [47.1 Research Tools — Study Guide, Courses & Repositories](47-AI-Knowledge-and-Research/Research-Tools.md)
 
 
 * [Semantic Scholar](https://github.com/allenai/s2-folks) — AI-powered scientific literature platform.
@@ -2964,9 +2985,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Connected Papers](https://github.com/connectedpapers) — Visual tool for exploring academic papers.
 * [Arxiv Sanity](https://github.com/karpathy/arxiv-sanity-preserver) — Curate arxiv papers.
 
-## Research Assistants
+## 47.2 Research Assistants
 
-> 📖 *Curated Learning Guide:* [Research Assistants — Study Guide, Courses & Repositories](47-AI-Knowledge-and-Research/Research-Assistants.md)
+> 📖 *Curated Learning Guide:* [47.2 Research Assistants — Study Guide, Courses & Repositories](47-AI-Knowledge-and-Research/Research-Assistants.md)
 
 
 * [STORM](https://github.com/stanford-oval/storm) — Knowledge article synthesis from internet.
@@ -2974,9 +2995,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Elicit](https://github.com/elicit) — AI research assistant.
 * [ScholarAI](https://github.com/scholarai) — AI for scientific research.
 
-## Literature Review
+## 47.3 Literature Review
 
-> 📖 *Curated Learning Guide:* [Literature Review — Study Guide, Courses & Repositories](47-AI-Knowledge-and-Research/Literature-Review.md)
+> 📖 *Curated Learning Guide:* [47.3 Literature Review — Study Guide, Courses & Repositories](47-AI-Knowledge-and-Research/Literature-Review.md)
 
 
 * [Litmaps](https://github.com/litmaps) — Literature mapping and discovery.
@@ -2984,20 +3005,20 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI for Science
+# 48. AI for Science
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI for Science — Domain Overview & Roadmap**](48-AI-for-Science/README.md)
-> - [Biology & Protein Science](48-AI-for-Science/Biology-and-Protein-Science.md)
-> - [Chemistry & Materials](48-AI-for-Science/Chemistry-and-Materials.md)
-> - [Drug Discovery](48-AI-for-Science/Drug-Discovery.md)
-> - [Physics & Scientific Computing](48-AI-for-Science/Physics-and-Scientific-Computing.md)
-> - [Climate & Weather](48-AI-for-Science/Climate-and-Weather.md)
+> - [48.1 Biology & Protein Science](48-AI-for-Science/Biology-and-Protein-Science.md)
+> - [48.2 Chemistry & Materials](48-AI-for-Science/Chemistry-and-Materials.md)
+> - [48.3 Drug Discovery](48-AI-for-Science/Drug-Discovery.md)
+> - [48.4 Physics & Scientific Computing](48-AI-for-Science/Physics-and-Scientific-Computing.md)
+> - [48.5 Climate & Weather](48-AI-for-Science/Climate-and-Weather.md)
 
 
-## Biology & Protein Science
+## 48.1 Biology & Protein Science
 
-> 📖 *Curated Learning Guide:* [Biology & Protein Science — Study Guide, Courses & Repositories](48-AI-for-Science/Biology-and-Protein-Science.md)
+> 📖 *Curated Learning Guide:* [48.1 Biology & Protein Science — Study Guide, Courses & Repositories](48-AI-for-Science/Biology-and-Protein-Science.md)
 
 
 * [ESM](https://github.com/facebookresearch/esm) — Protein language models by Meta.
@@ -3009,9 +3030,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [EvolutionaryScale](https://github.com/evolutionaryscale/esm) — Next-gen protein models.
 * [Uni-Fold](https://github.com/dptech-corp/Uni-Fold) — Open-source protein folding.
 
-## Chemistry & Materials
+## 48.2 Chemistry & Materials
 
-> 📖 *Curated Learning Guide:* [Chemistry & Materials — Study Guide, Courses & Repositories](48-AI-for-Science/Chemistry-and-Materials.md)
+> 📖 *Curated Learning Guide:* [48.2 Chemistry & Materials — Study Guide, Courses & Repositories](48-AI-for-Science/Chemistry-and-Materials.md)
 
 
 * [RDKit](https://github.com/rdkit/rdkit) — Open-source cheminformatics.
@@ -3021,9 +3042,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [e3nn](https://github.com/e3nn/e3nn) — Euclidean neural networks for scientific computing.
 * [MACE](https://github.com/ACEsuit/mace) — Machine learning force fields.
 
-## Drug Discovery
+## 48.3 Drug Discovery
 
-> 📖 *Curated Learning Guide:* [Drug Discovery — Study Guide, Courses & Repositories](48-AI-for-Science/Drug-Discovery.md)
+> 📖 *Curated Learning Guide:* [48.3 Drug Discovery — Study Guide, Courses & Repositories](48-AI-for-Science/Drug-Discovery.md)
 
 
 * [DeepChem](https://github.com/deepchem/deepchem) — ML for drug discovery.
@@ -3033,9 +3054,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) — GPU-accelerated molecular docking.
 * [REINVENT](https://github.com/MolecularAI/REINVENT4) — Molecular design by AstraZeneca.
 
-## Physics & Scientific Computing
+## 48.4 Physics & Scientific Computing
 
-> 📖 *Curated Learning Guide:* [Physics & Scientific Computing — Study Guide, Courses & Repositories](48-AI-for-Science/Physics-and-Scientific-Computing.md)
+> 📖 *Curated Learning Guide:* [48.4 Physics & Scientific Computing — Study Guide, Courses & Repositories](48-AI-for-Science/Physics-and-Scientific-Computing.md)
 
 
 * [JAX-MD](https://github.com/jax-md/jax-md) — End-to-end differentiable molecular dynamics.
@@ -3044,9 +3065,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Fourier Neural Operator](https://github.com/neuraloperator/neuraloperator) — Learning in function spaces.
 * [PhiFlow](https://github.com/tum-pbs/PhiFlow) — Differentiable PDE solver.
 
-## Climate & Weather
+## 48.5 Climate & Weather
 
-> 📖 *Curated Learning Guide:* [Climate & Weather — Study Guide, Courses & Repositories](48-AI-for-Science/Climate-and-Weather.md)
+> 📖 *Curated Learning Guide:* [48.5 Climate & Weather — Study Guide, Courses & Repositories](48-AI-for-Science/Climate-and-Weather.md)
 
 
 * [ClimaX](https://github.com/microsoft/ClimaX) — Foundation model for weather and climate.
@@ -3056,18 +3077,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Bioinformatics
+# 49. Bioinformatics
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Bioinformatics — Domain Overview & Roadmap**](49-Bioinformatics/README.md)
-> - [Genomics](49-Bioinformatics/Genomics.md)
-> - [Single Cell Analysis](49-Bioinformatics/Single-Cell-Analysis.md)
-> - [Structural Biology](49-Bioinformatics/Structural-Biology.md)
+> - [49.1 Genomics](49-Bioinformatics/Genomics.md)
+> - [49.2 Single Cell Analysis](49-Bioinformatics/Single-Cell-Analysis.md)
+> - [49.3 Structural Biology](49-Bioinformatics/Structural-Biology.md)
 
 
-## Genomics
+## 49.1 Genomics
 
-> 📖 *Curated Learning Guide:* [Genomics — Study Guide, Courses & Repositories](49-Bioinformatics/Genomics.md)
+> 📖 *Curated Learning Guide:* [49.1 Genomics — Study Guide, Courses & Repositories](49-Bioinformatics/Genomics.md)
 
 
 * [Biopython](https://github.com/biopython/biopython) — Tools for computational biology.
@@ -3077,9 +3098,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [DNABERT](https://github.com/jerryji1993/DNABERT) — BERT for DNA sequences.
 * [GenomicBenchmarks](https://github.com/ML-Bioinfo-CEITEC/genomic_benchmarks) — ML benchmarks for genomics.
 
-## Single Cell Analysis
+## 49.2 Single Cell Analysis
 
-> 📖 *Curated Learning Guide:* [Single Cell Analysis — Study Guide, Courses & Repositories](49-Bioinformatics/Single-Cell-Analysis.md)
+> 📖 *Curated Learning Guide:* [49.2 Single Cell Analysis — Study Guide, Courses & Repositories](49-Bioinformatics/Single-Cell-Analysis.md)
 
 
 * [Scanpy](https://github.com/scverse/scanpy) — Single-cell analysis in Python.
@@ -3087,9 +3108,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [CellTypist](https://github.com/Teichlab/celltypist) — Automated cell type annotation.
 * [SCENIC+](https://github.com/aertslab/scenicplus) — Single-cell regulatory network inference.
 
-## Structural Biology
+## 49.3 Structural Biology
 
-> 📖 *Curated Learning Guide:* [Structural Biology — Study Guide, Courses & Repositories](49-Bioinformatics/Structural-Biology.md)
+> 📖 *Curated Learning Guide:* [49.3 Structural Biology — Study Guide, Courses & Repositories](49-Bioinformatics/Structural-Biology.md)
 
 
 * [AlphaFold](https://github.com/google-deepmind/alphafold) — Protein structure prediction by DeepMind.
@@ -3099,18 +3120,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Healthcare AI
+# 50. Healthcare AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Healthcare AI — Domain Overview & Roadmap**](50-Healthcare-AI/README.md)
-> - [Medical Imaging](50-Healthcare-AI/Medical-Imaging.md)
-> - [Clinical NLP](50-Healthcare-AI/Clinical-NLP.md)
-> - [Medical Foundation Models](50-Healthcare-AI/Medical-Foundation-Models.md)
+> - [50.1 Medical Imaging](50-Healthcare-AI/Medical-Imaging.md)
+> - [50.2 Clinical NLP](50-Healthcare-AI/Clinical-NLP.md)
+> - [50.3 Medical Foundation Models](50-Healthcare-AI/Medical-Foundation-Models.md)
 
 
-## Medical Imaging
+## 50.1 Medical Imaging
 
-> 📖 *Curated Learning Guide:* [Medical Imaging — Study Guide, Courses & Repositories](50-Healthcare-AI/Medical-Imaging.md)
+> 📖 *Curated Learning Guide:* [50.1 Medical Imaging — Study Guide, Courses & Repositories](50-Healthcare-AI/Medical-Imaging.md)
 
 
 * [MONAI](https://github.com/Project-MONAI/MONAI) — PyTorch-based framework for healthcare imaging.
@@ -3120,9 +3141,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [3D Slicer](https://github.com/Slicer/Slicer) — Medical image computing platform.
 * [Cellpose](https://github.com/MouseLand/cellpose) — Generalist cell segmentation.
 
-## Clinical NLP
+## 50.2 Clinical NLP
 
-> 📖 *Curated Learning Guide:* [Clinical NLP — Study Guide, Courses & Repositories](50-Healthcare-AI/Clinical-NLP.md)
+> 📖 *Curated Learning Guide:* [50.2 Clinical NLP — Study Guide, Courses & Repositories](50-Healthcare-AI/Clinical-NLP.md)
 
 
 * [Med-BERT](https://github.com/ZhiGroup/Med-BERT) — Pre-trained BERT for electronic health records.
@@ -3132,9 +3153,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract) — Biomedical language model.
 * [MedPaLM](https://github.com/google-research/google-research) — Google's medical LLM research.
 
-## Medical Foundation Models
+## 50.3 Medical Foundation Models
 
-> 📖 *Curated Learning Guide:* [Medical Foundation Models — Study Guide, Courses & Repositories](50-Healthcare-AI/Medical-Foundation-Models.md)
+> 📖 *Curated Learning Guide:* [50.3 Medical Foundation Models — Study Guide, Courses & Repositories](50-Healthcare-AI/Medical-Foundation-Models.md)
 
 
 * [BiomedCLIP](https://github.com/microsoft/BiomedCLIP_data_pipeline) — Biomedical vision-language model.
@@ -3144,18 +3165,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI for Mathematics
+# 51. AI for Mathematics
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI for Mathematics — Domain Overview & Roadmap**](51-AI-for-Mathematics/README.md)
-> - [Theorem Proving](51-AI-for-Mathematics/Theorem-Proving.md)
-> - [Mathematical Reasoning](51-AI-for-Mathematics/Mathematical-Reasoning.md)
-> - [Computational Mathematics](51-AI-for-Mathematics/Computational-Mathematics.md)
+> - [51.1 Theorem Proving](51-AI-for-Mathematics/Theorem-Proving.md)
+> - [51.2 Mathematical Reasoning](51-AI-for-Mathematics/Mathematical-Reasoning.md)
+> - [51.3 Computational Mathematics](51-AI-for-Mathematics/Computational-Mathematics.md)
 
 
-## Theorem Proving
+## 51.1 Theorem Proving
 
-> 📖 *Curated Learning Guide:* [Theorem Proving — Study Guide, Courses & Repositories](51-AI-for-Mathematics/Theorem-Proving.md)
+> 📖 *Curated Learning Guide:* [51.1 Theorem Proving — Study Guide, Courses & Repositories](51-AI-for-Mathematics/Theorem-Proving.md)
 
 
 * [Lean 4](https://github.com/leanprover/lean4) — Functional programming language and theorem prover.
@@ -3163,9 +3184,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Isabelle](https://github.com/isabelle-prover/mirror-isabelle) — Generic proof assistant.
 * [Coq](https://github.com/coq/coq) — Formal proof management system.
 
-## Mathematical Reasoning
+## 51.2 Mathematical Reasoning
 
-> 📖 *Curated Learning Guide:* [Mathematical Reasoning — Study Guide, Courses & Repositories](51-AI-for-Mathematics/Mathematical-Reasoning.md)
+> 📖 *Curated Learning Guide:* [51.2 Mathematical Reasoning — Study Guide, Courses & Repositories](51-AI-for-Mathematics/Mathematical-Reasoning.md)
 
 
 * [MiniF2F](https://github.com/openai/miniF2F) — Formal mathematics benchmark.
@@ -3174,9 +3195,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [INT](https://github.com/albertqjiang/INT) — Theorem proving for transformers.
 * [DeepSeek-Prover](https://github.com/deepseek-ai/DeepSeek-Prover-V1.5) — Theorem proving with LLMs.
 
-## Computational Mathematics
+## 51.3 Computational Mathematics
 
-> 📖 *Curated Learning Guide:* [Computational Mathematics — Study Guide, Courses & Repositories](51-AI-for-Mathematics/Computational-Mathematics.md)
+> 📖 *Curated Learning Guide:* [51.3 Computational Mathematics — Study Guide, Courses & Repositories](51-AI-for-Mathematics/Computational-Mathematics.md)
 
 
 * [SageMath](https://github.com/sagemath/sage) — Open-source mathematics software system.
@@ -3185,19 +3206,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI for Finance
+# 52. AI for Finance
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI for Finance — Domain Overview & Roadmap**](52-AI-for-Finance/README.md)
-> - [Quantitative Finance](52-AI-for-Finance/Quantitative-Finance.md)
-> - [Financial NLP](52-AI-for-Finance/Financial-NLP.md)
-> - [Fraud Detection](52-AI-for-Finance/Fraud-Detection.md)
-> - [Risk Analysis](52-AI-for-Finance/Risk-Analysis.md)
+> - [52.1 Quantitative Finance](52-AI-for-Finance/Quantitative-Finance.md)
+> - [52.2 Financial NLP](52-AI-for-Finance/Financial-NLP.md)
+> - [52.3 Fraud Detection](52-AI-for-Finance/Fraud-Detection.md)
+> - [52.4 Risk Analysis](52-AI-for-Finance/Risk-Analysis.md)
 
 
-## Quantitative Finance
+## 52.1 Quantitative Finance
 
-> 📖 *Curated Learning Guide:* [Quantitative Finance — Study Guide, Courses & Repositories](52-AI-for-Finance/Quantitative-Finance.md)
+> 📖 *Curated Learning Guide:* [52.1 Quantitative Finance — Study Guide, Courses & Repositories](52-AI-for-Finance/Quantitative-Finance.md)
 
 
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) — Deep RL for quantitative finance.
@@ -3207,26 +3228,26 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Backtrader](https://github.com/mementum/backtrader) — Python backtesting framework.
 * [vectorbt](https://github.com/polakowo/vectorbt) — Vectorized backtesting and analysis.
 
-## Financial NLP
+## 52.2 Financial NLP
 
-> 📖 *Curated Learning Guide:* [Financial NLP — Study Guide, Courses & Repositories](52-AI-for-Finance/Financial-NLP.md)
+> 📖 *Curated Learning Guide:* [52.2 Financial NLP — Study Guide, Courses & Repositories](52-AI-for-Finance/Financial-NLP.md)
 
 
 * [FinBERT](https://github.com/ProsusAI/finBERT) — Financial sentiment analysis with BERT.
 * [BloombergGPT](https://github.com/bloomberg) — Financial domain LLM.
 * [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — Open financial LLMs.
 
-## Fraud Detection
+## 52.3 Fraud Detection
 
-> 📖 *Curated Learning Guide:* [Fraud Detection — Study Guide, Courses & Repositories](52-AI-for-Finance/Fraud-Detection.md)
+> 📖 *Curated Learning Guide:* [52.3 Fraud Detection — Study Guide, Courses & Repositories](52-AI-for-Finance/Fraud-Detection.md)
 
 
 * [PyOD](https://github.com/yzhao062/pyod) — Outlier detection for fraud.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) — Drift and outlier detection.
 
-## Risk Analysis
+## 52.4 Risk Analysis
 
-> 📖 *Curated Learning Guide:* [Risk Analysis — Study Guide, Courses & Repositories](52-AI-for-Finance/Risk-Analysis.md)
+> 📖 *Curated Learning Guide:* [52.4 Risk Analysis — Study Guide, Courses & Repositories](52-AI-for-Finance/Risk-Analysis.md)
 
 
 * [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) — Portfolio optimization.
@@ -3234,26 +3255,26 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI for Legal
+# 53. AI for Legal
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI for Legal — Domain Overview & Roadmap**](53-AI-for-Legal/README.md)
-> - [Legal NLP](53-AI-for-Legal/Legal-NLP.md)
-> - [Contract Analysis](53-AI-for-Legal/Contract-Analysis.md)
+> - [53.1 Legal NLP](53-AI-for-Legal/Legal-NLP.md)
+> - [53.2 Contract Analysis](53-AI-for-Legal/Contract-Analysis.md)
 
 
-## Legal NLP
+## 53.1 Legal NLP
 
-> 📖 *Curated Learning Guide:* [Legal NLP — Study Guide, Courses & Repositories](53-AI-for-Legal/Legal-NLP.md)
+> 📖 *Curated Learning Guide:* [53.1 Legal NLP — Study Guide, Courses & Repositories](53-AI-for-Legal/Legal-NLP.md)
 
 
 * [Legal-BERT](https://huggingface.co/nlpaueb/legal-bert-base-uncased) — BERT for legal text.
 * [BlackStone](https://github.com/ICLRandD/Blackstone) — spaCy model for law.
 * [SaulLM](https://huggingface.co/Equall) — Legal domain LLMs.
 
-## Contract Analysis
+## 53.2 Contract Analysis
 
-> 📖 *Curated Learning Guide:* [Contract Analysis — Study Guide, Courses & Repositories](53-AI-for-Legal/Contract-Analysis.md)
+> 📖 *Curated Learning Guide:* [53.2 Contract Analysis — Study Guide, Courses & Repositories](53-AI-for-Legal/Contract-Analysis.md)
 
 
 * [Docassemble](https://github.com/jhpyle/docassemble) — Expert systems for legal documents.
@@ -3261,18 +3282,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI for Climate & Environment
+# 54. AI for Climate & Environment
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI for Climate & Environment — Domain Overview & Roadmap**](54-AI-for-Climate-and-Environment/README.md)
-> - [Climate Models](54-AI-for-Climate-and-Environment/Climate-Models.md)
-> - [Environmental Monitoring](54-AI-for-Climate-and-Environment/Environmental-Monitoring.md)
-> - [Carbon & Sustainability](54-AI-for-Climate-and-Environment/Carbon-and-Sustainability.md)
+> - [54.1 Climate Models](54-AI-for-Climate-and-Environment/Climate-Models.md)
+> - [54.2 Environmental Monitoring](54-AI-for-Climate-and-Environment/Environmental-Monitoring.md)
+> - [54.3 Carbon & Sustainability](54-AI-for-Climate-and-Environment/Carbon-and-Sustainability.md)
 
 
-## Climate Models
+## 54.1 Climate Models
 
-> 📖 *Curated Learning Guide:* [Climate Models — Study Guide, Courses & Repositories](54-AI-for-Climate-and-Environment/Climate-Models.md)
+> 📖 *Curated Learning Guide:* [54.1 Climate Models — Study Guide, Courses & Repositories](54-AI-for-Climate-and-Environment/Climate-Models.md)
 
 
 * [ClimaX](https://github.com/microsoft/ClimaX) — Climate and weather foundation model.
@@ -3280,9 +3301,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [FourCastNet](https://github.com/NVlabs/FourCastNet) — Fourier forecasting neural network.
 * [Aurora](https://github.com/microsoft/aurora) — Foundation model for Earth system science.
 
-## Environmental Monitoring
+## 54.2 Environmental Monitoring
 
-> 📖 *Curated Learning Guide:* [Environmental Monitoring — Study Guide, Courses & Repositories](54-AI-for-Climate-and-Environment/Environmental-Monitoring.md)
+> 📖 *Curated Learning Guide:* [54.2 Environmental Monitoring — Study Guide, Courses & Repositories](54-AI-for-Climate-and-Environment/Environmental-Monitoring.md)
 
 
 * [Microsoft Planetary Computer](https://github.com/microsoft/PlanetaryComputer) — Earth observation and analytics.
@@ -3290,9 +3311,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Radiant MLHub](https://github.com/radiantearth) — Open geospatial training data.
 * [SatCLIP](https://github.com/microsoft/satclip) — Satellite image embeddings.
 
-## Carbon & Sustainability
+## 54.3 Carbon & Sustainability
 
-> 📖 *Curated Learning Guide:* [Carbon & Sustainability — Study Guide, Courses & Repositories](54-AI-for-Climate-and-Environment/Carbon-and-Sustainability.md)
+> 📖 *Curated Learning Guide:* [54.3 Carbon & Sustainability — Study Guide, Courses & Repositories](54-AI-for-Climate-and-Environment/Carbon-and-Sustainability.md)
 
 
 * [CodeCarbon](https://github.com/mlco2/codecarbon) — Track CO2 emissions from computing.
@@ -3301,17 +3322,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI for Education
+# 55. AI for Education
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI for Education — Domain Overview & Roadmap**](55-AI-for-Education/README.md)
-> - [Educational AI Tools](55-AI-for-Education/Educational-AI-Tools.md)
-> - [Interactive Learning](55-AI-for-Education/Interactive-Learning.md)
+> - [55.1 Educational AI Tools](55-AI-for-Education/Educational-AI-Tools.md)
+> - [55.2 Interactive Learning](55-AI-for-Education/Interactive-Learning.md)
 
 
-## Educational AI Tools
+## 55.1 Educational AI Tools
 
-> 📖 *Curated Learning Guide:* [Educational AI Tools — Study Guide, Courses & Repositories](55-AI-for-Education/Educational-AI-Tools.md)
+> 📖 *Curated Learning Guide:* [55.1 Educational AI Tools — Study Guide, Courses & Repositories](55-AI-for-Education/Educational-AI-Tools.md)
 
 
 * [Khan Academy GPT](https://github.com/khanacademy) — AI tutoring systems.
@@ -3320,9 +3341,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [ML for Beginners](https://github.com/microsoft/ML-For-Beginners) — 26-lesson ML curriculum.
 * [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) — 21-lesson GenAI course.
 
-## Interactive Learning
+## 55.2 Interactive Learning
 
-> 📖 *Curated Learning Guide:* [Interactive Learning — Study Guide, Courses & Repositories](55-AI-for-Education/Interactive-Learning.md)
+> 📖 *Curated Learning Guide:* [55.2 Interactive Learning — Study Guide, Courses & Repositories](55-AI-for-Education/Interactive-Learning.md)
 
 
 * [Jupyter](https://github.com/jupyter/notebook) — Interactive computing notebooks.
@@ -3332,18 +3353,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Developer AI
+# 56. Developer AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Developer AI — Domain Overview & Roadmap**](56-Developer-AI/README.md)
-> - [Code Intelligence](56-Developer-AI/Code-Intelligence.md)
-> - [AI Testing & Quality](56-Developer-AI/AI-Testing-and-Quality.md)
-> - [Documentation AI](56-Developer-AI/Documentation-AI.md)
+> - [56.1 Code Intelligence](56-Developer-AI/Code-Intelligence.md)
+> - [56.2 AI Testing & Quality](56-Developer-AI/AI-Testing-and-Quality.md)
+> - [56.3 Documentation AI](56-Developer-AI/Documentation-AI.md)
 
 
-## Code Intelligence
+## 56.1 Code Intelligence
 
-> 📖 *Curated Learning Guide:* [Code Intelligence — Study Guide, Courses & Repositories](56-Developer-AI/Code-Intelligence.md)
+> 📖 *Curated Learning Guide:* [56.1 Code Intelligence — Study Guide, Courses & Repositories](56-Developer-AI/Code-Intelligence.md)
 
 
 * [Tree-sitter](https://github.com/tree-sitter/tree-sitter) — Incremental parsing system.
@@ -3352,9 +3373,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [CodeQL](https://github.com/github/codeql) — Semantic code analysis engine.
 * [Semgrep](https://github.com/semgrep/semgrep) — Fast static analysis.
 
-## AI Testing & Quality
+## 56.2 AI Testing & Quality
 
-> 📖 *Curated Learning Guide:* [AI Testing & Quality — Study Guide, Courses & Repositories](56-Developer-AI/AI-Testing-and-Quality.md)
+> 📖 *Curated Learning Guide:* [56.2 AI Testing & Quality — Study Guide, Courses & Repositories](56-Developer-AI/AI-Testing-and-Quality.md)
 
 
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) — Real-world software engineering benchmark.
@@ -3363,9 +3384,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Hypothesis](https://github.com/HypothesisWorks/hypothesis) — Property-based testing.
 * [Pynguin](https://github.com/se2p/pynguin) — Automatic Python unit test generation.
 
-## Documentation AI
+## 56.3 Documentation AI
 
-> 📖 *Curated Learning Guide:* [Documentation AI — Study Guide, Courses & Repositories](56-Developer-AI/Documentation-AI.md)
+> 📖 *Curated Learning Guide:* [56.3 Documentation AI — Study Guide, Courses & Repositories](56-Developer-AI/Documentation-AI.md)
 
 
 * [Mintlify](https://github.com/mintlify/writer) — AI-powered documentation writer.
@@ -3374,19 +3395,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Databases
+# 57. AI Databases
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Databases — Domain Overview & Roadmap**](57-AI-Databases/README.md)
-> - [Vector Databases](57-AI-Databases/Vector-Databases.md)
-> - [Graph Databases](57-AI-Databases/Graph-Databases.md)
-> - [Text-to-SQL](57-AI-Databases/Text-to-SQL.md)
-> - [Time Series Databases](57-AI-Databases/Time-Series-Databases.md)
+> - [57.1 Vector Databases](57-AI-Databases/Vector-Databases.md)
+> - [57.2 Graph Databases](57-AI-Databases/Graph-Databases.md)
+> - [57.3 Text-to-SQL](57-AI-Databases/Text-to-SQL.md)
+> - [57.4 Time Series Databases](57-AI-Databases/Time-Series-Databases.md)
 
 
-## Vector Databases
+## 57.1 Vector Databases
 
-> 📖 *Curated Learning Guide:* [Vector Databases — Study Guide, Courses & Repositories](57-AI-Databases/Vector-Databases.md)
+> 📖 *Curated Learning Guide:* [57.1 Vector Databases — Study Guide, Courses & Repositories](57-AI-Databases/Vector-Databases.md)
 
 
 * [Qdrant](https://github.com/qdrant/qdrant) — High-performance vector search.
@@ -3397,9 +3418,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [pgvector](https://github.com/pgvector/pgvector) — Vectors for PostgreSQL.
 * [Pinecone Client](https://github.com/pinecone-io/pinecone-python-client) — Pinecone SDK.
 
-## Graph Databases
+## 57.2 Graph Databases
 
-> 📖 *Curated Learning Guide:* [Graph Databases — Study Guide, Courses & Repositories](57-AI-Databases/Graph-Databases.md)
+> 📖 *Curated Learning Guide:* [57.2 Graph Databases — Study Guide, Courses & Repositories](57-AI-Databases/Graph-Databases.md)
 
 
 * [Neo4j](https://github.com/neo4j/neo4j) — Property graph database.
@@ -3407,9 +3428,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [DGraph](https://github.com/dgraph-io/dgraph) — Distributed GraphQL database.
 * [Memgraph](https://github.com/memgraph/memgraph) — In-memory graph database.
 
-## Text-to-SQL
+## 57.3 Text-to-SQL
 
-> 📖 *Curated Learning Guide:* [Text-to-SQL — Study Guide, Courses & Repositories](57-AI-Databases/Text-to-SQL.md)
+> 📖 *Curated Learning Guide:* [57.3 Text-to-SQL — Study Guide, Courses & Repositories](57-AI-Databases/Text-to-SQL.md)
 
 
 * [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) — AI-native data app development.
@@ -3418,9 +3439,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [sqlcoder](https://github.com/defog-ai/sqlcoder) — LLMs for SQL generation.
 * [Text2SQL](https://github.com/caesarHQ/textSQL) — Natural language to SQL.
 
-## Time Series Databases
+## 57.4 Time Series Databases
 
-> 📖 *Curated Learning Guide:* [Time Series Databases — Study Guide, Courses & Repositories](57-AI-Databases/Time-Series-Databases.md)
+> 📖 *Curated Learning Guide:* [57.4 Time Series Databases — Study Guide, Courses & Repositories](57-AI-Databases/Time-Series-Databases.md)
 
 
 * [InfluxDB](https://github.com/influxdata/influxdb) — Time series database.
@@ -3429,18 +3450,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Document AI
+# 58. Document AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Document AI — Domain Overview & Roadmap**](58-Document-AI/README.md)
-> - [OCR & Text Extraction](58-Document-AI/OCR-and-Text-Extraction.md)
-> - [Document Understanding & Conversion](58-Document-AI/Document-Understanding-and-Conversion.md)
-> - [PDF Processing](58-Document-AI/PDF-Processing.md)
+> - [58.1 OCR & Text Extraction](58-Document-AI/OCR-and-Text-Extraction.md)
+> - [58.2 Document Understanding & Conversion](58-Document-AI/Document-Understanding-and-Conversion.md)
+> - [58.3 PDF Processing](58-Document-AI/PDF-Processing.md)
 
 
-## OCR & Text Extraction
+## 58.1 OCR & Text Extraction
 
-> 📖 *Curated Learning Guide:* [OCR & Text Extraction — Study Guide, Courses & Repositories](58-Document-AI/OCR-and-Text-Extraction.md)
+> 📖 *Curated Learning Guide:* [58.1 OCR & Text Extraction — Study Guide, Courses & Repositories](58-Document-AI/OCR-and-Text-Extraction.md)
 
 
 * [Tesseract](https://github.com/tesseract-ocr/tesseract) — Open-source OCR engine.
@@ -3449,9 +3470,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Surya](https://github.com/datalab-to/surya) — OCR, layout detection, table recognition.
 * [docTR](https://github.com/mindee/doctr) — Deep learning document text recognition.
 
-## Document Understanding & Conversion
+## 58.2 Document Understanding & Conversion
 
-> 📖 *Curated Learning Guide:* [Document Understanding & Conversion — Study Guide, Courses & Repositories](58-Document-AI/Document-Understanding-and-Conversion.md)
+> 📖 *Curated Learning Guide:* [58.2 Document Understanding & Conversion — Study Guide, Courses & Repositories](58-Document-AI/Document-Understanding-and-Conversion.md)
 
 
 * [Docling](https://github.com/docling-project/docling) — Converts PDFs, DOCX, etc. to Markdown/JSON.
@@ -3464,9 +3485,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Camelot](https://github.com/camelot-dev/camelot) — PDF table extraction.
 * [Tabula](https://github.com/tabulapdf/tabula-java) — Extracting tables from PDFs.
 
-## PDF Processing
+## 58.3 PDF Processing
 
-> 📖 *Curated Learning Guide:* [PDF Processing — Study Guide, Courses & Repositories](58-Document-AI/PDF-Processing.md)
+> 📖 *Curated Learning Guide:* [58.3 PDF Processing — Study Guide, Courses & Repositories](58-Document-AI/PDF-Processing.md)
 
 
 * [PyMuPDF](https://github.com/pymupdf/PyMuPDF) — High-performance PDF/document processing.
@@ -3476,18 +3497,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Conversational AI
+# 59. Conversational AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Conversational AI — Domain Overview & Roadmap**](59-Conversational-AI/README.md)
-> - [Chatbot Frameworks](59-Conversational-AI/Chatbot-Frameworks.md)
-> - [Voice Agents & Real-Time AI](59-Conversational-AI/Voice-Agents-and-Real-Time-AI.md)
-> - [Dialogue Management](59-Conversational-AI/Dialogue-Management.md)
+> - [59.1 Chatbot Frameworks](59-Conversational-AI/Chatbot-Frameworks.md)
+> - [59.2 Voice Agents & Real-Time AI](59-Conversational-AI/Voice-Agents-and-Real-Time-AI.md)
+> - [59.3 Dialogue Management](59-Conversational-AI/Dialogue-Management.md)
 
 
-## Chatbot Frameworks
+## 59.1 Chatbot Frameworks
 
-> 📖 *Curated Learning Guide:* [Chatbot Frameworks — Study Guide, Courses & Repositories](59-Conversational-AI/Chatbot-Frameworks.md)
+> 📖 *Curated Learning Guide:* [59.1 Chatbot Frameworks — Study Guide, Courses & Repositories](59-Conversational-AI/Chatbot-Frameworks.md)
 
 
 * [Rasa](https://github.com/RasaHQ/rasa) — Open-source conversational AI framework.
@@ -3498,9 +3519,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Flowise](https://github.com/FlowiseAI/Flowise) — Drag-and-drop LLM chatbot builder.
 * [Langflow](https://github.com/langflow-ai/langflow) — Visual framework for multi-agent AI apps.
 
-## Voice Agents & Real-Time AI
+## 59.2 Voice Agents & Real-Time AI
 
-> 📖 *Curated Learning Guide:* [Voice Agents & Real-Time AI — Study Guide, Courses & Repositories](59-Conversational-AI/Voice-Agents-and-Real-Time-AI.md)
+> 📖 *Curated Learning Guide:* [59.2 Voice Agents & Real-Time AI — Study Guide, Courses & Repositories](59-Conversational-AI/Voice-Agents-and-Real-Time-AI.md)
 
 
 * [LiveKit Agents](https://github.com/livekit/agents) — Build real-time multimodal AI agents.
@@ -3509,9 +3530,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Retell AI](https://github.com/RetellAI) — Build conversational voice AI.
 * [bolna](https://github.com/bolna-ai/bolna) — Production-ready voice AI agents.
 
-## Dialogue Management
+## 59.3 Dialogue Management
 
-> 📖 *Curated Learning Guide:* [Dialogue Management — Study Guide, Courses & Repositories](59-Conversational-AI/Dialogue-Management.md)
+> 📖 *Curated Learning Guide:* [59.3 Dialogue Management — Study Guide, Courses & Repositories](59-Conversational-AI/Dialogue-Management.md)
 
 
 * [Rasa](https://github.com/RasaHQ/rasa) — ML-first dialogue management.
@@ -3520,18 +3541,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Search & Research Agents
+# 60. AI Search & Research Agents
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Search & Research Agents — Domain Overview & Roadmap**](60-AI-Search-and-Research-Agents/README.md)
-> - [Deep Research](60-AI-Search-and-Research-Agents/Deep-Research.md)
-> - [Web Research & Search](60-AI-Search-and-Research-Agents/Web-Research-and-Search.md)
-> - [Knowledge Synthesis](60-AI-Search-and-Research-Agents/Knowledge-Synthesis.md)
+> - [60.1 Deep Research](60-AI-Search-and-Research-Agents/Deep-Research.md)
+> - [60.2 Web Research & Search](60-AI-Search-and-Research-Agents/Web-Research-and-Search.md)
+> - [60.3 Knowledge Synthesis](60-AI-Search-and-Research-Agents/Knowledge-Synthesis.md)
 
 
-## Deep Research
+## 60.1 Deep Research
 
-> 📖 *Curated Learning Guide:* [Deep Research — Study Guide, Courses & Repositories](60-AI-Search-and-Research-Agents/Deep-Research.md)
+> 📖 *Curated Learning Guide:* [60.1 Deep Research — Study Guide, Courses & Repositories](60-AI-Search-and-Research-Agents/Deep-Research.md)
 
 
 * [STORM](https://github.com/stanford-oval/storm) — Automated research and article generation.
@@ -3540,9 +3561,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Tavily](https://github.com/tavily-ai/tavily-python) — Search API optimized for AI agents.
 * [AI Scientist](https://github.com/SakanaAI/AI-Scientist) — Fully automated scientific discovery agent.
 
-## Web Research & Search
+## 60.2 Web Research & Search
 
-> 📖 *Curated Learning Guide:* [Web Research & Search — Study Guide, Courses & Repositories](60-AI-Search-and-Research-Agents/Web-Research-and-Search.md)
+> 📖 *Curated Learning Guide:* [60.2 Web Research & Search — Study Guide, Courses & Repositories](60-AI-Search-and-Research-Agents/Web-Research-and-Search.md)
 
 
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) — Open-source AI-powered search engine.
@@ -3552,9 +3573,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Khoj](https://github.com/khoj-ai/khoj) — AI-powered research and search assistant.
 * [MindSearch](https://github.com/InternLM/MindSearch) — Multi-agent framework for web search.
 
-## Knowledge Synthesis
+## 60.3 Knowledge Synthesis
 
-> 📖 *Curated Learning Guide:* [Knowledge Synthesis — Study Guide, Courses & Repositories](60-AI-Search-and-Research-Agents/Knowledge-Synthesis.md)
+> 📖 *Curated Learning Guide:* [60.3 Knowledge Synthesis — Study Guide, Courses & Repositories](60-AI-Search-and-Research-Agents/Knowledge-Synthesis.md)
 
 
 * [STORM](https://github.com/stanford-oval/storm) — Knowledge synthesis from web research.
@@ -3563,18 +3584,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Human-AI Interaction
+# 61. Human-AI Interaction
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Human-AI Interaction — Domain Overview & Roadmap**](61-Human-AI-Interaction/README.md)
-> - [AI Chat Interfaces](61-Human-AI-Interaction/AI-Chat-Interfaces.md)
-> - [Human-in-the-Loop](61-Human-AI-Interaction/Human-in-the-Loop.md)
-> - [AI Assistants & Copilots](61-Human-AI-Interaction/AI-Assistants-and-Copilots.md)
+> - [61.1 AI Chat Interfaces](61-Human-AI-Interaction/AI-Chat-Interfaces.md)
+> - [61.2 Human-in-the-Loop](61-Human-AI-Interaction/Human-in-the-Loop.md)
+> - [61.3 AI Assistants & Copilots](61-Human-AI-Interaction/AI-Assistants-and-Copilots.md)
 
 
-## AI Chat Interfaces
+## 61.1 AI Chat Interfaces
 
-> 📖 *Curated Learning Guide:* [AI Chat Interfaces — Study Guide, Courses & Repositories](61-Human-AI-Interaction/AI-Chat-Interfaces.md)
+> 📖 *Curated Learning Guide:* [61.1 AI Chat Interfaces — Study Guide, Courses & Repositories](61-Human-AI-Interaction/AI-Chat-Interfaces.md)
 
 
 * [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted AI chat platform.
@@ -3584,9 +3605,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [HuggingChat](https://github.com/huggingface/chat-ui) — Hugging Face's open chat interface.
 * [Chainlit](https://github.com/Chainlit/chainlit) — Build Python LLM chat apps.
 
-## Human-in-the-Loop
+## 61.2 Human-in-the-Loop
 
-> 📖 *Curated Learning Guide:* [Human-in-the-Loop — Study Guide, Courses & Repositories](61-Human-AI-Interaction/Human-in-the-Loop.md)
+> 📖 *Curated Learning Guide:* [61.2 Human-in-the-Loop — Study Guide, Courses & Repositories](61-Human-AI-Interaction/Human-in-the-Loop.md)
 
 
 * [Label Studio](https://github.com/HumanSignal/label-studio) — Human data annotation platform.
@@ -3594,9 +3615,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Prodigy](https://github.com/explosion/prodigy-recipes) — Efficient annotation with active learning.
 * [Surge AI](https://github.com/surge-ai) — Data labeling for AI training.
 
-## AI Assistants & Copilots
+## 61.3 AI Assistants & Copilots
 
-> 📖 *Curated Learning Guide:* [AI Assistants & Copilots — Study Guide, Courses & Repositories](61-Human-AI-Interaction/AI-Assistants-and-Copilots.md)
+> 📖 *Curated Learning Guide:* [61.3 AI Assistants & Copilots — Study Guide, Courses & Repositories](61-Human-AI-Interaction/AI-Assistants-and-Copilots.md)
 
 
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) — Code-executing AI assistant.
@@ -3606,19 +3627,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI for Games
+# 62. AI for Games
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI for Games — Domain Overview & Roadmap**](62-AI-for-Games/README.md)
-> - [Game AI Frameworks](62-AI-for-Games/Game-AI-Frameworks.md)
-> - [Game Generation & Procedural Content](62-AI-for-Games/Game-Generation-and-Procedural-Content.md)
-> - [Game Playing AI](62-AI-for-Games/Game-Playing-AI.md)
-> - [NPC & Character AI](62-AI-for-Games/NPC-and-Character-AI.md)
+> - [62.1 Game AI Frameworks](62-AI-for-Games/Game-AI-Frameworks.md)
+> - [62.2 Game Generation & Procedural Content](62-AI-for-Games/Game-Generation-and-Procedural-Content.md)
+> - [62.3 Game Playing AI](62-AI-for-Games/Game-Playing-AI.md)
+> - [62.4 NPC & Character AI](62-AI-for-Games/NPC-and-Character-AI.md)
 
 
-## Game AI Frameworks
+## 62.1 Game AI Frameworks
 
-> 📖 *Curated Learning Guide:* [Game AI Frameworks — Study Guide, Courses & Repositories](62-AI-for-Games/Game-AI-Frameworks.md)
+> 📖 *Curated Learning Guide:* [62.1 Game AI Frameworks — Study Guide, Courses & Repositories](62-AI-for-Games/Game-AI-Frameworks.md)
 
 
 * [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents) — Train game-playing agents with RL.
@@ -3626,9 +3647,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Griddly](https://github.com/Bam4d/Griddly) — Grid-world game engine for AI research.
 * [DeepMind Lab](https://github.com/google-deepmind/lab) — 3D learning environment.
 
-## Game Generation & Procedural Content
+## 62.2 Game Generation & Procedural Content
 
-> 📖 *Curated Learning Guide:* [Game Generation & Procedural Content — Study Guide, Courses & Repositories](62-AI-for-Games/Game-Generation-and-Procedural-Content.md)
+> 📖 *Curated Learning Guide:* [62.2 Game Generation & Procedural Content — Study Guide, Courses & Repositories](62-AI-for-Games/Game-Generation-and-Procedural-Content.md)
 
 
 * [Procgen](https://github.com/openai/procgen) — Procedurally generated RL environments.
@@ -3636,9 +3657,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Voyager](https://github.com/MineDojo/Voyager) — Lifelong learning agent in Minecraft.
 * [GVGAI](https://github.com/GAIGResearch/GVGAI) — General video game AI framework.
 
-## Game Playing AI
+## 62.3 Game Playing AI
 
-> 📖 *Curated Learning Guide:* [Game Playing AI — Study Guide, Courses & Repositories](62-AI-for-Games/Game-Playing-AI.md)
+> 📖 *Curated Learning Guide:* [62.3 Game Playing AI — Study Guide, Courses & Repositories](62-AI-for-Games/Game-Playing-AI.md)
 
 
 * [MuZero](https://github.com/google-deepmind/mctx) — Planning algorithms used in MuZero.
@@ -3646,9 +3667,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [PySC2](https://github.com/google-deepmind/pysc2) — StarCraft II learning environment.
 * [PokerRL](https://github.com/TinkeringCode/PokerRL) — RL for poker.
 
-## NPC & Character AI
+## 62.4 NPC & Character AI
 
-> 📖 *Curated Learning Guide:* [NPC & Character AI — Study Guide, Courses & Repositories](62-AI-for-Games/NPC-and-Character-AI.md)
+> 📖 *Curated Learning Guide:* [62.4 NPC & Character AI — Study Guide, Courses & Repositories](62-AI-for-Games/NPC-and-Character-AI.md)
 
 
 * [Inworld AI](https://github.com/inworld-ai) — AI-powered NPCs.
@@ -3656,18 +3677,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Automation
+# 63. AI Automation
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Automation — Domain Overview & Roadmap**](63-AI-Automation/README.md)
-> - [Workflow Automation](63-AI-Automation/Workflow-Automation.md)
-> - [AI-Powered Automation](63-AI-Automation/AI-Powered-Automation.md)
-> - [RPA (Robotic Process Automation)](63-AI-Automation/RPA-Robotic-Process-Automation.md)
+> - [63.1 Workflow Automation](63-AI-Automation/Workflow-Automation.md)
+> - [63.2 AI-Powered Automation](63-AI-Automation/AI-Powered-Automation.md)
+> - [63.3 RPA (Robotic Process Automation)](63-AI-Automation/RPA-Robotic-Process-Automation.md)
 
 
-## Workflow Automation
+## 63.1 Workflow Automation
 
-> 📖 *Curated Learning Guide:* [Workflow Automation — Study Guide, Courses & Repositories](63-AI-Automation/Workflow-Automation.md)
+> 📖 *Curated Learning Guide:* [63.1 Workflow Automation — Study Guide, Courses & Repositories](63-AI-Automation/Workflow-Automation.md)
 
 
 * [n8n](https://github.com/n8n-io/n8n) — Fair-source workflow automation.
@@ -3677,9 +3698,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Huginn](https://github.com/huginn/huginn) — Build agents that monitor and act on your behalf.
 * [Zapier Platform](https://github.com/zapier/zapier-platform) — Automation platform SDK.
 
-## AI-Powered Automation
+## 63.2 AI-Powered Automation
 
-> 📖 *Curated Learning Guide:* [AI-Powered Automation — Study Guide, Courses & Repositories](63-AI-Automation/AI-Powered-Automation.md)
+> 📖 *Curated Learning Guide:* [63.2 AI-Powered Automation — Study Guide, Courses & Repositories](63-AI-Automation/AI-Powered-Automation.md)
 
 
 * [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Autonomous AI agent platform.
@@ -3689,9 +3710,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Flowise](https://github.com/FlowiseAI/Flowise) — Low-code LLM app builder.
 * [Langflow](https://github.com/langflow-ai/langflow) — Visual framework for multi-agent and RAG apps.
 
-## RPA (Robotic Process Automation)
+## 63.3 RPA (Robotic Process Automation)
 
-> 📖 *Curated Learning Guide:* [RPA (Robotic Process Automation) — Study Guide, Courses & Repositories](63-AI-Automation/RPA-Robotic-Process-Automation.md)
+> 📖 *Curated Learning Guide:* [63.3 RPA (Robotic Process Automation) — Study Guide, Courses & Repositories](63-AI-Automation/RPA-Robotic-Process-Automation.md)
 
 
 * [TagUI](https://github.com/kelaberetiv/TagUI) — Free RPA / CLI tool for process automation.
@@ -3700,19 +3721,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Emerging AI
+# 64. Emerging AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Emerging AI — Domain Overview & Roadmap**](64-Emerging-AI/README.md)
-> - [Reasoning & Chain-of-Thought](64-Emerging-AI/Reasoning-and-Chain-of-Thought.md)
-> - [Self-Improving Agents](64-Emerging-AI/Self-Improving-Agents.md)
-> - [Embodied AI](64-Emerging-AI/Embodied-AI.md)
-> - [Agentic OS & Platforms](64-Emerging-AI/Agentic-OS-and-Platforms.md)
+> - [64.1 Reasoning & Chain-of-Thought](64-Emerging-AI/Reasoning-and-Chain-of-Thought.md)
+> - [64.2 Self-Improving Agents](64-Emerging-AI/Self-Improving-Agents.md)
+> - [64.3 Embodied AI](64-Emerging-AI/Embodied-AI.md)
+> - [64.4 Agentic OS & Platforms](64-Emerging-AI/Agentic-OS-and-Platforms.md)
 
 
-## Reasoning & Chain-of-Thought
+## 64.1 Reasoning & Chain-of-Thought
 
-> 📖 *Curated Learning Guide:* [Reasoning & Chain-of-Thought — Study Guide, Courses & Repositories](64-Emerging-AI/Reasoning-and-Chain-of-Thought.md)
+> 📖 *Curated Learning Guide:* [64.1 Reasoning & Chain-of-Thought — Study Guide, Courses & Repositories](64-Emerging-AI/Reasoning-and-Chain-of-Thought.md)
 
 
 * [Open-R1](https://github.com/huggingface/open-r1) — Open reproduction of DeepSeek R1.
@@ -3722,9 +3743,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Marco-o1](https://github.com/AIDC-AI/Marco-o1) — Reasoning with open LLMs.
 * [Bespoke-Minicheck](https://github.com/Liyan06/MiniCheck) — Fact-checking reasoning.
 
-## Self-Improving Agents
+## 64.2 Self-Improving Agents
 
-> 📖 *Curated Learning Guide:* [Self-Improving Agents — Study Guide, Courses & Repositories](64-Emerging-AI/Self-Improving-Agents.md)
+> 📖 *Curated Learning Guide:* [64.2 Self-Improving Agents — Study Guide, Courses & Repositories](64-Emerging-AI/Self-Improving-Agents.md)
 
 
 * [OpenHands](https://github.com/OpenHands/OpenHands) — Agents that write and improve their own code.
@@ -3732,9 +3753,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Voyager](https://github.com/MineDojo/Voyager) — LLM-powered lifelong learning agent.
 * [LATS](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Language agent tree search.
 
-## Embodied AI
+## 64.3 Embodied AI
 
-> 📖 *Curated Learning Guide:* [Embodied AI — Study Guide, Courses & Repositories](64-Emerging-AI/Embodied-AI.md)
+> 📖 *Curated Learning Guide:* [64.3 Embodied AI — Study Guide, Courses & Repositories](64-Emerging-AI/Embodied-AI.md)
 
 
 * [LeRobot](https://github.com/huggingface/lerobot) — ML for real-world robotics.
@@ -3743,9 +3764,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Habitat](https://github.com/facebookresearch/habitat-sim) — Embodied AI simulation.
 * [ALOHA](https://github.com/tonyzhaozh/aloha) — Low-cost bimanual teleoperation.
 
-## Agentic OS & Platforms
+## 64.4 Agentic OS & Platforms
 
-> 📖 *Curated Learning Guide:* [Agentic OS & Platforms — Study Guide, Courses & Repositories](64-Emerging-AI/Agentic-OS-and-Platforms.md)
+> 📖 *Curated Learning Guide:* [64.4 Agentic OS & Platforms — Study Guide, Courses & Repositories](64-Emerging-AI/Agentic-OS-and-Platforms.md)
 
 
 * [Dify](https://github.com/langgenius/dify) — LLMOps platform for building AI apps.
@@ -3755,20 +3776,20 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Research Implementations
+# 65. AI Research Implementations
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Research Implementations — Domain Overview & Roadmap**](65-AI-Research-Implementations/README.md)
-> - [Transformer Implementations](65-AI-Research-Implementations/Transformer-Implementations.md)
-> - [Diffusion Implementations](65-AI-Research-Implementations/Diffusion-Implementations.md)
-> - [Reinforcement Learning Implementations](65-AI-Research-Implementations/Reinforcement-Learning-Implementations.md)
-> - [Self-Supervised Learning](65-AI-Research-Implementations/Self-Supervised-Learning.md)
-> - [State Space Models](65-AI-Research-Implementations/State-Space-Models.md)
+> - [65.1 Transformer Implementations](65-AI-Research-Implementations/Transformer-Implementations.md)
+> - [65.2 Diffusion Implementations](65-AI-Research-Implementations/Diffusion-Implementations.md)
+> - [65.3 Reinforcement Learning Implementations](65-AI-Research-Implementations/Reinforcement-Learning-Implementations.md)
+> - [65.4 Self-Supervised Learning](65-AI-Research-Implementations/Self-Supervised-Learning.md)
+> - [65.5 State Space Models](65-AI-Research-Implementations/State-Space-Models.md)
 
 
-## Transformer Implementations
+## 65.1 Transformer Implementations
 
-> 📖 *Curated Learning Guide:* [Transformer Implementations — Study Guide, Courses & Repositories](65-AI-Research-Implementations/Transformer-Implementations.md)
+> 📖 *Curated Learning Guide:* [65.1 Transformer Implementations — Study Guide, Courses & Repositories](65-AI-Research-Implementations/Transformer-Implementations.md)
 
 
 * [nanoGPT](https://github.com/karpathy/nanoGPT) — Simplest, fastest GPT training code.
@@ -3779,9 +3800,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [annotated-transformer](https://github.com/harvardnlp/annotated-transformer) — "Attention is All You Need" annotated.
 * [minbpe](https://github.com/karpathy/minbpe) — Minimal BPE tokenizer implementation.
 
-## Diffusion Implementations
+## 65.2 Diffusion Implementations
 
-> 📖 *Curated Learning Guide:* [Diffusion Implementations — Study Guide, Courses & Repositories](65-AI-Research-Implementations/Diffusion-Implementations.md)
+> 📖 *Curated Learning Guide:* [65.2 Diffusion Implementations — Study Guide, Courses & Repositories](65-AI-Research-Implementations/Diffusion-Implementations.md)
 
 
 * [Denoising Diffusion](https://github.com/lucidrains/denoising-diffusion-pytorch) — Diffusion model implementation.
@@ -3789,18 +3810,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [guided-diffusion](https://github.com/openai/guided-diffusion) — OpenAI's classifier-guided diffusion.
 * [DDPM](https://github.com/hojonathanho/diffusion) — Original DDPM implementation.
 
-## Reinforcement Learning Implementations
+## 65.3 Reinforcement Learning Implementations
 
-> 📖 *Curated Learning Guide:* [Reinforcement Learning Implementations — Study Guide, Courses & Repositories](65-AI-Research-Implementations/Reinforcement-Learning-Implementations.md)
+> 📖 *Curated Learning Guide:* [65.3 Reinforcement Learning Implementations — Study Guide, Courses & Repositories](65-AI-Research-Implementations/Reinforcement-Learning-Implementations.md)
 
 
 * [CleanRL](https://github.com/vwxyzjn/cleanrl) — Single-file RL implementations.
 * [Spinning Up](https://github.com/openai/spinningup) — Deep RL educational resource by OpenAI.
 * [rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo) — Training framework using SB3.
 
-## Self-Supervised Learning
+## 65.4 Self-Supervised Learning
 
-> 📖 *Curated Learning Guide:* [Self-Supervised Learning — Study Guide, Courses & Repositories](65-AI-Research-Implementations/Self-Supervised-Learning.md)
+> 📖 *Curated Learning Guide:* [65.4 Self-Supervised Learning — Study Guide, Courses & Repositories](65-AI-Research-Implementations/Self-Supervised-Learning.md)
 
 
 * [DINO v2](https://github.com/facebookresearch/dinov2) — Self-supervised vision transformers.
@@ -3809,9 +3830,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [BYOL](https://github.com/deepmind/deepmind-research) — Bootstrap your own latent.
 * [VICReg](https://github.com/facebookresearch/vicreg) — Variance-invariance-covariance regularization.
 
-## State Space Models
+## 65.5 State Space Models
 
-> 📖 *Curated Learning Guide:* [State Space Models — Study Guide, Courses & Repositories](65-AI-Research-Implementations/State-Space-Models.md)
+> 📖 *Curated Learning Guide:* [65.5 State Space Models — Study Guide, Courses & Repositories](65-AI-Research-Implementations/State-Space-Models.md)
 
 
 * [Mamba](https://github.com/state-spaces/mamba) — Linear-time sequence modeling.
@@ -3821,21 +3842,21 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Learning Repositories
+# 66. AI Learning Repositories
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Learning Repositories — Domain Overview & Roadmap**](66-AI-Learning-Repositories/README.md)
-> - [Machine Learning Courses](66-AI-Learning-Repositories/Machine-Learning-Courses.md)
-> - [Deep Learning Courses](66-AI-Learning-Repositories/Deep-Learning-Courses.md)
-> - [LLM Courses](66-AI-Learning-Repositories/LLM-Courses.md)
-> - [AI Agents Courses](66-AI-Learning-Repositories/AI-Agents-Courses.md)
-> - [Generative AI Courses](66-AI-Learning-Repositories/Generative-AI-Courses.md)
-> - [Awesome Lists](66-AI-Learning-Repositories/Awesome-Lists.md)
+> - [66.1 Machine Learning Courses](66-AI-Learning-Repositories/Machine-Learning-Courses.md)
+> - [66.2 Deep Learning Courses](66-AI-Learning-Repositories/Deep-Learning-Courses.md)
+> - [66.3 LLM Courses](66-AI-Learning-Repositories/LLM-Courses.md)
+> - [66.4 AI Agents Courses](66-AI-Learning-Repositories/AI-Agents-Courses.md)
+> - [66.5 Generative AI Courses](66-AI-Learning-Repositories/Generative-AI-Courses.md)
+> - [66.6 Awesome Lists](66-AI-Learning-Repositories/Awesome-Lists.md)
 
 
-## Machine Learning Courses
+## 66.1 Machine Learning Courses
 
-> 📖 *Curated Learning Guide:* [Machine Learning Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/Machine-Learning-Courses.md)
+> 📖 *Curated Learning Guide:* [66.1 Machine Learning Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/Machine-Learning-Courses.md)
 
 
 * [Machine Learning Roadmap](https://github.com/alirezadir/Machine-Learning-Interviews) — Complete ML roadmap.
@@ -3846,9 +3867,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) — Curated ML video courses.
 * [Mathematics for ML](https://github.com/mml-book/mml-book.github.io) — Math foundations for ML.
 
-## Deep Learning Courses
+## 66.2 Deep Learning Courses
 
-> 📖 *Curated Learning Guide:* [Deep Learning Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/Deep-Learning-Courses.md)
+> 📖 *Curated Learning Guide:* [66.2 Deep Learning Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/Deep-Learning-Courses.md)
 
 
 * [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en) — Interactive deep learning book.
@@ -3858,9 +3879,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Practical Deep Learning](https://github.com/fastai/fastbook) — Fast.ai course book.
 * [MIT Deep Learning](https://github.com/lexfridman/mit-deep-learning) — Tutorials by Lex Fridman.
 
-## LLM Courses
+## 66.3 LLM Courses
 
-> 📖 *Curated Learning Guide:* [LLM Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/LLM-Courses.md)
+> 📖 *Curated Learning Guide:* [66.3 LLM Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/LLM-Courses.md)
 
 
 * [LLM Course](https://github.com/mlabonne/llm-course) — Comprehensive LLM course and roadmap.
@@ -3869,27 +3890,27 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) — Free LLM engineering course.
 * [LLM Twin](https://github.com/decodingml/llm-twin-course) — Build your LLM twin.
 
-## AI Agents Courses
+## 66.4 AI Agents Courses
 
-> 📖 *Curated Learning Guide:* [AI Agents Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/AI-Agents-Courses.md)
+> 📖 *Curated Learning Guide:* [66.4 AI Agents Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/AI-Agents-Courses.md)
 
 
 * [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) — 10-lesson agent course by Microsoft.
 * [Multi AI Agent Systems](https://github.com/crewAIInc/crewAI) — Learn multi-agent orchestration.
 * [LangGraph Tutorial](https://github.com/langchain-ai/langgraph) — Agent workflow tutorials.
 
-## Generative AI Courses
+## 66.5 Generative AI Courses
 
-> 📖 *Curated Learning Guide:* [Generative AI Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/Generative-AI-Courses.md)
+> 📖 *Curated Learning Guide:* [66.5 Generative AI Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/Generative-AI-Courses.md)
 
 
 * [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) — 21-lesson course by Microsoft.
 * [Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) — Hugging Face diffusion course.
 * [GANs Specialization](https://github.com/amanchadha/coursera-deep-learning-specialization) — GAN implementations.
 
-## Awesome Lists
+## 66.6 Awesome Lists
 
-> 📖 *Curated Learning Guide:* [Awesome Lists — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/Awesome-Lists.md)
+> 📖 *Curated Learning Guide:* [66.6 Awesome Lists — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/Awesome-Lists.md)
 
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) — Curated ML framework list.
@@ -3903,27 +3924,27 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Research Organizations
+# 67. AI Research Organizations
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Research Organizations — Domain Overview & Roadmap**](67-AI-Research-Organizations/README.md)
-> - [Google](67-AI-Research-Organizations/Google.md)
-> - [Meta AI](67-AI-Research-Organizations/Meta-AI.md)
-> - [Microsoft Research](67-AI-Research-Organizations/Microsoft-Research.md)
-> - [NVIDIA](67-AI-Research-Organizations/NVIDIA.md)
-> - [Hugging Face](67-AI-Research-Organizations/Hugging-Face.md)
-> - [OpenAI](67-AI-Research-Organizations/OpenAI.md)
-> - [Anthropic](67-AI-Research-Organizations/Anthropic.md)
-> - [Stanford](67-AI-Research-Organizations/Stanford.md)
-> - [EleutherAI](67-AI-Research-Organizations/EleutherAI.md)
-> - [Allen AI (AI2)](67-AI-Research-Organizations/Allen-AI-AI2.md)
-> - [LAION](67-AI-Research-Organizations/LAION.md)
-> - [Chinese AI Labs](67-AI-Research-Organizations/Chinese-AI-Labs.md)
+> - [67.1 Google](67-AI-Research-Organizations/Google.md)
+> - [67.2 Meta AI](67-AI-Research-Organizations/Meta-AI.md)
+> - [67.3 Microsoft Research](67-AI-Research-Organizations/Microsoft-Research.md)
+> - [67.4 NVIDIA](67-AI-Research-Organizations/NVIDIA.md)
+> - [67.5 Hugging Face](67-AI-Research-Organizations/Hugging-Face.md)
+> - [67.6 OpenAI](67-AI-Research-Organizations/OpenAI.md)
+> - [67.7 Anthropic](67-AI-Research-Organizations/Anthropic.md)
+> - [67.8 Stanford](67-AI-Research-Organizations/Stanford.md)
+> - [67.9 EleutherAI](67-AI-Research-Organizations/EleutherAI.md)
+> - [67.10 Allen AI (AI2)](67-AI-Research-Organizations/Allen-AI-AI2.md)
+> - [67.11 LAION](67-AI-Research-Organizations/LAION.md)
+> - [67.12 Chinese AI Labs](67-AI-Research-Organizations/Chinese-AI-Labs.md)
 
 
-## Google
+## 67.1 Google
 
-> 📖 *Curated Learning Guide:* [Google — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Google.md)
+> 📖 *Curated Learning Guide:* [67.1 Google — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Google.md)
 
 
 * [Google Research](https://github.com/google-research) — Research publications and tools.
@@ -3931,86 +3952,86 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Google AI Edge](https://github.com/google-ai-edge) — On-device ML by Google.
 * [Google Brain](https://github.com/google) — Core ML research.
 
-## Meta AI
+## 67.2 Meta AI
 
-> 📖 *Curated Learning Guide:* [Meta AI — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Meta-AI.md)
+> 📖 *Curated Learning Guide:* [67.2 Meta AI — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Meta-AI.md)
 
 
 * [Meta AI Research (FAIR)](https://github.com/facebookresearch) — Fundamental AI research.
 * [Meta Llama](https://github.com/meta-llama) — Llama model family.
 
-## Microsoft Research
+## 67.3 Microsoft Research
 
-> 📖 *Curated Learning Guide:* [Microsoft Research — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Microsoft-Research.md)
+> 📖 *Curated Learning Guide:* [67.3 Microsoft Research — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Microsoft-Research.md)
 
 
 * [Microsoft Research](https://github.com/microsoft) — AI and systems research.
 * [Microsoft DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — Distributed training optimization.
 * [Microsoft AI](https://github.com/Azure) — Azure AI services.
 
-## NVIDIA
+## 67.4 NVIDIA
 
-> 📖 *Curated Learning Guide:* [NVIDIA — Study Guide, Courses & Repositories](67-AI-Research-Organizations/NVIDIA.md)
+> 📖 *Curated Learning Guide:* [67.4 NVIDIA — Study Guide, Courses & Repositories](67-AI-Research-Organizations/NVIDIA.md)
 
 
 * [NVIDIA](https://github.com/NVIDIA) — GPU computing and AI.
 * [NVIDIA Research](https://github.com/NVlabs) — NVIDIA's research projects.
 * [NVIDIA Isaac](https://github.com/NVIDIA-ISAAC-ROS) — Robotics ecosystem.
 
-## Hugging Face
+## 67.5 Hugging Face
 
-> 📖 *Curated Learning Guide:* [Hugging Face — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Hugging-Face.md)
+> 📖 *Curated Learning Guide:* [67.5 Hugging Face — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Hugging-Face.md)
 
 
 * [Hugging Face](https://github.com/huggingface) — The AI community building the future.
 
-## OpenAI
+## 67.6 OpenAI
 
-> 📖 *Curated Learning Guide:* [OpenAI — Study Guide, Courses & Repositories](67-AI-Research-Organizations/OpenAI.md)
+> 📖 *Curated Learning Guide:* [67.6 OpenAI — Study Guide, Courses & Repositories](67-AI-Research-Organizations/OpenAI.md)
 
 
 * [OpenAI](https://github.com/openai) — AI research and deployment.
 
-## Anthropic
+## 67.7 Anthropic
 
-> 📖 *Curated Learning Guide:* [Anthropic — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Anthropic.md)
+> 📖 *Curated Learning Guide:* [67.7 Anthropic — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Anthropic.md)
 
 
 * [Anthropic](https://github.com/anthropics) — AI safety company.
 
-## Stanford
+## 67.8 Stanford
 
-> 📖 *Curated Learning Guide:* [Stanford — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Stanford.md)
+> 📖 *Curated Learning Guide:* [67.8 Stanford — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Stanford.md)
 
 
 * [Stanford NLP](https://github.com/stanfordnlp) — Stanford NLP Group.
 * [Stanford CRFM](https://github.com/stanford-crfm) — Center for Research on Foundation Models.
 * [Stanford AI Lab](https://github.com/StanfordVL) — Stanford Vision and Learning Lab.
 
-## EleutherAI
+## 67.9 EleutherAI
 
-> 📖 *Curated Learning Guide:* [EleutherAI — Study Guide, Courses & Repositories](67-AI-Research-Organizations/EleutherAI.md)
+> 📖 *Curated Learning Guide:* [67.9 EleutherAI — Study Guide, Courses & Repositories](67-AI-Research-Organizations/EleutherAI.md)
 
 
 * [EleutherAI](https://github.com/EleutherAI) — Open-source AI research non-profit.
 
-## Allen AI (AI2)
+## 67.10 Allen AI (AI2)
 
-> 📖 *Curated Learning Guide:* [Allen AI (AI2) — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Allen-AI-AI2.md)
+> 📖 *Curated Learning Guide:* [67.10 Allen AI (AI2) — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Allen-AI-AI2.md)
 
 
 * [Allen AI](https://github.com/allenai) — AI for the common good.
 
-## LAION
+## 67.11 LAION
 
-> 📖 *Curated Learning Guide:* [LAION — Study Guide, Courses & Repositories](67-AI-Research-Organizations/LAION.md)
+> 📖 *Curated Learning Guide:* [67.11 LAION — Study Guide, Courses & Repositories](67-AI-Research-Organizations/LAION.md)
 
 
 * [LAION](https://github.com/LAION-AI) — Large-scale Artificial Intelligence Open Network.
 
-## Chinese AI Labs
+## 67.12 Chinese AI Labs
 
-> 📖 *Curated Learning Guide:* [Chinese AI Labs — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Chinese-AI-Labs.md)
+> 📖 *Curated Learning Guide:* [67.12 Chinese AI Labs — Study Guide, Courses & Repositories](67-AI-Research-Organizations/Chinese-AI-Labs.md)
 
 
 * [Tsinghua (THUDM)](https://github.com/THUDM) — Tsinghua's knowledge engineering group.
@@ -4022,18 +4043,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI APIs & SDKs
+# 68. AI APIs & SDKs
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI APIs & SDKs — Domain Overview & Roadmap**](68-AI-APIs-and-SDKs/README.md)
-> - [LLM Provider SDKs](68-AI-APIs-and-SDKs/LLM-Provider-SDKs.md)
-> - [Agent SDKs](68-AI-APIs-and-SDKs/Agent-SDKs.md)
-> - [Multi-Provider Gateways](68-AI-APIs-and-SDKs/Multi-Provider-Gateways.md)
+> - [68.1 LLM Provider SDKs](68-AI-APIs-and-SDKs/LLM-Provider-SDKs.md)
+> - [68.2 Agent SDKs](68-AI-APIs-and-SDKs/Agent-SDKs.md)
+> - [68.3 Multi-Provider Gateways](68-AI-APIs-and-SDKs/Multi-Provider-Gateways.md)
 
 
-## LLM Provider SDKs
+## 68.1 LLM Provider SDKs
 
-> 📖 *Curated Learning Guide:* [LLM Provider SDKs — Study Guide, Courses & Repositories](68-AI-APIs-and-SDKs/LLM-Provider-SDKs.md)
+> 📖 *Curated Learning Guide:* [68.1 LLM Provider SDKs — Study Guide, Courses & Repositories](68-AI-APIs-and-SDKs/LLM-Provider-SDKs.md)
 
 
 * [OpenAI Python](https://github.com/openai/openai-python) — Official OpenAI SDK.
@@ -4046,9 +4067,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Groq](https://github.com/groq/groq-python) — Groq API SDK.
 * [Replicate](https://github.com/replicate/replicate-python) — Replicate API SDK.
 
-## Agent SDKs
+## 68.2 Agent SDKs
 
-> 📖 *Curated Learning Guide:* [Agent SDKs — Study Guide, Courses & Repositories](68-AI-APIs-and-SDKs/Agent-SDKs.md)
+> 📖 *Curated Learning Guide:* [68.2 Agent SDKs — Study Guide, Courses & Repositories](68-AI-APIs-and-SDKs/Agent-SDKs.md)
 
 
 * [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) — Agent framework by OpenAI.
@@ -4057,9 +4078,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LangChain](https://github.com/langchain-ai/langchain) — LLM application framework.
 * [Vercel AI SDK](https://github.com/vercel/ai) — Build AI-powered apps with React.
 
-## Multi-Provider Gateways
+## 68.3 Multi-Provider Gateways
 
-> 📖 *Curated Learning Guide:* [Multi-Provider Gateways — Study Guide, Courses & Repositories](68-AI-APIs-and-SDKs/Multi-Provider-Gateways.md)
+> 📖 *Curated Learning Guide:* [68.3 Multi-Provider Gateways — Study Guide, Courses & Repositories](68-AI-APIs-and-SDKs/Multi-Provider-Gateways.md)
 
 
 * [LiteLLM](https://github.com/BerriAI/litellm) — Call 100+ LLMs with one interface.
@@ -4070,19 +4091,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Developer Tooling
+# 69. AI Developer Tooling
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Developer Tooling — Domain Overview & Roadmap**](69-AI-Developer-Tooling/README.md)
-> - [CLI Tools](69-AI-Developer-Tooling/CLI-Tools.md)
-> - [Development Environments](69-AI-Developer-Tooling/Development-Environments.md)
-> - [AI App Frameworks](69-AI-Developer-Tooling/AI-App-Frameworks.md)
-> - [Configuration & Experiment Management](69-AI-Developer-Tooling/Configuration-and-Experiment-Management.md)
+> - [69.1 CLI Tools](69-AI-Developer-Tooling/CLI-Tools.md)
+> - [69.2 Development Environments](69-AI-Developer-Tooling/Development-Environments.md)
+> - [69.3 AI App Frameworks](69-AI-Developer-Tooling/AI-App-Frameworks.md)
+> - [69.4 Configuration & Experiment Management](69-AI-Developer-Tooling/Configuration-and-Experiment-Management.md)
 
 
-## CLI Tools
+## 69.1 CLI Tools
 
-> 📖 *Curated Learning Guide:* [CLI Tools — Study Guide, Courses & Repositories](69-AI-Developer-Tooling/CLI-Tools.md)
+> 📖 *Curated Learning Guide:* [69.1 CLI Tools — Study Guide, Courses & Repositories](69-AI-Developer-Tooling/CLI-Tools.md)
 
 
 * [Ollama](https://github.com/ollama/ollama) — Run LLMs locally from CLI.
@@ -4092,9 +4113,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [llm](https://github.com/simonw/llm) — CLI for interacting with LLMs.
 * [mods](https://github.com/charmbracelet/mods) — AI in the command line.
 
-## Development Environments
+## 69.2 Development Environments
 
-> 📖 *Curated Learning Guide:* [Development Environments — Study Guide, Courses & Repositories](69-AI-Developer-Tooling/Development-Environments.md)
+> 📖 *Curated Learning Guide:* [69.2 Development Environments — Study Guide, Courses & Repositories](69-AI-Developer-Tooling/Development-Environments.md)
 
 
 * [Jupyter](https://github.com/jupyter/notebook) — Interactive computing notebooks.
@@ -4105,9 +4126,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Google Colab](https://github.com/googlecolab) — Free GPU-enabled notebooks.
 * [Marimo](https://github.com/marimo-team/marimo) — Reactive Python notebook.
 
-## AI App Frameworks
+## 69.3 AI App Frameworks
 
-> 📖 *Curated Learning Guide:* [AI App Frameworks — Study Guide, Courses & Repositories](69-AI-Developer-Tooling/AI-App-Frameworks.md)
+> 📖 *Curated Learning Guide:* [69.3 AI App Frameworks — Study Guide, Courses & Repositories](69-AI-Developer-Tooling/AI-App-Frameworks.md)
 
 
 * [Gradio](https://github.com/gradio-app/gradio) — Build and share ML demos.
@@ -4117,9 +4138,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Mesop](https://github.com/google/mesop) — Build web apps with Python by Google.
 * [NiceGUI](https://github.com/zauberzeug/nicegui) — Easy-to-use Python UI framework.
 
-## Configuration & Experiment Management
+## 69.4 Configuration & Experiment Management
 
-> 📖 *Curated Learning Guide:* [Configuration & Experiment Management — Study Guide, Courses & Repositories](69-AI-Developer-Tooling/Configuration-and-Experiment-Management.md)
+> 📖 *Curated Learning Guide:* [69.4 Configuration & Experiment Management — Study Guide, Courses & Repositories](69-AI-Developer-Tooling/Configuration-and-Experiment-Management.md)
 
 
 * [Hydra](https://github.com/hydra-ecosystem/hydra) — Application configuration management.
@@ -4128,18 +4149,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Prompt Engineering
+# 70. Prompt Engineering
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Prompt Engineering — Domain Overview & Roadmap**](70-Prompt-Engineering/README.md)
-> - [Prompt Libraries & Templates](70-Prompt-Engineering/Prompt-Libraries-and-Templates.md)
-> - [Prompt Optimization & AutoPrompt](70-Prompt-Engineering/Prompt-Optimization-and-AutoPrompt.md)
-> - [Prompt Security](70-Prompt-Engineering/Prompt-Security.md)
+> - [70.1 Prompt Libraries & Templates](70-Prompt-Engineering/Prompt-Libraries-and-Templates.md)
+> - [70.2 Prompt Optimization & AutoPrompt](70-Prompt-Engineering/Prompt-Optimization-and-AutoPrompt.md)
+> - [70.3 Prompt Security](70-Prompt-Engineering/Prompt-Security.md)
 
 
-## Prompt Libraries & Templates
+## 70.1 Prompt Libraries & Templates
 
-> 📖 *Curated Learning Guide:* [Prompt Libraries & Templates — Study Guide, Courses & Repositories](70-Prompt-Engineering/Prompt-Libraries-and-Templates.md)
+> 📖 *Curated Learning Guide:* [70.1 Prompt Libraries & Templates — Study Guide, Courses & Repositories](70-Prompt-Engineering/Prompt-Libraries-and-Templates.md)
 
 
 * [Promptfoo](https://github.com/promptfoo/promptfoo) — Test, evaluate, and red-team prompts.
@@ -4148,9 +4169,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [LangChain Hub](https://github.com/langchain-ai/langchain) — Community prompt hub.
 * [PromptPerfect](https://github.com/promptslab) — Prompt optimization tools.
 
-## Prompt Optimization & AutoPrompt
+## 70.2 Prompt Optimization & AutoPrompt
 
-> 📖 *Curated Learning Guide:* [Prompt Optimization & AutoPrompt — Study Guide, Courses & Repositories](70-Prompt-Engineering/Prompt-Optimization-and-AutoPrompt.md)
+> 📖 *Curated Learning Guide:* [70.2 Prompt Optimization & AutoPrompt — Study Guide, Courses & Repositories](70-Prompt-Engineering/Prompt-Optimization-and-AutoPrompt.md)
 
 
 * [DSPy](https://github.com/stanfordnlp/dspy) — Automatic prompt optimization.
@@ -4159,9 +4180,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [EvoPrompt](https://github.com/beeevita/EvoPrompt) — Evolutionary prompt optimization.
 * [APE](https://github.com/keirp/automatic_prompt_engineer) — Automatic prompt engineering.
 
-## Prompt Security
+## 70.3 Prompt Security
 
-> 📖 *Curated Learning Guide:* [Prompt Security — Study Guide, Courses & Repositories](70-Prompt-Engineering/Prompt-Security.md)
+> 📖 *Curated Learning Guide:* [70.3 Prompt Security — Study Guide, Courses & Repositories](70-Prompt-Engineering/Prompt-Security.md)
 
 
 * [Rebuff](https://github.com/protectai/rebuff) — Prompt injection detection.
@@ -4170,18 +4191,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Structured Generation
+# 71. Structured Generation
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Structured Generation — Domain Overview & Roadmap**](71-Structured-Generation/README.md)
-> - [Structured Output Frameworks](71-Structured-Generation/Structured-Output-Frameworks.md)
-> - [Grammar-Constrained Generation](71-Structured-Generation/Grammar-Constrained-Generation.md)
-> - [Schema Validation](71-Structured-Generation/Schema-Validation.md)
+> - [71.1 Structured Output Frameworks](71-Structured-Generation/Structured-Output-Frameworks.md)
+> - [71.2 Grammar-Constrained Generation](71-Structured-Generation/Grammar-Constrained-Generation.md)
+> - [71.3 Schema Validation](71-Structured-Generation/Schema-Validation.md)
 
 
-## Structured Output Frameworks
+## 71.1 Structured Output Frameworks
 
-> 📖 *Curated Learning Guide:* [Structured Output Frameworks — Study Guide, Courses & Repositories](71-Structured-Generation/Structured-Output-Frameworks.md)
+> 📖 *Curated Learning Guide:* [71.1 Structured Output Frameworks — Study Guide, Courses & Repositories](71-Structured-Generation/Structured-Output-Frameworks.md)
 
 
 * [Outlines](https://github.com/dottxt-ai/outlines) — Structured generation for LLMs.
@@ -4191,9 +4212,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Marvin](https://github.com/PrefectHQ/marvin) — Build AI applications with structured types.
 * [LMQL](https://github.com/eth-sri/lmql) — Query language for language models.
 
-## Grammar-Constrained Generation
+## 71.2 Grammar-Constrained Generation
 
-> 📖 *Curated Learning Guide:* [Grammar-Constrained Generation — Study Guide, Courses & Repositories](71-Structured-Generation/Grammar-Constrained-Generation.md)
+> 📖 *Curated Learning Guide:* [71.2 Grammar-Constrained Generation — Study Guide, Courses & Repositories](71-Structured-Generation/Grammar-Constrained-Generation.md)
 
 
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) — GBNF grammar-constrained generation.
@@ -4201,9 +4222,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [SGLang](https://github.com/sgl-project/sglang) — Structured generation language.
 * [vLLM](https://github.com/vllm-project/vllm) — Guided decoding support.
 
-## Schema Validation
+## 71.3 Schema Validation
 
-> 📖 *Curated Learning Guide:* [Schema Validation — Study Guide, Courses & Repositories](71-Structured-Generation/Schema-Validation.md)
+> 📖 *Curated Learning Guide:* [71.3 Schema Validation — Study Guide, Courses & Repositories](71-Structured-Generation/Schema-Validation.md)
 
 
 * [Pydantic](https://github.com/pydantic/pydantic) — Data validation with Python type hints.
@@ -4212,19 +4233,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Reasoning & Planning
+# 72. Reasoning & Planning
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Reasoning & Planning — Domain Overview & Roadmap**](72-Reasoning-and-Planning/README.md)
-> - [Reasoning Frameworks](72-Reasoning-and-Planning/Reasoning-Frameworks.md)
-> - [Planning & Task Decomposition](72-Reasoning-and-Planning/Planning-and-Task-Decomposition.md)
-> - [Logical Reasoning](72-Reasoning-and-Planning/Logical-Reasoning.md)
-> - [Math Reasoning](72-Reasoning-and-Planning/Math-Reasoning.md)
+> - [72.1 Reasoning Frameworks](72-Reasoning-and-Planning/Reasoning-Frameworks.md)
+> - [72.2 Planning & Task Decomposition](72-Reasoning-and-Planning/Planning-and-Task-Decomposition.md)
+> - [72.3 Logical Reasoning](72-Reasoning-and-Planning/Logical-Reasoning.md)
+> - [72.4 Math Reasoning](72-Reasoning-and-Planning/Math-Reasoning.md)
 
 
-## Reasoning Frameworks
+## 72.1 Reasoning Frameworks
 
-> 📖 *Curated Learning Guide:* [Reasoning Frameworks — Study Guide, Courses & Repositories](72-Reasoning-and-Planning/Reasoning-Frameworks.md)
+> 📖 *Curated Learning Guide:* [72.1 Reasoning Frameworks — Study Guide, Courses & Repositories](72-Reasoning-and-Planning/Reasoning-Frameworks.md)
 
 
 * [Open-R1](https://github.com/huggingface/open-r1) — Open reasoning model research.
@@ -4232,9 +4253,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Marco-o1](https://github.com/AIDC-AI/Marco-o1) — Open reasoning with chain-of-thought.
 * [ReasonGraph](https://github.com/TencentCloudADP/youtu-graphrag) — Graph-based reasoning.
 
-## Planning & Task Decomposition
+## 72.2 Planning & Task Decomposition
 
-> 📖 *Curated Learning Guide:* [Planning & Task Decomposition — Study Guide, Courses & Repositories](72-Reasoning-and-Planning/Planning-and-Task-Decomposition.md)
+> 📖 *Curated Learning Guide:* [72.2 Planning & Task Decomposition — Study Guide, Courses & Repositories](72-Reasoning-and-Planning/Planning-and-Task-Decomposition.md)
 
 
 * [SayCan](https://github.com/google-research/google-research) — Grounded language for robot planning.
@@ -4243,17 +4264,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [ToolLLM](https://github.com/OpenBMB/ToolBench) — Facilitating tool-use planning.
 * [LATS](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Language agent tree search for planning.
 
-## Logical Reasoning
+## 72.3 Logical Reasoning
 
-> 📖 *Curated Learning Guide:* [Logical Reasoning — Study Guide, Courses & Repositories](72-Reasoning-and-Planning/Logical-Reasoning.md)
+> 📖 *Curated Learning Guide:* [72.3 Logical Reasoning — Study Guide, Courses & Repositories](72-Reasoning-and-Planning/Logical-Reasoning.md)
 
 
 * [FOLIO](https://github.com/Yale-LILY/FOLIO) — Natural language reasoning benchmark.
 * [PrOntoQA](https://github.com/asaparov/prontoqa) — Deductive reasoning dataset.
 
-## Math Reasoning
+## 72.4 Math Reasoning
 
-> 📖 *Curated Learning Guide:* [Math Reasoning — Study Guide, Courses & Repositories](72-Reasoning-and-Planning/Math-Reasoning.md)
+> 📖 *Curated Learning Guide:* [72.4 Math Reasoning — Study Guide, Courses & Repositories](72-Reasoning-and-Planning/Math-Reasoning.md)
 
 
 * [MathVista](https://github.com/lupantech/MathVista) — Mathematical reasoning in visual contexts.
@@ -4262,18 +4283,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Model Compression
+# 73. Model Compression
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Model Compression — Domain Overview & Roadmap**](73-Model-Compression/README.md)
-> - [Pruning](73-Model-Compression/Pruning.md)
-> - [Distillation](73-Model-Compression/Distillation.md)
-> - [Efficient Model Architectures](73-Model-Compression/Efficient-Model-Architectures.md)
+> - [73.1 Pruning](73-Model-Compression/Pruning.md)
+> - [73.2 Distillation](73-Model-Compression/Distillation.md)
+> - [73.3 Efficient Model Architectures](73-Model-Compression/Efficient-Model-Architectures.md)
 
 
-## Pruning
+## 73.1 Pruning
 
-> 📖 *Curated Learning Guide:* [Pruning — Study Guide, Courses & Repositories](73-Model-Compression/Pruning.md)
+> 📖 *Curated Learning Guide:* [73.1 Pruning — Study Guide, Courses & Repositories](73-Model-Compression/Pruning.md)
 
 
 * [Torch-Pruning](https://github.com/VainF/Torch-Pruning) — Structural pruning for neural networks.
@@ -4282,9 +4303,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Wanda](https://github.com/locuslab/wanda) — Pruning LLMs by weights and activations.
 * [SliceGPT](https://github.com/microsoft/TransformerCompression) — Compress LLMs via sparse factorization.
 
-## Distillation
+## 73.2 Distillation
 
-> 📖 *Curated Learning Guide:* [Distillation — Study Guide, Courses & Repositories](73-Model-Compression/Distillation.md)
+> 📖 *Curated Learning Guide:* [73.2 Distillation — Study Guide, Courses & Repositories](73-Model-Compression/Distillation.md)
 
 
 * [TextBrewer](https://github.com/airaria/TextBrewer) — Knowledge distillation for NLP.
@@ -4292,9 +4313,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model) — Two-stage transformer distillation.
 * [MiniLM](https://github.com/microsoft/unilm) — Compressed language model distillation.
 
-## Efficient Model Architectures
+## 73.3 Efficient Model Architectures
 
-> 📖 *Curated Learning Guide:* [Efficient Model Architectures — Study Guide, Courses & Repositories](73-Model-Compression/Efficient-Model-Architectures.md)
+> 📖 *Curated Learning Guide:* [73.3 Efficient Model Architectures — Study Guide, Courses & Repositories](73-Model-Compression/Efficient-Model-Architectures.md)
 
 
 * [MobileNet](https://github.com/tensorflow/models) — Efficient mobile vision models.
@@ -4306,19 +4327,19 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Efficient AI
+# 74. Efficient AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Efficient AI — Domain Overview & Roadmap**](74-Efficient-AI/README.md)
-> - [Efficient Attention](74-Efficient-AI/Efficient-Attention.md)
-> - [Mixture of Experts](74-Efficient-AI/Mixture-of-Experts.md)
-> - [Speculative Decoding](74-Efficient-AI/Speculative-Decoding.md)
-> - [KV Cache Optimization](74-Efficient-AI/KV-Cache-Optimization.md)
+> - [74.1 Efficient Attention](74-Efficient-AI/Efficient-Attention.md)
+> - [74.2 Mixture of Experts](74-Efficient-AI/Mixture-of-Experts.md)
+> - [74.3 Speculative Decoding](74-Efficient-AI/Speculative-Decoding.md)
+> - [74.4 KV Cache Optimization](74-Efficient-AI/KV-Cache-Optimization.md)
 
 
-## Efficient Attention
+## 74.1 Efficient Attention
 
-> 📖 *Curated Learning Guide:* [Efficient Attention — Study Guide, Courses & Repositories](74-Efficient-AI/Efficient-Attention.md)
+> 📖 *Curated Learning Guide:* [74.1 Efficient Attention — Study Guide, Courses & Repositories](74-Efficient-AI/Efficient-Attention.md)
 
 
 * [FlashAttention](https://github.com/Dao-AILab/flash-attention) — IO-aware exact attention algorithm.
@@ -4328,9 +4349,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [PagedAttention](https://github.com/vllm-project/vllm) — Memory-efficient attention for serving.
 * [Ring Attention](https://github.com/lhao499/RingAttention) — Blockwise attention for near-infinite context.
 
-## Mixture of Experts
+## 74.2 Mixture of Experts
 
-> 📖 *Curated Learning Guide:* [Mixture of Experts — Study Guide, Courses & Repositories](74-Efficient-AI/Mixture-of-Experts.md)
+> 📖 *Curated Learning Guide:* [74.2 Mixture of Experts — Study Guide, Courses & Repositories](74-Efficient-AI/Mixture-of-Experts.md)
 
 
 * [DeepSpeed-MoE](https://github.com/deepspeedai/DeepSpeed) — Mixture-of-experts infrastructure.
@@ -4338,9 +4359,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [OpenMoE](https://github.com/XueFuzhao/OpenMoE) — Open-source MoE language models.
 * [Mixtral](https://github.com/mistralai/mistral-inference) — Sparse MoE by Mistral AI.
 
-## Speculative Decoding
+## 74.3 Speculative Decoding
 
-> 📖 *Curated Learning Guide:* [Speculative Decoding — Study Guide, Courses & Repositories](74-Efficient-AI/Speculative-Decoding.md)
+> 📖 *Curated Learning Guide:* [74.3 Speculative Decoding — Study Guide, Courses & Repositories](74-Efficient-AI/Speculative-Decoding.md)
 
 
 * [vLLM](https://github.com/vllm-project/vllm) — Built-in speculative decoding.
@@ -4349,9 +4370,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [EAGLE](https://github.com/SafeAILab/EAGLE) — Speculative sampling with feature-level autoregression.
 * [SpecInfer](https://github.com/flexflow/FlexFlow) — Speculative inference by FlexFlow.
 
-## KV Cache Optimization
+## 74.4 KV Cache Optimization
 
-> 📖 *Curated Learning Guide:* [KV Cache Optimization — Study Guide, Courses & Repositories](74-Efficient-AI/KV-Cache-Optimization.md)
+> 📖 *Curated Learning Guide:* [74.4 KV Cache Optimization — Study Guide, Courses & Repositories](74-Efficient-AI/KV-Cache-Optimization.md)
 
 
 * [vLLM](https://github.com/vllm-project/vllm) — PagedAttention for efficient KV cache.
@@ -4361,17 +4382,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Sustainable AI
+# 75. Sustainable AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Sustainable AI — Domain Overview & Roadmap**](75-Sustainable-AI/README.md)
-> - [Carbon & Energy Tracking](75-Sustainable-AI/Carbon-and-Energy-Tracking.md)
-> - [Efficient Computing](75-Sustainable-AI/Efficient-Computing.md)
+> - [75.1 Carbon & Energy Tracking](75-Sustainable-AI/Carbon-and-Energy-Tracking.md)
+> - [75.2 Efficient Computing](75-Sustainable-AI/Efficient-Computing.md)
 
 
-## Carbon & Energy Tracking
+## 75.1 Carbon & Energy Tracking
 
-> 📖 *Curated Learning Guide:* [Carbon & Energy Tracking — Study Guide, Courses & Repositories](75-Sustainable-AI/Carbon-and-Energy-Tracking.md)
+> 📖 *Curated Learning Guide:* [75.1 Carbon & Energy Tracking — Study Guide, Courses & Repositories](75-Sustainable-AI/Carbon-and-Energy-Tracking.md)
 
 
 * [CodeCarbon](https://github.com/mlco2/codecarbon) — Track carbon emissions from ML.
@@ -4380,9 +4401,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) — Carbon emission tracking for ML.
 * [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) — Track compute impact of experiments.
 
-## Efficient Computing
+## 75.2 Efficient Computing
 
-> 📖 *Curated Learning Guide:* [Efficient Computing — Study Guide, Courses & Repositories](75-Sustainable-AI/Efficient-Computing.md)
+> 📖 *Curated Learning Guide:* [75.2 Efficient Computing — Study Guide, Courses & Repositories](75-Sustainable-AI/Efficient-Computing.md)
 
 
 * [Once-for-All](https://github.com/mit-han-lab/once-for-all) — Train one network for multiple devices.
@@ -4391,18 +4412,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Responsible AI
+# 76. Responsible AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Responsible AI — Domain Overview & Roadmap**](76-Responsible-AI/README.md)
-> - [Fairness & Bias](76-Responsible-AI/Fairness-and-Bias.md)
-> - [Privacy](76-Responsible-AI/Privacy.md)
-> - [AI Ethics & Governance](76-Responsible-AI/AI-Ethics-and-Governance.md)
+> - [76.1 Fairness & Bias](76-Responsible-AI/Fairness-and-Bias.md)
+> - [76.2 Privacy](76-Responsible-AI/Privacy.md)
+> - [76.3 AI Ethics & Governance](76-Responsible-AI/AI-Ethics-and-Governance.md)
 
 
-## Fairness & Bias
+## 76.1 Fairness & Bias
 
-> 📖 *Curated Learning Guide:* [Fairness & Bias — Study Guide, Courses & Repositories](76-Responsible-AI/Fairness-and-Bias.md)
+> 📖 *Curated Learning Guide:* [76.1 Fairness & Bias — Study Guide, Courses & Repositories](76-Responsible-AI/Fairness-and-Bias.md)
 
 
 * [Fairlearn](https://github.com/fairlearn/fairlearn) — Fairness assessment and mitigation.
@@ -4411,9 +4432,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [What-If Tool](https://github.com/PAIR-code/what-if-tool) — Visual probing of ML models.
 * [FairPy](https://github.com/erelsgl/fairpy) — Fair division algorithms.
 
-## Privacy
+## 76.2 Privacy
 
-> 📖 *Curated Learning Guide:* [Privacy — Study Guide, Courses & Repositories](76-Responsible-AI/Privacy.md)
+> 📖 *Curated Learning Guide:* [76.2 Privacy — Study Guide, Courses & Repositories](76-Responsible-AI/Privacy.md)
 
 
 * [Opacus](https://github.com/pytorch/opacus) — Differential privacy for PyTorch training.
@@ -4421,9 +4442,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [dp-transformers](https://github.com/microsoft/dp-transformers) — DP fine-tuning of transformers.
 * [PySyft](https://github.com/OpenMined/PySyft) — Private deep learning.
 
-## AI Ethics & Governance
+## 76.3 AI Ethics & Governance
 
-> 📖 *Curated Learning Guide:* [AI Ethics & Governance — Study Guide, Courses & Repositories](76-Responsible-AI/AI-Ethics-and-Governance.md)
+> 📖 *Curated Learning Guide:* [76.3 AI Ethics & Governance — Study Guide, Courses & Repositories](76-Responsible-AI/AI-Ethics-and-Governance.md)
 
 
 * [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) — Microsoft's responsible AI suite.
@@ -4432,18 +4453,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Privacy-Preserving AI
+# 77. Privacy-Preserving AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Privacy-Preserving AI — Domain Overview & Roadmap**](77-Privacy-Preserving-AI/README.md)
-> - [Federated Learning](77-Privacy-Preserving-AI/Federated-Learning.md)
-> - [Differential Privacy](77-Privacy-Preserving-AI/Differential-Privacy.md)
-> - [Secure Computation](77-Privacy-Preserving-AI/Secure-Computation.md)
+> - [77.1 Federated Learning](77-Privacy-Preserving-AI/Federated-Learning.md)
+> - [77.2 Differential Privacy](77-Privacy-Preserving-AI/Differential-Privacy.md)
+> - [77.3 Secure Computation](77-Privacy-Preserving-AI/Secure-Computation.md)
 
 
-## Federated Learning
+## 77.1 Federated Learning
 
-> 📖 *Curated Learning Guide:* [Federated Learning — Study Guide, Courses & Repositories](77-Privacy-Preserving-AI/Federated-Learning.md)
+> 📖 *Curated Learning Guide:* [77.1 Federated Learning — Study Guide, Courses & Repositories](77-Privacy-Preserving-AI/Federated-Learning.md)
 
 
 * [Flower](https://github.com/adap/flower) — Federated learning framework.
@@ -4453,9 +4474,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [NVFlare](https://github.com/NVIDIA/NVFlare) — NVIDIA's federated learning toolkit.
 * [FedScale](https://github.com/SymbioticLab/FedScale) — Scalable federated learning benchmarks.
 
-## Differential Privacy
+## 77.2 Differential Privacy
 
-> 📖 *Curated Learning Guide:* [Differential Privacy — Study Guide, Courses & Repositories](77-Privacy-Preserving-AI/Differential-Privacy.md)
+> 📖 *Curated Learning Guide:* [77.2 Differential Privacy — Study Guide, Courses & Repositories](77-Privacy-Preserving-AI/Differential-Privacy.md)
 
 
 * [Opacus](https://github.com/pytorch/opacus) — DP training for PyTorch models.
@@ -4464,9 +4485,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [dp-transformers](https://github.com/microsoft/dp-transformers) — DP fine-tuning of language models.
 * [diffprivlib](https://github.com/IBM/differential-privacy-library) — General-purpose DP library.
 
-## Secure Computation
+## 77.3 Secure Computation
 
-> 📖 *Curated Learning Guide:* [Secure Computation — Study Guide, Courses & Repositories](77-Privacy-Preserving-AI/Secure-Computation.md)
+> 📖 *Curated Learning Guide:* [77.3 Secure Computation — Study Guide, Courses & Repositories](77-Privacy-Preserving-AI/Secure-Computation.md)
 
 
 * [CrypTen](https://github.com/facebookresearch/CrypTen) — Privacy-preserving ML with secure computation.
@@ -4477,18 +4498,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# AI Diagnostics
+# 78. AI Diagnostics
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **AI Diagnostics — Domain Overview & Roadmap**](78-AI-Diagnostics/README.md)
-> - [Model Debugging](78-AI-Diagnostics/Model-Debugging.md)
-> - [Data Debugging](78-AI-Diagnostics/Data-Debugging.md)
-> - [Model Monitoring & Drift Detection](78-AI-Diagnostics/Model-Monitoring-and-Drift-Detection.md)
+> - [78.1 Model Debugging](78-AI-Diagnostics/Model-Debugging.md)
+> - [78.2 Data Debugging](78-AI-Diagnostics/Data-Debugging.md)
+> - [78.3 Model Monitoring & Drift Detection](78-AI-Diagnostics/Model-Monitoring-and-Drift-Detection.md)
 
 
-## Model Debugging
+## 78.1 Model Debugging
 
-> 📖 *Curated Learning Guide:* [Model Debugging — Study Guide, Courses & Repositories](78-AI-Diagnostics/Model-Debugging.md)
+> 📖 *Curated Learning Guide:* [78.1 Model Debugging — Study Guide, Courses & Repositories](78-AI-Diagnostics/Model-Debugging.md)
 
 
 * [Captum](https://github.com/pytorch/captum) — Model interpretability for PyTorch.
@@ -4497,9 +4518,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Deepchecks](https://github.com/deepchecks/deepchecks) — Testing suite for ML models and data.
 * [Giskard](https://github.com/Giskard-AI/giskard) — Testing framework for AI models.
 
-## Data Debugging
+## 78.2 Data Debugging
 
-> 📖 *Curated Learning Guide:* [Data Debugging — Study Guide, Courses & Repositories](78-AI-Diagnostics/Data-Debugging.md)
+> 📖 *Curated Learning Guide:* [78.2 Data Debugging — Study Guide, Courses & Repositories](78-AI-Diagnostics/Data-Debugging.md)
 
 
 * [Great Expectations](https://github.com/great-expectations/great_expectations) — Data quality and validation.
@@ -4508,9 +4529,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Pandera](https://github.com/unionai-oss/pandera) — DataFrame validation.
 * [Whylogs](https://github.com/whylabs/whylogs) — Data logging and profiling.
 
-## Model Monitoring & Drift Detection
+## 78.3 Model Monitoring & Drift Detection
 
-> 📖 *Curated Learning Guide:* [Model Monitoring & Drift Detection — Study Guide, Courses & Repositories](78-AI-Diagnostics/Model-Monitoring-and-Drift-Detection.md)
+> 📖 *Curated Learning Guide:* [78.3 Model Monitoring & Drift Detection — Study Guide, Courses & Repositories](78-AI-Diagnostics/Model-Monitoring-and-Drift-Detection.md)
 
 
 * [Evidently](https://github.com/evidentlyai/evidently) — ML monitoring and testing.
@@ -4520,17 +4541,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Neuro-Symbolic AI
+# 79. Neuro-Symbolic AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Neuro-Symbolic AI — Domain Overview & Roadmap**](79-Neuro-Symbolic-AI/README.md)
-> - [Hybrid Architectures](79-Neuro-Symbolic-AI/Hybrid-Architectures.md)
-> - [Symbolic AI](79-Neuro-Symbolic-AI/Symbolic-AI.md)
+> - [79.1 Hybrid Architectures](79-Neuro-Symbolic-AI/Hybrid-Architectures.md)
+> - [79.2 Symbolic AI](79-Neuro-Symbolic-AI/Symbolic-AI.md)
 
 
-## Hybrid Architectures
+## 79.1 Hybrid Architectures
 
-> 📖 *Curated Learning Guide:* [Hybrid Architectures — Study Guide, Courses & Repositories](79-Neuro-Symbolic-AI/Hybrid-Architectures.md)
+> 📖 *Curated Learning Guide:* [79.1 Hybrid Architectures — Study Guide, Courses & Repositories](79-Neuro-Symbolic-AI/Hybrid-Architectures.md)
 
 
 * [LNN](https://github.com/IBM/LNN) — Logical neural networks by IBM.
@@ -4538,9 +4559,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [NeuralLog](https://github.com/neurallog) — Differentiable logic programming.
 * [Logic Tensor Networks](https://github.com/logictensornetworks/LTNtorch) — Real logic in neural networks.
 
-## Symbolic AI
+## 79.2 Symbolic AI
 
-> 📖 *Curated Learning Guide:* [Symbolic AI — Study Guide, Courses & Repositories](79-Neuro-Symbolic-AI/Symbolic-AI.md)
+> 📖 *Curated Learning Guide:* [79.2 Symbolic AI — Study Guide, Courses & Repositories](79-Neuro-Symbolic-AI/Symbolic-AI.md)
 
 
 * [PrologAI](https://github.com/SWI-Prolog/swipl-devel) — Prolog for AI reasoning.
@@ -4549,17 +4570,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Causal AI
+# 80. Causal AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Causal AI — Domain Overview & Roadmap**](80-Causal-AI/README.md)
-> - [Causal Inference](80-Causal-AI/Causal-Inference.md)
-> - [Causal Discovery](80-Causal-AI/Causal-Discovery.md)
+> - [80.1 Causal Inference](80-Causal-AI/Causal-Inference.md)
+> - [80.2 Causal Discovery](80-Causal-AI/Causal-Discovery.md)
 
 
-## Causal Inference
+## 80.1 Causal Inference
 
-> 📖 *Curated Learning Guide:* [Causal Inference — Study Guide, Courses & Repositories](80-Causal-AI/Causal-Inference.md)
+> 📖 *Curated Learning Guide:* [80.1 Causal Inference — Study Guide, Courses & Repositories](80-Causal-AI/Causal-Inference.md)
 
 
 * [DoWhy](https://github.com/py-why/dowhy) — Causal inference library by Microsoft.
@@ -4568,9 +4589,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [pgmpy](https://github.com/pgmpy/pgmpy) — Probabilistic graphical models.
 * [CausalNex](https://github.com/mckinsey/causalnex) — Bayesian networks for causal reasoning.
 
-## Causal Discovery
+## 80.2 Causal Discovery
 
-> 📖 *Curated Learning Guide:* [Causal Discovery — Study Guide, Courses & Repositories](80-Causal-AI/Causal-Discovery.md)
+> 📖 *Curated Learning Guide:* [80.2 Causal Discovery — Study Guide, Courses & Repositories](80-Causal-AI/Causal-Discovery.md)
 
 
 * [gCastle](https://github.com/huawei-noah/trustworthyAI) — Causal structure learning toolbox.
@@ -4580,17 +4601,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Simulation & Digital Twins
+# 81. Simulation & Digital Twins
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Simulation & Digital Twins — Domain Overview & Roadmap**](81-Simulation-and-Digital-Twins/README.md)
-> - [Simulation Frameworks](81-Simulation-and-Digital-Twins/Simulation-Frameworks.md)
-> - [Digital Twin Platforms](81-Simulation-and-Digital-Twins/Digital-Twin-Platforms.md)
+> - [81.1 Simulation Frameworks](81-Simulation-and-Digital-Twins/Simulation-Frameworks.md)
+> - [81.2 Digital Twin Platforms](81-Simulation-and-Digital-Twins/Digital-Twin-Platforms.md)
 
 
-## Simulation Frameworks
+## 81.1 Simulation Frameworks
 
-> 📖 *Curated Learning Guide:* [Simulation Frameworks — Study Guide, Courses & Repositories](81-Simulation-and-Digital-Twins/Simulation-Frameworks.md)
+> 📖 *Curated Learning Guide:* [81.1 Simulation Frameworks — Study Guide, Courses & Repositories](81-Simulation-and-Digital-Twins/Simulation-Frameworks.md)
 
 
 * [MuJoCo](https://github.com/google-deepmind/mujoco) — High-performance physics engine.
@@ -4601,9 +4622,9 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [Brax](https://github.com/google/brax) — Differentiable physics engine in JAX.
 * [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) — Generative simulation world engine.
 
-## Digital Twin Platforms
+## 81.2 Digital Twin Platforms
 
-> 📖 *Curated Learning Guide:* [Digital Twin Platforms — Study Guide, Courses & Repositories](81-Simulation-and-Digital-Twins/Digital-Twin-Platforms.md)
+> 📖 *Curated Learning Guide:* [81.2 Digital Twin Platforms — Study Guide, Courses & Repositories](81-Simulation-and-Digital-Twins/Digital-Twin-Platforms.md)
 
 
 * [NVIDIA Omniverse](https://github.com/NVIDIA-Omniverse) — Digital twin and simulation platform.
@@ -4612,18 +4633,18 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 
 ---
 
-# Evolutionary & Genetic AI
+# 82. Evolutionary & Genetic AI
 
 > 📚 **Curated Learning Guides & Roadmap:**
 > - [📂 **Evolutionary & Genetic AI — Domain Overview & Roadmap**](82-Evolutionary-and-Genetic-AI/README.md)
-> - [Evolutionary Algorithms](82-Evolutionary-and-Genetic-AI/Evolutionary-Algorithms.md)
-> - [Quality Diversity](82-Evolutionary-and-Genetic-AI/Quality-Diversity.md)
-> - [Neuroevolution](82-Evolutionary-and-Genetic-AI/Neuroevolution.md)
+> - [82.1 Evolutionary Algorithms](82-Evolutionary-and-Genetic-AI/Evolutionary-Algorithms.md)
+> - [82.2 Quality Diversity](82-Evolutionary-and-Genetic-AI/Quality-Diversity.md)
+> - [82.3 Neuroevolution](82-Evolutionary-and-Genetic-AI/Neuroevolution.md)
 
 
-## Evolutionary Algorithms
+## 82.1 Evolutionary Algorithms
 
-> 📖 *Curated Learning Guide:* [Evolutionary Algorithms — Study Guide, Courses & Repositories](82-Evolutionary-and-Genetic-AI/Evolutionary-Algorithms.md)
+> 📖 *Curated Learning Guide:* [82.1 Evolutionary Algorithms — Study Guide, Courses & Repositories](82-Evolutionary-and-Genetic-AI/Evolutionary-Algorithms.md)
 
 
 * [DEAP](https://github.com/DEAP/deap) — Distributed evolutionary algorithms in Python.
@@ -4632,17 +4653,17 @@ Not every project labeled "AI" belongs here. This index focuses exclusively on b
 * [EvoTorch](https://github.com/nnaisense/evotorch) — Evolutionary computation in PyTorch.
 * [OpenELM](https://github.com/CarperAI/OpenELM) — Evolutionary large models.
 
-## Quality Diversity
+## 82.2 Quality Diversity
 
-> 📖 *Curated Learning Guide:* [Quality Diversity — Study Guide, Courses & Repositories](82-Evolutionary-and-Genetic-AI/Quality-Diversity.md)
+> 📖 *Curated Learning Guide:* [82.2 Quality Diversity — Study Guide, Courses & Repositories](82-Evolutionary-and-Genetic-AI/Quality-Diversity.md)
 
 
 * [QDax](https://github.com/adaptive-intelligent-robotics/QDax) — Quality-diversity algorithms in JAX.
 * [pyribs](https://github.com/icaros-usc/pyribs) — Quality diversity optimization library.
 
-## Neuroevolution
+## 82.3 Neuroevolution
 
-> 📖 *Curated Learning Guide:* [Neuroevolution — Study Guide, Courses & Repositories](82-Evolutionary-and-Genetic-AI/Neuroevolution.md)
+> 📖 *Curated Learning Guide:* [82.3 Neuroevolution — Study Guide, Courses & Repositories](82-Evolutionary-and-Genetic-AI/Neuroevolution.md)
 
 
 * [NEAT-Python](https://github.com/CodeReclaimers/neat-python) — NEAT algorithm implementation.

@@ -57,6 +57,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/TF04_Sequences-Time-Series-and-Prediction](https://github.com/mohd-faizy/TF04_Sequences-Time-Series-and-Prediction) — Time series forecasting and sequential prediction pipelines using TensorFlow, RNNs, LSTMs, and ConvNets.
 - [Darts](https://github.com/unit8co/darts) — Time-series forecasting library.
 - [sktime](https://github.com/sktime/sktime) — Unified time-series machine learning framework.
 - [GluonTS](https://github.com/awslabs/gluonts) — Probabilistic time-series modeling.

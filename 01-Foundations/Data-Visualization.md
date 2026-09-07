@@ -64,6 +64,8 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/test_omniEDA](https://github.com/mohd-faizy/test_omniEDA) — Benchmark and demonstration repository for automated multi-dataset visual and statistical analysis.
+- [mohd-faizy/omni-eda](https://github.com/mohd-faizy/omni-eda) — Fully automated, production-grade Exploratory Data Analysis (EDA) for pandas DataFrames generating rich statistical and visual reports.
 - [Matplotlib](https://github.com/matplotlib/matplotlib) — Comprehensive 2D plotting library.
 - [Seaborn](https://github.com/mwaskom/seaborn) — Statistical data visualization.
 - [Plotly](https://github.com/plotly/plotly.py) — Interactive graphing library.

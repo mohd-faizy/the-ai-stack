@@ -51,6 +51,7 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/TF03_Natural-Language-Processing-in-TensorFlow](https://github.com/mohd-faizy/TF03_Natural-Language-Processing-in-TensorFlow) — Text tokenization, subword encodings, padding sequences, and embedding layers for recurrent neural networks.
 - [Tokenizers](https://github.com/huggingface/tokenizers) — Fast tokenization implementations.
 - [SentencePiece](https://github.com/google/sentencepiece) — Unsupervised text tokenizer.
 - [tiktoken](https://github.com/openai/tiktoken) — Fast BPE tokenizer for OpenAI models.

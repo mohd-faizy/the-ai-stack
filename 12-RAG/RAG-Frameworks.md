@@ -67,6 +67,8 @@
 
 ### 💻 GitHub / Implementations
 
+- [mohd-faizy/RAG-DeepSeek](https://github.com/mohd-faizy/RAG-DeepSeek) — Local privacy-preserving RAG pipeline leveraging DeepSeek-R1 (1.5B), FAISS vector search, Ollama, Hugging Face, and Streamlit.
+- [mohd-faizy/RAG-Design-Patterns](https://github.com/mohd-faizy/RAG-Design-Patterns) — Production-ready implementations of 20 RAG architecture patterns using Python & LangChain (naive, multi-query, routing, self-RAG, agentic RAG).
 - [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for LLM applications.
 - [Haystack](https://github.com/deepset-ai/haystack) — AI application framework for RAG.
 - [RAGFlow](https://github.com/infiniflow/ragflow) — Deep document understanding RAG engine.
@@ -78,6 +80,8 @@
 
 ### 🛠️ Projects
 
+- [Local Enterprise Document Q&A with DeepSeek-R1 & FAISS](https://github.com/mohd-faizy/RAG-DeepSeek) — Fully local, zero-API-cost PDF search and question-answering assistant running entirely on consumer hardware.
+- [20 Production RAG Architecture Patterns Suite](https://github.com/mohd-faizy/RAG-Design-Patterns) — Comprehensive reference implementation benchmark testing 20 distinct retrieval patterns from sentence-window to agentic routing.
 - [Enterprise Multi-Document Financial Research Assistant](https://docs.llamaindex.ai/en/stable/use_cases/q_and_a/) — Build an agentic RAG system that routes queries between 10-K filings, earnings call transcripts, and live stock APIs.
 
 ## 🧭 Recommended Learning Path
