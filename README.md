@@ -2,6 +2,8 @@
 
 ![The AI Stack](_assets/banner.png)
 
+---
+
 <p align="center">
   <a href="https://github.com/mohd-faizy/the-ai-stack/stargazers"><img src="https://img.shields.io/github/stars/mohd-faizy/the-ai-stack?style=for-the-badge&logo=github&color=0969da" alt="Stars"></a>
   <a href="https://github.com/mohd-faizy/the-ai-stack/network/members"><img src="https://img.shields.io/github/forks/mohd-faizy/the-ai-stack?style=for-the-badge&logo=github&color=0969da" alt="Forks"></a>
@@ -11,7 +13,8 @@
   <a href="https://github.com/mohd-faizy/the-ai-stack/commits/main"><img src="https://img.shields.io/github/last-commit/mohd-faizy/the-ai-stack?style=for-the-badge&logo=git&color=d08770" alt="Last Commit"></a>
 </p>
 
-A rigorously curated directory of foundational, production-grade, and breakthrough open-source repositories spanning Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, LLMs, RAG, Agentic AI, Robotics, and Systems Research.
+
+A rigorously curated directory of foundational, production-grade, and breakthrough open-source repositories spanning `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, `Generative AI`,`LLMs`,`RAG`, `Agentic AI`, `Robotics`, and Systems Research.
 
 ---
 
@@ -4805,3 +4808,17 @@ It helps others discover the collection too.
 This list is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license (see [LICENSE](LICENSE)).
 
 Individual repositories listed here remain under their respective licenses.
+
+---
+
+## 🔗 Connect with me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/F4izy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-faizy/)
+[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-1E5397?style=for-the-badge&logo=stack-exchange&logoColor=white)](https://ai.stackexchange.com/users/36737/faizy)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohd-faizy)
+
+</div>
+
